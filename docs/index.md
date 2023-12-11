@@ -2262,6 +2262,11 @@ layout: default
 |**2023-10-23**|**Vicinal Feature Statistics Augmentation for Federated 3D Medical Volume Segmentation**|Yongsong Huang et.al.|[2310.15371](http://arxiv.org/abs/2310.15371)|null|
 |**2023-10-09**|**High Accuracy and Cost-Saving Active Learning 3D WD-UNet for Airway Segmentation**|Shiyi Wang et.al.|[2310.05638](http://arxiv.org/abs/2310.05638)|null|
 |**2023-11-06**|**Towards Robust Cardiac Segmentation using Graph Convolutional Networks**|Gilles Van De Vyver et.al.|[2310.01210](http://arxiv.org/abs/2310.01210)|**[link](https://github.com/gillesvntnu/gcn_multistructure)**|
+|**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
+|**2023-11-23**|**SAM3D: Segment Anything Model in Volumetric Medical Images**|Nhat-Tan Bui et.al.|[2309.03493](http://arxiv.org/abs/2309.03493)|**[link](https://github.com/uark-aicv/sam3d)**|
+|**2023-08-31**|**Beyond Self-Attention: Deformable Large Kernel Attention for Medical Image Segmentation**|Reza Azad et.al.|[2309.00121](http://arxiv.org/abs/2309.00121)|**[link](https://github.com/xmindflow/deformableLKA)**|
+|**2023-11-17**|**CATS v2: Hybrid encoders for robust medical segmentation**|Hao Li et.al.|[2308.06377](http://arxiv.org/abs/2308.06377)|**[link](https://github.com/haoli12345/cats)**|
+|**2023-08-10**|**From CNN to Transformer: A Review of Medical Image Segmentation Models**|Wenjian Yao et.al.|[2308.05305](http://arxiv.org/abs/2308.05305)|null|
 
 ## diffusion model
 
@@ -2287,6 +2292,11 @@ layout: default
 |**2023-03-31**|**Effect of interpolation kernels and grid refinement on two way-coupled point-particle simulations**|Nathan A. Keane et.al.|[2303.17756](http://arxiv.org/abs/2303.17756)|null|
 |**2023-02-03**|**The nature of dynamic local order in CH $_3$NH$_3$PbI$_3$ and CH$_3$NH$_3$PbBr$_3$**|Nicholas Weadock et.al.|[2302.01559](http://arxiv.org/abs/2302.01559)|null|
 |**2023-03-03**|**Imitating Human Behaviour with Diffusion Models**|Tim Pearce et.al.|[2301.10677](http://arxiv.org/abs/2301.10677)|**[link](https://github.com/microsoft/imitating-human-behaviour-w-diffusion)**|
+|**2023-03-13**|**BICEP / Keck XVI: Characterizing Dust Polarization through Correlations with Neutral Hydrogen**|BICEP/Keck Collaboration et.al.|[2210.05684](http://arxiv.org/abs/2210.05684)|**[link](https://github.com/seclark/RHT)**|
+|**2022-09-11**|**Influence Maximization (IM) in Complex Networks with Limited Visibility Using Statistical Methods**|Saeid Ghafouri et.al.|[2208.13166](http://arxiv.org/abs/2208.13166)|null|
+|**2022-01-31**|**Mitigating the effects of particle background on the Athena Wide-Field Imager**|Eric D. Miller et.al.|[2202.00064](http://arxiv.org/abs/2202.00064)|null|
+|**2021-10-31**|**Role of Thermal and Non-thermal Processes in the ISM of Magellanic Clouds**|H. Hassani et.al.|[2111.00583](http://arxiv.org/abs/2111.00583)|null|
+|**2023-04-14**|**Variational Diffusion Models**|Diederik P. Kingma et.al.|[2107.00630](http://arxiv.org/abs/2107.00630)|**[link](https://github.com/google-research/vdm)**|
 
 ## semantic segmentation
 
@@ -2299,9 +2309,14 @@ layout: default
 |**2023-12-07**|**Fine-tune vision foundation model for crack segmentation in civil infrastructures**|Kang Ge et.al.|[2312.04233](http://arxiv.org/abs/2312.04233)|null|
 |**2023-12-07**|**Augmentation-Free Dense Contrastive Knowledge Distillation for Efficient Semantic Segmentation**|Jiawei Fan et.al.|[2312.04168](http://arxiv.org/abs/2312.04168)|**[link](https://github.com/osvai/af-dcd)**|
 |**2023-12-07**|**Residual Graph Convolutional Network for Bird's-Eye-View Semantic Segmentation**|Qiuxiao Chen et.al.|[2312.04044](http://arxiv.org/abs/2312.04044)|null|
+|**2023-12-06**|**Novel class discovery meets foundation models for 3D semantic segmentation**|Luigi Riz et.al.|[2312.03782](http://arxiv.org/abs/2312.03782)|null|
 |**2023-12-06**|**Foundation Model Assisted Weakly Supervised Semantic Segmentation**|Xiaobo Yang et.al.|[2312.03585](http://arxiv.org/abs/2312.03585)|**[link](https://github.com/HAL-42/FMA-WSSS)**|
 |**2023-12-06**|**ShareCMP: Polarization-Aware RGB-P Semantic Segmentation**|Zhuoyan Liu et.al.|[2312.03430](http://arxiv.org/abs/2312.03430)|**[link](https://github.com/lefteyex/sharecmp)**|
 |**2023-12-06**|**DeepPyramid+: Medical Image Segmentation using Pyramid View Fusion and Deformable Pyramid Reception**|Negin Ghamsarian et.al.|[2312.03409](http://arxiv.org/abs/2312.03409)|null|
+|**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203](http://arxiv.org/abs/2312.03203)|null|
+|**2023-12-05**|**AI-SAM: Automatic and Interactive Segment Anything Model**|Yimu Pan et.al.|[2312.03119](http://arxiv.org/abs/2312.03119)|null|
+|**2023-12-05**|**DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control**|Yuru Jia et.al.|[2312.03048](http://arxiv.org/abs/2312.03048)|null|
+|**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593](http://arxiv.org/abs/2312.02593)|**[link](https://github.com/kulunuos/6dapose)**|
 
 ## fine-tune
 
@@ -2317,6 +2332,11 @@ layout: default
 |**2023-08-04**|**The Role of Fine-tuning: Transfer Learning for High-dimensional M-estimators with Decomposable Regularizers**|Zeyu Li et.al.|[2306.04182](http://arxiv.org/abs/2306.04182)|null|
 |**2023-05-17**|**Reward-agnostic Fine-tuning: Provable Statistical Benefits of Hybrid Reinforcement Learning**|Gen Li et.al.|[2305.10282](http://arxiv.org/abs/2305.10282)|null|
 |**2023-03-18**|**Cross-Modal Fine-Tuning: Align then Refine**|Junhong Shen et.al.|[2302.05738](http://arxiv.org/abs/2302.05738)|**[link](https://github.com/sjunhongshen/orca)**|
+|**2022-12-15**|**DP-RAFT: A Differentially Private Recipe for Accelerated Fine-Tuning**|Ashwinee Panda et.al.|[2212.04486](http://arxiv.org/abs/2212.04486)|null|
+|**2022-11-24**|**Prototypical Fine-tuning: Towards Robust Performance Under Varying Data Sizes**|Yiqiao Jin et.al.|[2211.13638](http://arxiv.org/abs/2211.13638)|null|
+|**2022-10-17**|**Tencent AI Lab - Shanghai Jiao Tong University Low-Resource Translation System for the WMT22 Translation Task**|Zhiwei He et.al.|[2210.08742](http://arxiv.org/abs/2210.08742)|**[link](https://github.com/zwhe99/wmt22-en-liv)**|
+|**2022-10-17**|**Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks**|Run Wang et.al.|[2210.07809](http://arxiv.org/abs/2210.07809)|**[link](https://github.com/antigonerandy/ptynet)**|
+|**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995](http://arxiv.org/abs/2209.06995)|**[link](https://github.com/yueyu1030/patron)**|
 
 ## diffusion-segmentation
 
