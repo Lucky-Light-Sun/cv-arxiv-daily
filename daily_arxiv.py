@@ -27,12 +27,20 @@ def load_config(config_file:str) -> dict:
         EXCAPE = '\"'
         QUOTA = '' # NO-USE
         OR = 'OR' # TODO
-        def parse_filters(filters:list):
+        def parse_filters(filters: list):
             ret = ''
-            for idx in range(0,len(filters)):
+            for idx in range(0, len(filters)):
                 filter = filters[idx]
+                formated_filter = ''        # 单引号变为双引号，适配 search 检索
+                for i in range(len(filter)):
+                    if filter[i] == "'":
+                        formated_filter += '"'
+                    else:
+                        formated_filter += filter[i]
+                filter = formated_filter
                 if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)  
+                    # ret += (EXCAPE + filter + EXCAPE)     xyg modified
+                    ret += filter
                 else:
                     ret += (QUOTA + filter + QUOTA)   
                 if idx != len(filters) - 1:
@@ -83,8 +91,33 @@ def get_code_link(qword:str) -> str:
     if results["total_count"] > 0:
         code_link = results["items"][0]["html_url"]
     return code_link
-  
-def get_daily_papers(topic,query="slam", max_results=2):
+
+
+def xyg_debug_show(results):
+    for result in results:
+        paper_id            = result.get_short_id()
+        paper_title         = result.title
+        paper_url           = result.entry_id
+        code_url            = base_url + paper_id #TODO
+        paper_abstract      = result.summary.replace("\n"," ")
+        paper_authors       = get_authors(result.authors)
+        paper_first_author  = get_authors(result.authors,first_author = True)
+        primary_category    = result.primary_category
+        publish_time        = result.published.date()
+        update_time         = result.updated.date()
+        comments            = result.comment
+    
+    print('this is a debug point')
+
+
+def get_result(search_engine, idx):
+    results = search_engine.results()
+    result = list(results)[idx]
+    paper_url = result.entry_id
+    print(paper_url)
+    
+
+def get_daily_papers(topic, query="slam", max_results=2):
     """
     @param topic: str
     @param query: str
@@ -98,13 +131,15 @@ def get_daily_papers(topic,query="slam", max_results=2):
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
-
+    # get_result(search_engine, 0)
+    xyg_debug_show(search_engine.results())
+    
     for result in search_engine.results():
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
         paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
+        code_url            = base_url + paper_id # TODO
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
@@ -436,7 +471,7 @@ if __name__ == "__main__":
     parser.add_argument('--config_path',type=str, default='config.yaml',
                             help='configuration file path')
     parser.add_argument('--update_paper_links', default=False,
-                        action="store_true",help='whether to update paper links etc.')                        
+                        action="store_true", help='whether to update paper links etc.')                        
     args = parser.parse_args()
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links':args.update_paper_links}

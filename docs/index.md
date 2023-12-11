@@ -2248,6 +2248,21 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
+## medical segmentation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation**|Yiming Zhao et.al.|[2312.00312](http://arxiv.org/abs/2312.00312)|null|
+|**2023-11-29**|**Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation**|Zhen Zhao et.al.|[2311.17325](http://arxiv.org/abs/2311.17325)|**[link](https://github.com/zhenzhao/ad-mt)**|
+|**2023-11-27**|**Only Positive Cases: 5-fold High-order Attention Interaction Model for Skin Segmentation Derived Classification**|Renkai Wu et.al.|[2311.15625](http://arxiv.org/abs/2311.15625)|**[link](https://github.com/wurenkai/MHA-UNet)**|
+|**2023-11-13**|**Assessing Test-time Variability for Interactive 3D Medical Image Segmentation with Diverse Point Prompts**|Hao Li et.al.|[2311.07806](http://arxiv.org/abs/2311.07806)|**[link](https://github.com/medicl-vu/variability)**|
+|**2023-11-03**|**FairSeg: A Large-scale Medical Image Segmentation Dataset for Fairness Learning with Fair Error-Bound Scaling**|Yu Tian et.al.|[2311.02189](http://arxiv.org/abs/2311.02189)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairseg)**|
+|**2023-11-02**|**Hybrid-Fusion Transformer for Multisequence MRI**|Jihoon Cho et.al.|[2311.01308](http://arxiv.org/abs/2311.01308)|null|
+|**2023-10-30**|**Radiomics as a measure superior to the Dice similarity coefficient for tumor segmentation performance evaluation**|Yoichi Watanabe et.al.|[2310.20039](http://arxiv.org/abs/2310.20039)|null|
+|**2023-10-23**|**Vicinal Feature Statistics Augmentation for Federated 3D Medical Volume Segmentation**|Yongsong Huang et.al.|[2310.15371](http://arxiv.org/abs/2310.15371)|null|
+|**2023-10-09**|**High Accuracy and Cost-Saving Active Learning 3D WD-UNet for Airway Segmentation**|Shiyi Wang et.al.|[2310.05638](http://arxiv.org/abs/2310.05638)|null|
+|**2023-11-06**|**Towards Robust Cardiac Segmentation using Graph Convolutional Networks**|Gilles Van De Vyver et.al.|[2310.01210](http://arxiv.org/abs/2310.01210)|**[link](https://github.com/gillesvntnu/gcn_multistructure)**|
+
 ## diffusion model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2262,6 +2277,31 @@ layout: default
 |**2023-12-07**|**HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image**|Tong Wu et.al.|[2312.04543](http://arxiv.org/abs/2312.04543)|null|
 |**2023-12-07**|**Diffusion Reflectance Map: Single-Image Stochastic Inverse Rendering of Illumination and Reflectance**|Yuto Enyo et.al.|[2312.04529](http://arxiv.org/abs/2312.04529)|null|
 |**2023-12-07**|**RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models**|Ozgur Kara et.al.|[2312.04524](http://arxiv.org/abs/2312.04524)|**[link](https://github.com/rehg-lab/rave)**|
+|**2023-10-17**|**Identifying and Mitigating the Security Risks of Generative AI**|Clark Barrett et.al.|[2308.14840](http://arxiv.org/abs/2308.14840)|null|
+|**2023-07-26**|**Nonlocality of Mean Scalar Transport in Two-Dimensional Rayleigh-Taylor Instability Using the Macroscopic Forcing Method**|Dana Lynn O. -L. Lavacot et.al.|[2307.13911](http://arxiv.org/abs/2307.13911)|null|
+|**2023-07-03**|**A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering**|Chaoning Zhang et.al.|[2306.06211](http://arxiv.org/abs/2306.06211)|null|
+|**2023-10-26**|**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**|Yonglong Tian et.al.|[2306.00984](http://arxiv.org/abs/2306.00984)|**[link](https://github.com/google-research/syn-rep-learn)**|
+|**2023-11-01**|**DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models**|Ying Fan et.al.|[2305.16381](http://arxiv.org/abs/2305.16381)|**[link](https://github.com/google-research/google-research)**|
+|**2023-10-30**|**Debias Coarsely, Sample Conditionally: Statistical Downscaling through Optimal Transport and Probabilistic Diffusion Models**|Zhong Yi Wan et.al.|[2305.15618](http://arxiv.org/abs/2305.15618)|null|
+|**2023-05-23**|**Euclid preparation. XXIX. Water ice in spacecraft part I: The physics of ice formation and contamination**|Euclid Collaboration et.al.|[2305.10107](http://arxiv.org/abs/2305.10107)|null|
+|**2023-03-31**|**Effect of interpolation kernels and grid refinement on two way-coupled point-particle simulations**|Nathan A. Keane et.al.|[2303.17756](http://arxiv.org/abs/2303.17756)|null|
+|**2023-02-03**|**The nature of dynamic local order in CH $_3$NH$_3$PbI$_3$ and CH$_3$NH$_3$PbBr$_3$**|Nicholas Weadock et.al.|[2302.01559](http://arxiv.org/abs/2302.01559)|null|
+|**2023-03-03**|**Imitating Human Behaviour with Diffusion Models**|Tim Pearce et.al.|[2301.10677](http://arxiv.org/abs/2301.10677)|**[link](https://github.com/microsoft/imitating-human-behaviour-w-diffusion)**|
+
+## semantic segmentation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image**|Tong Wu et.al.|[2312.04543](http://arxiv.org/abs/2312.04543)|null|
+|**2023-12-07**|**Self-Guided Open-Vocabulary Semantic Segmentation**|Osman Ülger et.al.|[2312.04539](http://arxiv.org/abs/2312.04539)|null|
+|**2023-12-07**|**Semi-Supervised Active Learning for Semantic Segmentation in Unknown Environments Using Informative Path Planning**|Julius Rückin et.al.|[2312.04402](http://arxiv.org/abs/2312.04402)|null|
+|**2023-12-07**|**Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation**|Zhixiang Wei et.al.|[2312.04265](http://arxiv.org/abs/2312.04265)|null|
+|**2023-12-07**|**Fine-tune vision foundation model for crack segmentation in civil infrastructures**|Kang Ge et.al.|[2312.04233](http://arxiv.org/abs/2312.04233)|null|
+|**2023-12-07**|**Augmentation-Free Dense Contrastive Knowledge Distillation for Efficient Semantic Segmentation**|Jiawei Fan et.al.|[2312.04168](http://arxiv.org/abs/2312.04168)|**[link](https://github.com/osvai/af-dcd)**|
+|**2023-12-07**|**Residual Graph Convolutional Network for Bird's-Eye-View Semantic Segmentation**|Qiuxiao Chen et.al.|[2312.04044](http://arxiv.org/abs/2312.04044)|null|
+|**2023-12-06**|**Foundation Model Assisted Weakly Supervised Semantic Segmentation**|Xiaobo Yang et.al.|[2312.03585](http://arxiv.org/abs/2312.03585)|**[link](https://github.com/HAL-42/FMA-WSSS)**|
+|**2023-12-06**|**ShareCMP: Polarization-Aware RGB-P Semantic Segmentation**|Zhuoyan Liu et.al.|[2312.03430](http://arxiv.org/abs/2312.03430)|**[link](https://github.com/lefteyex/sharecmp)**|
+|**2023-12-06**|**DeepPyramid+: Medical Image Segmentation using Pyramid View Fusion and Deformable Pyramid Reception**|Negin Ghamsarian et.al.|[2312.03409](http://arxiv.org/abs/2312.03409)|null|
 
 ## fine-tune
 
@@ -2277,6 +2317,13 @@ layout: default
 |**2023-08-04**|**The Role of Fine-tuning: Transfer Learning for High-dimensional M-estimators with Decomposable Regularizers**|Zeyu Li et.al.|[2306.04182](http://arxiv.org/abs/2306.04182)|null|
 |**2023-05-17**|**Reward-agnostic Fine-tuning: Provable Statistical Benefits of Hybrid Reinforcement Learning**|Gen Li et.al.|[2305.10282](http://arxiv.org/abs/2305.10282)|null|
 |**2023-03-18**|**Cross-Modal Fine-Tuning: Align then Refine**|Junhong Shen et.al.|[2302.05738](http://arxiv.org/abs/2302.05738)|**[link](https://github.com/sjunhongshen/orca)**|
+
+## diffusion-segmentation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Multimodal Diffusion Segmentation Model for Object Segmentation from Manipulation Instructions**|Yui Iioka et.al.|[2307.08597](http://arxiv.org/abs/2307.08597)|null|
+|**2019-02-11**|**Pinned or moving: states of a single shock in a ring**|Parna Roy et.al.|[1902.03897](http://arxiv.org/abs/1902.03897)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
