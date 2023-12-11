@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**gcDLSeg: Integrating Graph-cut into Deep Learning for Binary Semantic Segmentation**|Hui Xie et.al.|[2312.04713](http://arxiv.org/abs/2312.04713)|null|
 |**2023-12-01**|**Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation**|Yiming Zhao et.al.|[2312.00312](http://arxiv.org/abs/2312.00312)|null|
 |**2023-11-29**|**Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation**|Zhen Zhao et.al.|[2311.17325](http://arxiv.org/abs/2311.17325)|**[link](https://github.com/zhenzhao/ad-mt)**|
 |**2023-11-27**|**Only Positive Cases: 5-fold High-order Attention Interaction Model for Skin Segmentation Derived Classification**|Renkai Wu et.al.|[2311.15625](http://arxiv.org/abs/2311.15625)|**[link](https://github.com/wurenkai/MHA-UNet)**|
@@ -75,6 +76,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Datasets, Models, and Algorithms for Multi-Sensor, Multi-agent Autonomy Using AVstack**|R. Spencer Hallyburton et.al.|[2312.04970](http://arxiv.org/abs/2312.04970)|null|
+|**2023-12-07**|**Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds**|Yujia Liu et.al.|[2312.04962](http://arxiv.org/abs/2312.04962)|null|
+|**2023-12-08**|**Segmentation of Kidney Tumors on Non-Contrast CT Images using Protuberance Detection Network**|Taro Hatsutani et.al.|[2312.04796](http://arxiv.org/abs/2312.04796)|null|
+|**2023-12-07**|**gcDLSeg: Integrating Graph-cut into Deep Learning for Binary Semantic Segmentation**|Hui Xie et.al.|[2312.04713](http://arxiv.org/abs/2312.04713)|null|
 |**2023-12-07**|**HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image**|Tong Wu et.al.|[2312.04543](http://arxiv.org/abs/2312.04543)|null|
 |**2023-12-07**|**Self-Guided Open-Vocabulary Semantic Segmentation**|Osman Ülger et.al.|[2312.04539](http://arxiv.org/abs/2312.04539)|null|
 |**2023-12-07**|**Semi-Supervised Active Learning for Semantic Segmentation in Unknown Environments Using Informative Path Planning**|Julius Rückin et.al.|[2312.04402](http://arxiv.org/abs/2312.04402)|null|
