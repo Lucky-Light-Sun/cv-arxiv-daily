@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.11
+## Updated on 2023.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -71,7 +71,7 @@ layout: default
 |**2023-12-07**|**gcDLSeg: Integrating Graph-cut into Deep Learning for Binary Semantic Segmentation**|Hui Xie et.al.|[2312.04713](http://arxiv.org/abs/2312.04713)|null|
 |**2023-12-07**|**HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image**|Tong Wu et.al.|[2312.04543](http://arxiv.org/abs/2312.04543)|null|
 |**2023-12-07**|**Self-Guided Open-Vocabulary Semantic Segmentation**|Osman Ülger et.al.|[2312.04539](http://arxiv.org/abs/2312.04539)|null|
-|**2023-12-07**|**Semi-Supervised Active Learning for Semantic Segmentation in Unknown Environments Using Informative Path Planning**|Julius Rückin et.al.|[2312.04402](http://arxiv.org/abs/2312.04402)|null|
+|**2023-12-07**|**Semi-Supervised Active Learning for Semantic Segmentation in Unknown Environments Using Informative Path Planning**|Julius Rückin et.al.|[2312.04402](http://arxiv.org/abs/2312.04402)|**[link](https://github.com/dmar-bonn/ipp-al)**|
 |**2023-12-07**|**Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation**|Zhixiang Wei et.al.|[2312.04265](http://arxiv.org/abs/2312.04265)|null|
 |**2023-12-07**|**Fine-tune vision foundation model for crack segmentation in civil infrastructures**|Kang Ge et.al.|[2312.04233](http://arxiv.org/abs/2312.04233)|null|
 |**2023-12-07**|**Augmentation-Free Dense Contrastive Knowledge Distillation for Efficient Semantic Segmentation**|Jiawei Fan et.al.|[2312.04168](http://arxiv.org/abs/2312.04168)|**[link](https://github.com/osvai/af-dcd)**|
