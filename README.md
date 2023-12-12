@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**DG-TTA: Out-of-domain medical image segmentation through Domain Generalization and Test-Time Adaptation**|Christian Weihsbach et.al.|[2312.06275](http://arxiv.org/abs/2312.06275)|null|
 |**2023-12-07**|**gcDLSeg: Integrating Graph-cut into Deep Learning for Binary Semantic Segmentation**|Hui Xie et.al.|[2312.04713](http://arxiv.org/abs/2312.04713)|null|
 |**2023-12-01**|**Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation**|Yiming Zhao et.al.|[2312.00312](http://arxiv.org/abs/2312.00312)|null|
 |**2023-11-29**|**Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation**|Zhen Zhao et.al.|[2311.17325](http://arxiv.org/abs/2311.17325)|**[link](https://github.com/zhenzhao/ad-mt)**|
@@ -76,6 +77,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Relevant Intrinsic Feature Enhancement Network for Few-Shot Semantic Segmentation**|Xiaoyi Bao et.al.|[2312.06474](http://arxiv.org/abs/2312.06474)|null|
+|**2023-12-11**|**Semantic Connectivity-Driven Pseudo-labeling for Cross-domain Segmentation**|Dong Zhao et.al.|[2312.06331](http://arxiv.org/abs/2312.06331)|**[link](https://github.com/dzhaoxd/seco)**|
+|**2023-12-11**|**U-MixFormer: UNet-like Transformer with Mix-Attention for Efficient Semantic Segmentation**|Seul-Ki Yeom et.al.|[2312.06272](http://arxiv.org/abs/2312.06272)|**[link](https://github.com/julian-klitzing/u-mixformer)**|
+|**2023-12-11**|**Adaptive Annotation Distribution for Weakly Supervised Point Cloud Semantic Segmentation**|Zhiyi Pan et.al.|[2312.06259](http://arxiv.org/abs/2312.06259)|null|
+|**2023-12-10**|**Deep-Learning-Assisted Analysis of Cataract Surgery Videos**|Negin Ghamsarian et.al.|[2312.05900](http://arxiv.org/abs/2312.05900)|null|
+|**2023-12-09**|**CSL: Class-Agnostic Structure-Constrained Learning for Segmentation Including the Unseen**|Hao Zhang et.al.|[2312.05538](http://arxiv.org/abs/2312.05538)|null|
+|**2023-12-08**|**Lyrics: Boosting Fine-grained Language-Vision Alignment and Comprehension via Semantic-aware Visual Objects**|Junyu Lu et.al.|[2312.05278](http://arxiv.org/abs/2312.05278)|null|
 |**2023-12-08**|**Datasets, Models, and Algorithms for Multi-Sensor, Multi-agent Autonomy Using AVstack**|R. Spencer Hallyburton et.al.|[2312.04970](http://arxiv.org/abs/2312.04970)|null|
 |**2023-12-07**|**Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds**|Yujia Liu et.al.|[2312.04962](http://arxiv.org/abs/2312.04962)|null|
 |**2023-12-08**|**Segmentation of Kidney Tumors on Non-Contrast CT Images using Protuberance Detection Network**|Taro Hatsutani et.al.|[2312.04796](http://arxiv.org/abs/2312.04796)|null|
