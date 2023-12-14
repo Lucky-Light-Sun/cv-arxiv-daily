@@ -22,7 +22,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-12**|**Benchmarking Pretrained Vision Embeddings for Near- and Duplicate Detection in Medical Images**|Tuan Truong et.al.|[2312.07273](http://arxiv.org/abs/2312.07273)|null|
-|**2023-12-11**|**DG-TTA: Out-of-domain medical image segmentation through Domain Generalization and Test-Time Adaptation**|Christian Weihsbach et.al.|[2312.06275](http://arxiv.org/abs/2312.06275)|null|
+|**2023-12-11**|**DG-TTA: Out-of-domain medical image segmentation through Domain Generalization and Test-Time Adaptation**|Christian Weihsbach et.al.|[2312.06275](http://arxiv.org/abs/2312.06275)|**[link](https://github.com/multimodallearning/dg-tta)**|
 |**2023-12-07**|**gcDLSeg: Integrating Graph-cut into Deep Learning for Binary Semantic Segmentation**|Hui Xie et.al.|[2312.04713](http://arxiv.org/abs/2312.04713)|null|
 |**2023-12-01**|**Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation**|Yiming Zhao et.al.|[2312.00312](http://arxiv.org/abs/2312.00312)|null|
 |**2023-11-29**|**Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation**|Zhen Zhao et.al.|[2311.17325](http://arxiv.org/abs/2311.17325)|**[link](https://github.com/zhenzhao/ad-mt)**|
@@ -78,6 +78,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**DFGET: Displacement-Field Assisted Graph Energy Transmitter for Gland Instance Segmentation**|Caiqing Jian et.al.|[2312.07584](http://arxiv.org/abs/2312.07584)|null|
 |**2023-12-12**|**X4D-SceneFormer: Enhanced Scene Understanding on 4D Point Cloud Videos through Cross-modal Knowledge Transfer**|Linglin Jing et.al.|[2312.07378](http://arxiv.org/abs/2312.07378)|null|
 |**2023-12-12**|**Adversarial Semi-Supervised Domain Adaptation for Semantic Segmentation: A New Role for Labeled Target Samples**|Marwa Kechaou et.al.|[2312.07370](http://arxiv.org/abs/2312.07370)|null|
 |**2023-12-12**|**Expand-and-Quantize: Unsupervised Semantic Segmentation Using High-Dimensional Space and Product Quantization**|Jiyoung Kim et.al.|[2312.07342](http://arxiv.org/abs/2312.07342)|null|
