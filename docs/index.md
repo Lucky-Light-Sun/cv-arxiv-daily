@@ -67,6 +67,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
+|**2023-12-14**|**Reliability in Semantic Segmentation: Can We Use Synthetic Data?**|Thibaut Loiseau et.al.|[2312.09231](http://arxiv.org/abs/2312.09231)|null|
+|**2023-12-14**|**Progressive Uncertain Feature Self-reinforcement for Weakly Supervised Semantic Segmentation**|Jingxuan He et.al.|[2312.08916](http://arxiv.org/abs/2312.08916)|**[link](https://github.com/jessie459/feature-self-reinforcement)**|
+|**2023-12-14**|**Agent Attention: On the Integration of Softmax and Linear Attention**|Dongchen Han et.al.|[2312.08874](http://arxiv.org/abs/2312.08874)|**[link](https://github.com/leaplabthu/agent-attention)**|
+|**2023-12-14**|**Achelous++: Power-Oriented Water-Surface Panoptic Perception Framework on Edge Devices based on Vision-Radar Fusion and Pruning of Heterogeneous Modalities**|Runwei Guan et.al.|[2312.08851](http://arxiv.org/abs/2312.08851)|**[link](https://github.com/GuanRunwei/Achelous)**|
+|**2023-12-14**|**Offshore Wind Plant Instance Segmentation Using Sentinel-1 Time Series, GIS, and Semantic Segmentation Models**|Osmar Luiz Ferreira de Carvalho et.al.|[2312.08773](http://arxiv.org/abs/2312.08773)|null|
+|**2023-12-14**|**Segment Beyond View: Handling Partially Missing Modality for Audio-Visual Semantic Segmentation**|Renjie Wu et.al.|[2312.08673](http://arxiv.org/abs/2312.08673)|null|
+|**2023-12-14**|**Semi-supervised Semantic Segmentation Meets Masked Modeling:Fine-grained Locality Learning Matters in Consistency Regularization**|Wentao Pan et.al.|[2312.08631](http://arxiv.org/abs/2312.08631)|null|
 |**2023-12-11**|**DFGET: Displacement-Field Assisted Graph Energy Transmitter for Gland Instance Segmentation**|Caiqing Jian et.al.|[2312.07584](http://arxiv.org/abs/2312.07584)|null|
 |**2023-12-12**|**X4D-SceneFormer: Enhanced Scene Understanding on 4D Point Cloud Videos through Cross-modal Knowledge Transfer**|Linglin Jing et.al.|[2312.07378](http://arxiv.org/abs/2312.07378)|null|
 |**2023-12-12**|**Adversarial Semi-Supervised Domain Adaptation for Semantic Segmentation: A New Role for Labeled Target Samples**|Marwa Kechaou et.al.|[2312.07370](http://arxiv.org/abs/2312.07370)|null|
