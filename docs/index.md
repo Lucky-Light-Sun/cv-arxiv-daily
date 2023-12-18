@@ -98,7 +98,7 @@ layout: default
 |**2023-12-07**|**HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image**|Tong Wu et.al.|[2312.04543](http://arxiv.org/abs/2312.04543)|null|
 |**2023-12-07**|**Self-Guided Open-Vocabulary Semantic Segmentation**|Osman Ülger et.al.|[2312.04539](http://arxiv.org/abs/2312.04539)|null|
 |**2023-12-07**|**Semi-Supervised Active Learning for Semantic Segmentation in Unknown Environments Using Informative Path Planning**|Julius Rückin et.al.|[2312.04402](http://arxiv.org/abs/2312.04402)|**[link](https://github.com/dmar-bonn/ipp-al)**|
-|**2023-12-07**|**Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation**|Zhixiang Wei et.al.|[2312.04265](http://arxiv.org/abs/2312.04265)|null|
+|**2023-12-07**|**Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation**|Zhixiang Wei et.al.|[2312.04265](http://arxiv.org/abs/2312.04265)|**[link](https://github.com/w1oves/rein)**|
 |**2023-12-07**|**Fine-tune vision foundation model for crack segmentation in civil infrastructures**|Kang Ge et.al.|[2312.04233](http://arxiv.org/abs/2312.04233)|null|
 |**2023-12-07**|**Augmentation-Free Dense Contrastive Knowledge Distillation for Efficient Semantic Segmentation**|Jiawei Fan et.al.|[2312.04168](http://arxiv.org/abs/2312.04168)|**[link](https://github.com/osvai/af-dcd)**|
 |**2023-12-07**|**Residual Graph Convolutional Network for Bird's-Eye-View Semantic Segmentation**|Qiuxiao Chen et.al.|[2312.04044](http://arxiv.org/abs/2312.04044)|null|
@@ -107,7 +107,7 @@ layout: default
 |**2023-12-06**|**ShareCMP: Polarization-Aware RGB-P Semantic Segmentation**|Zhuoyan Liu et.al.|[2312.03430](http://arxiv.org/abs/2312.03430)|**[link](https://github.com/lefteyex/sharecmp)**|
 |**2023-12-06**|**DeepPyramid+: Medical Image Segmentation using Pyramid View Fusion and Deformable Pyramid Reception**|Negin Ghamsarian et.al.|[2312.03409](http://arxiv.org/abs/2312.03409)|null|
 |**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203](http://arxiv.org/abs/2312.03203)|null|
-|**2023-12-05**|**AI-SAM: Automatic and Interactive Segment Anything Model**|Yimu Pan et.al.|[2312.03119](http://arxiv.org/abs/2312.03119)|null|
+|**2023-12-05**|**AI-SAM: Automatic and Interactive Segment Anything Model**|Yimu Pan et.al.|[2312.03119](http://arxiv.org/abs/2312.03119)|**[link](https://github.com/ymp5078/ai-sam)**|
 |**2023-12-05**|**DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control**|Yuru Jia et.al.|[2312.03048](http://arxiv.org/abs/2312.03048)|null|
 |**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593](http://arxiv.org/abs/2312.02593)|**[link](https://github.com/kulunuos/6dapose)**|
 
