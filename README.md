@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-16**|**Exploring UMAP in hybrid models of entropy-based and representativeness sampling for active learning in biomedical segmentation**|H. S. Tan et.al.|[2312.10361](http://arxiv.org/abs/2312.10361)|null|
 |**2023-12-12**|**Benchmarking Pretrained Vision Embeddings for Near- and Duplicate Detection in Medical Images**|Tuan Truong et.al.|[2312.07273](http://arxiv.org/abs/2312.07273)|null|
 |**2023-12-11**|**DG-TTA: Out-of-domain medical image segmentation through Domain Generalization and Test-Time Adaptation**|Christian Weihsbach et.al.|[2312.06275](http://arxiv.org/abs/2312.06275)|**[link](https://github.com/multimodallearning/dg-tta)**|
 |**2023-12-07**|**gcDLSeg: Integrating Graph-cut into Deep Learning for Binary Semantic Segmentation**|Hui Xie et.al.|[2312.04713](http://arxiv.org/abs/2312.04713)|null|
@@ -78,13 +79,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**Artificial intelligence optical hardware empowers high-resolution hyperspectral video understanding at 1.2 Tb/s**|Maksim Makarenko et.al.|[2312.10639](http://arxiv.org/abs/2312.10639)|null|
+|**2023-12-16**|**Transformers in Unsupervised Structure-from-Motion**|Hemang Chawla et.al.|[2312.10529](http://arxiv.org/abs/2312.10529)|**[link](https://github.com/neurai-lab/mt-sfmlearner)**|
+|**2023-12-16**|**Semantic-Aware Autoregressive Image Modeling for Visual Representation Learning**|Kaiyou Song et.al.|[2312.10457](http://arxiv.org/abs/2312.10457)|null|
+|**2023-12-15**|**Forging Tokens for Improved Storage-efficient Training**|Minhyun Lee et.al.|[2312.10105](http://arxiv.org/abs/2312.10105)|null|
 |**2023-12-15**|**Collaborating Foundation models for Domain Generalized Semantic Segmentation**|Yasser Benigmim et.al.|[2312.09788](http://arxiv.org/abs/2312.09788)|**[link](https://github.com/yasserben/clouds)**|
 |**2023-12-15**|**Density Matters: Improved Core-set for Active Domain Adaptive Segmentation**|Shizhan Liu et.al.|[2312.09595](http://arxiv.org/abs/2312.09595)|null|
 |**2023-12-15**|**AEGIS-Net: Attention-guided Multi-Level Feature Aggregation for Indoor Place Recognition**|Yuhang Ming et.al.|[2312.09538](http://arxiv.org/abs/2312.09538)|**[link](https://github.com/yuhangming/aegis-net)**|
 |**2023-12-15**|**WeatherProof: A Paired-Dataset Approach to Semantic Segmentation in Adverse Weather**|Blake Gella et.al.|[2312.09534](http://arxiv.org/abs/2312.09534)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
 |**2023-12-14**|**Reliability in Semantic Segmentation: Can We Use Synthetic Data?**|Thibaut Loiseau et.al.|[2312.09231](http://arxiv.org/abs/2312.09231)|null|
-|**2023-12-14**|**Progressive Uncertain Feature Self-reinforcement for Weakly Supervised Semantic Segmentation**|Jingxuan He et.al.|[2312.08916](http://arxiv.org/abs/2312.08916)|**[link](https://github.com/jessie459/feature-self-reinforcement)**|
+|**2023-12-18**|**Progressive Feature Self-reinforcement for Weakly Supervised Semantic Segmentation**|Jingxuan He et.al.|[2312.08916](http://arxiv.org/abs/2312.08916)|**[link](https://github.com/jessie459/feature-self-reinforcement)**|
 |**2023-12-14**|**Agent Attention: On the Integration of Softmax and Linear Attention**|Dongchen Han et.al.|[2312.08874](http://arxiv.org/abs/2312.08874)|**[link](https://github.com/leaplabthu/agent-attention)**|
 |**2023-12-14**|**Achelous++: Power-Oriented Water-Surface Panoptic Perception Framework on Edge Devices based on Vision-Radar Fusion and Pruning of Heterogeneous Modalities**|Runwei Guan et.al.|[2312.08851](http://arxiv.org/abs/2312.08851)|**[link](https://github.com/GuanRunwei/Achelous)**|
 |**2023-12-14**|**Offshore Wind Plant Instance Segmentation Using Sentinel-1 Time Series, GIS, and Semantic Segmentation Models**|Osmar Luiz Ferreira de Carvalho et.al.|[2312.08773](http://arxiv.org/abs/2312.08773)|null|
@@ -135,7 +140,7 @@
 |**2023-10-19**|**Towards Anytime Fine-tuning: Continually Pre-trained Language Models with Hypernetwork Prompt**|Gangwei Jiang et.al.|[2310.13024](http://arxiv.org/abs/2310.13024)|**[link](https://github.com/gangwjiang/hprompt-cpt)**|
 |**2023-10-12**|**Learn From Model Beyond Fine-Tuning: A Survey**|Hongling Zheng et.al.|[2310.08184](http://arxiv.org/abs/2310.08184)|**[link](https://github.com/ruthless-man/awesome-learn-from-model)**|
 |**2023-09-30**|**From Language Modeling to Instruction Following: Understanding the Behavior Shift in LLMs after Instruction Tuning**|Xuansheng Wu et.al.|[2310.00492](http://arxiv.org/abs/2310.00492)|null|
-|**2023-08-15**|**Domain-Aware Fine-Tuning: Enhancing Neural Network Adaptability**|Seokhyeon Ha et.al.|[2308.07728](http://arxiv.org/abs/2308.07728)|null|
+|**2023-12-18**|**Domain-Aware Fine-Tuning: Enhancing Neural Network Adaptability**|Seokhyeon Ha et.al.|[2308.07728](http://arxiv.org/abs/2308.07728)|null|
 |**2023-08-14**|**Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification**|Olesya Razuvayevskaya et.al.|[2308.07282](http://arxiv.org/abs/2308.07282)|null|
 |**2023-06-20**|**Multi-task Collaborative Pre-training and Individual-adaptive-tokens Fine-tuning: A Unified Framework for Brain Representation Learning**|Ning Jiang et.al.|[2306.11378](http://arxiv.org/abs/2306.11378)|null|
 |**2023-06-16**|**Catastrophic Forgetting in the Context of Model Updates**|Rich Harang et.al.|[2306.10181](http://arxiv.org/abs/2306.10181)|null|
