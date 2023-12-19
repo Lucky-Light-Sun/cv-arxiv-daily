@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.18
+## Updated on 2023.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -67,6 +67,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Collaborating Foundation models for Domain Generalized Semantic Segmentation**|Yasser Benigmim et.al.|[2312.09788](http://arxiv.org/abs/2312.09788)|**[link](https://github.com/yasserben/clouds)**|
+|**2023-12-15**|**Density Matters: Improved Core-set for Active Domain Adaptive Segmentation**|Shizhan Liu et.al.|[2312.09595](http://arxiv.org/abs/2312.09595)|null|
+|**2023-12-15**|**AEGIS-Net: Attention-guided Multi-Level Feature Aggregation for Indoor Place Recognition**|Yuhang Ming et.al.|[2312.09538](http://arxiv.org/abs/2312.09538)|**[link](https://github.com/yuhangming/aegis-net)**|
+|**2023-12-15**|**WeatherProof: A Paired-Dataset Approach to Semantic Segmentation in Adverse Weather**|Blake Gella et.al.|[2312.09534](http://arxiv.org/abs/2312.09534)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
 |**2023-12-14**|**Reliability in Semantic Segmentation: Can We Use Synthetic Data?**|Thibaut Loiseau et.al.|[2312.09231](http://arxiv.org/abs/2312.09231)|null|
 |**2023-12-14**|**Progressive Uncertain Feature Self-reinforcement for Weakly Supervised Semantic Segmentation**|Jingxuan He et.al.|[2312.08916](http://arxiv.org/abs/2312.08916)|**[link](https://github.com/jessie459/feature-self-reinforcement)**|
