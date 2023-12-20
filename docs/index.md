@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -70,7 +70,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-17**|**Artificial intelligence optical hardware empowers high-resolution hyperspectral video understanding at 1.2 Tb/s**|Maksim Makarenko et.al.|[2312.10639](http://arxiv.org/abs/2312.10639)|null|
 |**2023-12-16**|**Transformers in Unsupervised Structure-from-Motion**|Hemang Chawla et.al.|[2312.10529](http://arxiv.org/abs/2312.10529)|**[link](https://github.com/neurai-lab/mt-sfmlearner)**|
-|**2023-12-16**|**Semantic-Aware Autoregressive Image Modeling for Visual Representation Learning**|Kaiyou Song et.al.|[2312.10457](http://arxiv.org/abs/2312.10457)|null|
+|**2023-12-16**|**Semantic-Aware Autoregressive Image Modeling for Visual Representation Learning**|Kaiyou Song et.al.|[2312.10457](http://arxiv.org/abs/2312.10457)|**[link](https://github.com/skyoux/SemAIM)**|
 |**2023-12-15**|**Forging Tokens for Improved Storage-efficient Training**|Minhyun Lee et.al.|[2312.10105](http://arxiv.org/abs/2312.10105)|null|
 |**2023-12-15**|**Collaborating Foundation models for Domain Generalized Semantic Segmentation**|Yasser Benigmim et.al.|[2312.09788](http://arxiv.org/abs/2312.09788)|**[link](https://github.com/yasserben/clouds)**|
 |**2023-12-15**|**Density Matters: Improved Core-set for Active Domain Adaptive Segmentation**|Shizhan Liu et.al.|[2312.09595](http://arxiv.org/abs/2312.09595)|null|
