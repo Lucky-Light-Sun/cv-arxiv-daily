@@ -79,11 +79,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**BEVSeg2TP: Surround View Camera Bird's-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction**|Sushil Sharma et.al.|[2312.13081](http://arxiv.org/abs/2312.13081)|null|
+|**2023-12-20**|**Multi-task Learning To Improve Semantic Segmentation Of CBCT Scans Using Image Reconstruction**|Maximilian Ernst Tschuchnig et.al.|[2312.12990](http://arxiv.org/abs/2312.12990)|null|
+|**2023-12-20**|**TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training**|Yuqi Lin et.al.|[2312.12828](http://arxiv.org/abs/2312.12828)|**[link](https://github.com/linyq2117/tagclip)**|
+|**2023-12-20**|**MetaSegNet: Metadata-collaborative Vision-Language Representation Learning for Semantic Segmentation of Remote Sensing Images**|Libo Wang et.al.|[2312.12735](http://arxiv.org/abs/2312.12735)|null|
+|**2023-12-20**|**Segment Anything Model Meets Image Harmonization**|Haoxing Chen et.al.|[2312.12729](http://arxiv.org/abs/2312.12729)|null|
+|**2023-12-19**|**DDOS: The Drone Depth and Obstacle Segmentation Dataset**|Benedikt Kolbeinsson et.al.|[2312.12494](http://arxiv.org/abs/2312.12494)|null|
 |**2023-12-19**|**SegRefiner: Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion Process**|Mengyu Wang et.al.|[2312.12425](http://arxiv.org/abs/2312.12425)|**[link](https://github.com/mengyuwang826/segrefiner)**|
 |**2023-12-19**|**CLIP-DINOiser: Teaching CLIP a few DINO tricks**|Monika Wysoczańska et.al.|[2312.12359](http://arxiv.org/abs/2312.12359)|**[link](https://github.com/wysoczanska/clip_dinoiser)**|
 |**2023-12-19**|**All for One, and One for All: UrbanSyn Dataset, the third Musketeer of Synthetic Driving Scenes**|Jose L. Gómez et.al.|[2312.12176](http://arxiv.org/abs/2312.12176)|null|
 |**2023-12-18**|**Detecting the edges of galaxies with deep learning**|Jesús Fernández et.al.|[2312.11654](http://arxiv.org/abs/2312.11654)|null|
-|**2023-12-18**|**Language-Assisted 3D Scene Understanding**|Yanmin Wu et.al.|[2312.11451](http://arxiv.org/abs/2312.11451)|null|
+|**2023-12-18**|**Language-Assisted 3D Scene Understanding**|Yanmin Wu et.al.|[2312.11451](http://arxiv.org/abs/2312.11451)|**[link](https://github.com/yanmin-wu/last-pcl)**|
 |**2023-12-18**|**Research on Multilingual Natural Scene Text Detection Algorithm**|Tao Wang et.al.|[2312.11153](http://arxiv.org/abs/2312.11153)|null|
 |**2023-12-18**|**SeeBel: Seeing is Believing**|Sourajit Saha et.al.|[2312.10933](http://arxiv.org/abs/2312.10933)|**[link](https://github.com/dipta007/seebel)**|
 |**2023-12-17**|**Artificial intelligence optical hardware empowers high-resolution hyperspectral video understanding at 1.2 Tb/s**|Maksim Makarenko et.al.|[2312.10639](http://arxiv.org/abs/2312.10639)|null|
