@@ -23,7 +23,7 @@
 |---|---|---|---|---|
 |**2023-12-16**|**Exploring UMAP in hybrid models of entropy-based and representativeness sampling for active learning in biomedical segmentation**|H. S. Tan et.al.|[2312.10361](http://arxiv.org/abs/2312.10361)|null|
 |**2023-12-12**|**Benchmarking Pretrained Vision Embeddings for Near- and Duplicate Detection in Medical Images**|Tuan Truong et.al.|[2312.07273](http://arxiv.org/abs/2312.07273)|null|
-|**2023-12-11**|**DG-TTA: Out-of-domain medical image segmentation through Domain Generalization and Test-Time Adaptation**|Christian Weihsbach et.al.|[2312.06275](http://arxiv.org/abs/2312.06275)|**[link](https://github.com/multimodallearning/dg-tta)**|
+|**2023-12-22**|**DG-TTA: Out-of-domain medical image segmentation through Domain Generalization and Test-Time Adaptation**|Christian Weihsbach et.al.|[2312.06275](http://arxiv.org/abs/2312.06275)|**[link](https://github.com/multimodallearning/dg-tta)**|
 |**2023-12-07**|**gcDLSeg: Integrating Graph-cut into Deep Learning for Binary Semantic Segmentation**|Hui Xie et.al.|[2312.04713](http://arxiv.org/abs/2312.04713)|null|
 |**2023-12-01**|**Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation**|Yiming Zhao et.al.|[2312.00312](http://arxiv.org/abs/2312.00312)|null|
 |**2023-11-29**|**Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation**|Zhen Zhao et.al.|[2311.17325](http://arxiv.org/abs/2311.17325)|**[link](https://github.com/zhenzhao/ad-mt)**|
@@ -79,10 +79,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
+|**2023-12-22**|**Variance-insensitive and Target-preserving Mask Refinement for Interactive Image Segmentation**|Chaowei Fang et.al.|[2312.14387](http://arxiv.org/abs/2312.14387)|null|
 |**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149](http://arxiv.org/abs/2312.14149)|**[link](https://github.com/Qinying-Liu/TagAlign_code)**|
 |**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al.|[2312.14053](http://arxiv.org/abs/2312.14053)|**[link](https://github.com/rashaalshawi/dual-attention-u-net-with-feature-infusion-pushing-the-boundaries-of-multiclass-defect-segmentation)**|
 |**2023-12-21**|**Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection**|Soopil Kim et.al.|[2312.13783](http://arxiv.org/abs/2312.13783)|null|
-|**2023-12-21**|**Weakly Supervised Semantic Segmentation for Driving Scenes**|Dongseob Kim et.al.|[2312.13646](http://arxiv.org/abs/2312.13646)|**[link](https://github.com/k0u-id/carb)**|
+|**2023-12-22**|**Weakly Supervised Semantic Segmentation for Driving Scenes**|Dongseob Kim et.al.|[2312.13646](http://arxiv.org/abs/2312.13646)|**[link](https://github.com/k0u-id/carb)**|
 |**2023-12-20**|**DVIS++: Improved Decoupled Framework for Universal Video Segmentation**|Tao Zhang et.al.|[2312.13305](http://arxiv.org/abs/2312.13305)|**[link](https://github.com/zhang-tao-whu/DVIS_Plus)**|
 |**2023-12-20**|**BEVSeg2TP: Surround View Camera Bird's-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction**|Sushil Sharma et.al.|[2312.13081](http://arxiv.org/abs/2312.13081)|null|
 |**2023-12-20**|**Multi-task Learning To Improve Semantic Segmentation Of CBCT Scans Using Image Reconstruction**|Maximilian Ernst Tschuchnig et.al.|[2312.12990](http://arxiv.org/abs/2312.12990)|null|
