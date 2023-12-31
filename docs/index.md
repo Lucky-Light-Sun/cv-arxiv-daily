@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.30
+## Updated on 2023.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -72,8 +72,8 @@ layout: default
 |**2023-12-28**|**An Improved Baseline for Reasoning Segmentation with Large Language Model**|Senqiao Yang et.al.|[2312.17240](http://arxiv.org/abs/2312.17240)|null|
 |**2023-12-28**|**SCTNet: Single-Branch CNN with Transformer Semantic Information for Real-Time Segmentation**|Zhengze Xu et.al.|[2312.17071](http://arxiv.org/abs/2312.17071)|null|
 |**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933](http://arxiv.org/abs/2312.16933)|null|
-|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|null|
-|**2023-12-27**|**ConstScene: Dataset and Model for Advancing Robust Semantic Segmentation in Construction Environments**|Maghsood Salimi et.al.|[2312.16516](http://arxiv.org/abs/2312.16516)|null|
+|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
+|**2023-12-27**|**ConstScene: Dataset and Model for Advancing Robust Semantic Segmentation in Construction Environments**|Maghsood Salimi et.al.|[2312.16516](http://arxiv.org/abs/2312.16516)|**[link](https://github.com/robustinsight/constscene)**|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
 |**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|null|
 |**2023-12-23**|**WildScenes: A Benchmark for 2D and 3D Semantic Segmentation in Large-scale Natural Environments**|Kavisha Vidanapathirana et.al.|[2312.15364](http://arxiv.org/abs/2312.15364)|null|
