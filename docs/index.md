@@ -48,7 +48,7 @@ layout: default
 |**2023-12-07**|**HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image**|Tong Wu et.al.|[2312.04543](http://arxiv.org/abs/2312.04543)|null|
 |**2023-12-07**|**Diffusion Reflectance Map: Single-Image Stochastic Inverse Rendering of Illumination and Reflectance**|Yuto Enyo et.al.|[2312.04529](http://arxiv.org/abs/2312.04529)|null|
 |**2023-12-07**|**RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models**|Ozgur Kara et.al.|[2312.04524](http://arxiv.org/abs/2312.04524)|**[link](https://github.com/rehg-lab/rave)**|
-|**2023-10-17**|**Identifying and Mitigating the Security Risks of Generative AI**|Clark Barrett et.al.|[2308.14840](http://arxiv.org/abs/2308.14840)|null|
+|**2023-12-29**|**Identifying and Mitigating the Security Risks of Generative AI**|Clark Barrett et.al.|[2308.14840](http://arxiv.org/abs/2308.14840)|null|
 |**2023-07-26**|**Nonlocality of Mean Scalar Transport in Two-Dimensional Rayleigh-Taylor Instability Using the Macroscopic Forcing Method**|Dana Lynn O. -L. Lavacot et.al.|[2307.13911](http://arxiv.org/abs/2307.13911)|null|
 |**2023-07-03**|**A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering**|Chaoning Zhang et.al.|[2306.06211](http://arxiv.org/abs/2306.06211)|null|
 |**2023-10-26**|**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**|Yonglong Tian et.al.|[2306.00984](http://arxiv.org/abs/2306.00984)|**[link](https://github.com/google-research/syn-rep-learn)**|
@@ -68,11 +68,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**Learning Vision from Models Rivals Learning Vision from Data**|Yonglong Tian et.al.|[2312.17742](http://arxiv.org/abs/2312.17742)|**[link](https://github.com/google-research/syn-rep-learn)**|
+|**2023-12-29**|**HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping**|Xin Zhang et.al.|[2312.17492](http://arxiv.org/abs/2312.17492)|null|
 |**2023-12-28**|**Unsupervised Universal Image Segmentation**|Dantong Niu et.al.|[2312.17243](http://arxiv.org/abs/2312.17243)|**[link](https://github.com/u2seg/u2seg)**|
 |**2023-12-28**|**An Improved Baseline for Reasoning Segmentation with Large Language Model**|Senqiao Yang et.al.|[2312.17240](http://arxiv.org/abs/2312.17240)|null|
 |**2023-12-28**|**SCTNet: Single-Branch CNN with Transformer Semantic Information for Real-Time Segmentation**|Zhengze Xu et.al.|[2312.17071](http://arxiv.org/abs/2312.17071)|null|
 |**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933](http://arxiv.org/abs/2312.16933)|null|
-|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
+|**2023-12-29**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
 |**2023-12-27**|**ConstScene: Dataset and Model for Advancing Robust Semantic Segmentation in Construction Environments**|Maghsood Salimi et.al.|[2312.16516](http://arxiv.org/abs/2312.16516)|**[link](https://github.com/robustinsight/constscene)**|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
 |**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|null|
