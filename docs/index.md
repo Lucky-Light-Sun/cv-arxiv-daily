@@ -68,6 +68,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Towards Robust Semantic Segmentation against Patch-based Attack via Attention Refinement**|Zheng Yuan et.al.|[2401.01750](http://arxiv.org/abs/2401.01750)|null|
+|**2024-01-03**|**S3Net: Innovating Stereo Matching and Semantic Segmentation with a Single-Branch Semantic Stereo Network in Satellite Epipolar Imagery**|Qingyuan Yang et.al.|[2401.01643](http://arxiv.org/abs/2401.01643)|null|
+|**2024-01-03**|**Context-Aware Interaction Network for RGB-T Semantic Segmentation**|Ying Lv et.al.|[2401.01624](http://arxiv.org/abs/2401.01624)|**[link](https://github.com/yinglv1106/cainet)**|
+|**2024-01-02**|**Off-Road LiDAR Intensity Based Semantic Segmentation**|Kasi Viswanath et.al.|[2401.01439](http://arxiv.org/abs/2401.01439)|**[link](https://github.com/moonlabiiserb/lidar-intensity-predictor)**|
 |**2024-01-02**|**Integrating Edges into U-Net Models with Explainable Activation Maps for Brain Tumor Segmentation using MR Images**|Subin Sahayam et.al.|[2401.01303](http://arxiv.org/abs/2401.01303)|null|
 |**2024-01-02**|**Physics-informed Generalizable Wireless Channel Modeling with Segmentation and Deep Learning: Fundamentals, Methodologies, and Challenges**|Ethan Zhu et.al.|[2401.01288](http://arxiv.org/abs/2401.01288)|null|
 |**2024-01-02**|**GBSS:a global building semantic segmentation dataset for large-scale remote sensing building extraction**|Yuping Hu et.al.|[2401.01178](http://arxiv.org/abs/2401.01178)|null|
@@ -77,7 +81,7 @@ layout: default
 |**2023-12-28**|**Learning Vision from Models Rivals Learning Vision from Data**|Yonglong Tian et.al.|[2312.17742](http://arxiv.org/abs/2312.17742)|**[link](https://github.com/google-research/syn-rep-learn)**|
 |**2023-12-29**|**HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping**|Xin Zhang et.al.|[2312.17492](http://arxiv.org/abs/2312.17492)|null|
 |**2023-12-28**|**Unsupervised Universal Image Segmentation**|Dantong Niu et.al.|[2312.17243](http://arxiv.org/abs/2312.17243)|**[link](https://github.com/u2seg/u2seg)**|
-|**2023-12-28**|**An Improved Baseline for Reasoning Segmentation with Large Language Model**|Senqiao Yang et.al.|[2312.17240](http://arxiv.org/abs/2312.17240)|null|
+|**2024-01-03**|**An Improved Baseline for Reasoning Segmentation with Large Language Model**|Senqiao Yang et.al.|[2312.17240](http://arxiv.org/abs/2312.17240)|null|
 |**2023-12-28**|**SCTNet: Single-Branch CNN with Transformer Semantic Information for Real-Time Segmentation**|Zhengze Xu et.al.|[2312.17071](http://arxiv.org/abs/2312.17071)|null|
 |**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933](http://arxiv.org/abs/2312.16933)|null|
 |**2023-12-29**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
