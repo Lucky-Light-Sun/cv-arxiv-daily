@@ -79,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Unsupervised Federated Domain Adaptation for Segmentation of MRI Images**|Navapat Nananukul et.al.|[2401.02941](http://arxiv.org/abs/2401.02941)|null|
 |**2024-01-04**|**ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation**|Xinyang Pu et.al.|[2401.02326](http://arxiv.org/abs/2401.02326)|**[link](https://github.com/xypu98/cwsam)**|
 |**2024-01-03**|**Towards Robust Semantic Segmentation against Patch-based Attack via Attention Refinement**|Zheng Yuan et.al.|[2401.01750](http://arxiv.org/abs/2401.01750)|null|
 |**2024-01-03**|**S3Net: Innovating Stereo Matching and Semantic Segmentation with a Single-Branch Semantic Stereo Network in Satellite Epipolar Imagery**|Qingyuan Yang et.al.|[2401.01643](http://arxiv.org/abs/2401.01643)|null|
@@ -184,7 +185,7 @@
 |**2023-10-19**|**Towards Anytime Fine-tuning: Continually Pre-trained Language Models with Hypernetwork Prompt**|Gangwei Jiang et.al.|[2310.13024](http://arxiv.org/abs/2310.13024)|**[link](https://github.com/gangwjiang/hprompt-cpt)**|
 |**2023-10-12**|**Learn From Model Beyond Fine-Tuning: A Survey**|Hongling Zheng et.al.|[2310.08184](http://arxiv.org/abs/2310.08184)|**[link](https://github.com/ruthless-man/awesome-learn-from-model)**|
 |**2023-09-30**|**From Language Modeling to Instruction Following: Understanding the Behavior Shift in LLMs after Instruction Tuning**|Xuansheng Wu et.al.|[2310.00492](http://arxiv.org/abs/2310.00492)|null|
-|**2023-12-18**|**Domain-Aware Fine-Tuning: Enhancing Neural Network Adaptability**|Seokhyeon Ha et.al.|[2308.07728](http://arxiv.org/abs/2308.07728)|null|
+|**2024-01-05**|**Domain-Aware Fine-Tuning: Enhancing Neural Network Adaptability**|Seokhyeon Ha et.al.|[2308.07728](http://arxiv.org/abs/2308.07728)|null|
 |**2023-08-14**|**Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification**|Olesya Razuvayevskaya et.al.|[2308.07282](http://arxiv.org/abs/2308.07282)|null|
 |**2023-06-20**|**Multi-task Collaborative Pre-training and Individual-adaptive-tokens Fine-tuning: A Unified Framework for Brain Representation Learning**|Ning Jiang et.al.|[2306.11378](http://arxiv.org/abs/2306.11378)|null|
 |**2023-06-16**|**Catastrophic Forgetting in the Context of Model Updates**|Rich Harang et.al.|[2306.10181](http://arxiv.org/abs/2306.10181)|null|
