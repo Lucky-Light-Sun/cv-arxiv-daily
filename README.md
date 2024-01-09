@@ -79,6 +79,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**Fully Attentional Networks with Self-emerging Token Labeling**|Bingyin Zhao et.al.|[2401.03844](http://arxiv.org/abs/2401.03844)|null|
+|**2024-01-07**|**SeTformer is What You Need for Vision and Language**|Pourya Shamsolmoali et.al.|[2401.03540](http://arxiv.org/abs/2401.03540)|null|
+|**2024-01-06**|**Multi-View 3D Instance Segmentation of Structural Anomalies for Enhanced Structural Inspection of Concrete Bridges**|Christian Benz et.al.|[2401.03298](http://arxiv.org/abs/2401.03298)|null|
 |**2024-01-02**|**Unsupervised Federated Domain Adaptation for Segmentation of MRI Images**|Navapat Nananukul et.al.|[2401.02941](http://arxiv.org/abs/2401.02941)|null|
 |**2024-01-04**|**ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation**|Xinyang Pu et.al.|[2401.02326](http://arxiv.org/abs/2401.02326)|**[link](https://github.com/xypu98/cwsam)**|
 |**2024-01-03**|**Towards Robust Semantic Segmentation against Patch-based Attack via Attention Refinement**|Zheng Yuan et.al.|[2401.01750](http://arxiv.org/abs/2401.01750)|null|
