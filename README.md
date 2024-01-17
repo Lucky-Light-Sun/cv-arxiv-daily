@@ -79,6 +79,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Faster ISNet for Background Bias Mitigation on Deep Neural Networks**|Pedro R. A. S. Bassi et.al.|[2401.08409](http://arxiv.org/abs/2401.08409)|null|
+|**2024-01-16**|**Generative Denoise Distillation: Simple Stochastic Noises Induce Efficient Knowledge Transfer for Dense Prediction**|Zhaoge Liu et.al.|[2401.08332](http://arxiv.org/abs/2401.08332)|**[link](https://github.com/ZhgLiu/GDD)**|
+|**2024-01-16**|**End-to-End Optimized Image Compression with the Frequency-Oriented Transform**|Yuefeng Zhang et.al.|[2401.08194](http://arxiv.org/abs/2401.08194)|null|
+|**2024-01-16**|**S3M: Semantic Segmentation Sparse Mapping for UAVs with RGB-D Camera**|Thanh Nguyen Canh et.al.|[2401.08134](http://arxiv.org/abs/2401.08134)|null|
+|**2024-01-16**|**UV-SAM: Adapting Segment Anything Model for Urban Village Identification**|Xin Zhang et.al.|[2401.08083](http://arxiv.org/abs/2401.08083)|**[link](https://github.com/tsinghua-fib-lab/uv-sam)**|
+|**2024-01-15**|**Semantic Scene Segmentation for Robotics**|Juana Valeria Hurtado et.al.|[2401.07589](http://arxiv.org/abs/2401.07589)|null|
+|**2024-01-15**|**Compositional Oil Spill Detection Based on Object Detector and Adapted Segment Anything Model from SAR Images**|Wenhui Wu et.al.|[2401.07502](http://arxiv.org/abs/2401.07502)|null|
+|**2024-01-15**|**Semantic Segmentation in Multiple Adverse Weather Conditions with Domain Knowledge Retention**|Xin Yang et.al.|[2401.07459](http://arxiv.org/abs/2401.07459)|null|
+|**2024-01-13**|**Weak Labeling for Cropland Mapping in Africa**|Gilles Quentin Hacheme et.al.|[2401.07014](http://arxiv.org/abs/2401.07014)|null|
 |**2024-01-12**|**Seeing the roads through the trees: A benchmark for modeling spatial dependencies with aerial imagery**|Caleb Robinson et.al.|[2401.06762](http://arxiv.org/abs/2401.06762)|**[link](https://github.com/isaaccorley/chesapeakersc)**|
 |**2024-01-12**|**UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding**|Bowen Shi et.al.|[2401.06397](http://arxiv.org/abs/2401.06397)|null|
 |**2024-01-11**|**Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications**|Yuwen Xiong et.al.|[2401.06197](http://arxiv.org/abs/2401.06197)|**[link](https://github.com/opengvlab/dcnv4)**|
@@ -188,6 +197,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Aman Gupta et.al.|[2401.08406](http://arxiv.org/abs/2401.08406)|null|
 |**2023-12-25**|**Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers**|Peng Ye et.al.|[2312.15681](http://arxiv.org/abs/2312.15681)|null|
 |**2023-10-19**|**Towards Anytime Fine-tuning: Continually Pre-trained Language Models with Hypernetwork Prompt**|Gangwei Jiang et.al.|[2310.13024](http://arxiv.org/abs/2310.13024)|**[link](https://github.com/gangwjiang/hprompt-cpt)**|
 |**2023-10-12**|**Learn From Model Beyond Fine-Tuning: A Survey**|Hongling Zheng et.al.|[2310.08184](http://arxiv.org/abs/2310.08184)|**[link](https://github.com/ruthless-man/awesome-learn-from-model)**|
