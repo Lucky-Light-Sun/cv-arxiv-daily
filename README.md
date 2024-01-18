@@ -79,8 +79,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/vim)**|
+|**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
+|**2024-01-17**|**PixelDINO: Semi-Supervised Semantic Segmentation for Detecting Permafrost Disturbances**|Konrad Heidler et.al.|[2401.09271](http://arxiv.org/abs/2401.09271)|null|
+|**2024-01-17**|**Uncertainty estimates for semantic segmentation: providing enhanced reliability for automated motor claims handling**|Jan Küchler et.al.|[2401.09245](http://arxiv.org/abs/2401.09245)|null|
+|**2024-01-17**|**Learning to detect cloud and snow in remote sensing images from noisy labels**|Zili Liu et.al.|[2401.08932](http://arxiv.org/abs/2401.08932)|null|
+|**2024-01-16**|**Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive**|Yumeng Li et.al.|[2401.08815](http://arxiv.org/abs/2401.08815)|**[link](https://github.com/boschresearch/aldm)**|
+|**2024-01-16**|**ValUES: A Framework for Systematic Validation of Uncertainty Estimation in Semantic Segmentation**|Kim-Celine Kahl et.al.|[2401.08501](http://arxiv.org/abs/2401.08501)|**[link](https://github.com/iml-dkfz/values)**|
 |**2024-01-16**|**Faster ISNet for Background Bias Mitigation on Deep Neural Networks**|Pedro R. A. S. Bassi et.al.|[2401.08409](http://arxiv.org/abs/2401.08409)|null|
-|**2024-01-16**|**Generative Denoise Distillation: Simple Stochastic Noises Induce Efficient Knowledge Transfer for Dense Prediction**|Zhaoge Liu et.al.|[2401.08332](http://arxiv.org/abs/2401.08332)|**[link](https://github.com/ZhgLiu/GDD)**|
+|**2024-01-17**|**Generative Denoise Distillation: Simple Stochastic Noises Induce Efficient Knowledge Transfer for Dense Prediction**|Zhaoge Liu et.al.|[2401.08332](http://arxiv.org/abs/2401.08332)|**[link](https://github.com/ZhgLiu/GDD)**|
 |**2024-01-16**|**End-to-End Optimized Image Compression with the Frequency-Oriented Transform**|Yuefeng Zhang et.al.|[2401.08194](http://arxiv.org/abs/2401.08194)|null|
 |**2024-01-16**|**S3M: Semantic Segmentation Sparse Mapping for UAVs with RGB-D Camera**|Thanh Nguyen Canh et.al.|[2401.08134](http://arxiv.org/abs/2401.08134)|null|
 |**2024-01-16**|**UV-SAM: Adapting Segment Anything Model for Urban Village Identification**|Xin Zhang et.al.|[2401.08083](http://arxiv.org/abs/2401.08083)|**[link](https://github.com/tsinghua-fib-lab/uv-sam)**|
