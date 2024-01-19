@@ -68,9 +68,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**RAP-SAM: Towards Real-Time All-Purpose Segment Anything**|Shilin Xu et.al.|[2401.10228](http://arxiv.org/abs/2401.10228)|**[link](https://github.com/xushilin1/rap-sam)**|
+|**2024-01-18**|**Ventricular Segmentation: A Brief Comparison of U-Net Derivatives**|Ketan Suhaas Saichandran et.al.|[2401.09980](http://arxiv.org/abs/2401.09980)|null|
+|**2024-01-18**|**XAI-Enhanced Semantic Segmentation Models for Visual Quality Inspection**|Tobias Clement et.al.|[2401.09900](http://arxiv.org/abs/2401.09900)|null|
+|**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
+|**2024-01-18**|**Boosting Few-Shot Semantic Segmentation Via Segment Anything Model**|Chen-Bin Feng et.al.|[2401.09826](http://arxiv.org/abs/2401.09826)|null|
+|**2024-01-18**|**P2Seg: Pointly-supervised Segmentation via Mutual Distillation**|Zipeng Wang et.al.|[2401.09709](http://arxiv.org/abs/2401.09709)|null|
 |**2024-01-17**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/vim)**|
 |**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
-|**2024-01-17**|**PixelDINO: Semi-Supervised Semantic Segmentation for Detecting Permafrost Disturbances**|Konrad Heidler et.al.|[2401.09271](http://arxiv.org/abs/2401.09271)|null|
+|**2024-01-17**|**PixelDINO: Semi-Supervised Semantic Segmentation for Detecting Permafrost Disturbances**|Konrad Heidler et.al.|[2401.09271](http://arxiv.org/abs/2401.09271)|**[link](https://github.com/khdlr/pixeldino)**|
 |**2024-01-17**|**Uncertainty estimates for semantic segmentation: providing enhanced reliability for automated motor claims handling**|Jan Küchler et.al.|[2401.09245](http://arxiv.org/abs/2401.09245)|null|
 |**2024-01-17**|**Learning to detect cloud and snow in remote sensing images from noisy labels**|Zili Liu et.al.|[2401.08932](http://arxiv.org/abs/2401.08932)|null|
 |**2024-01-16**|**Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive**|Yumeng Li et.al.|[2401.08815](http://arxiv.org/abs/2401.08815)|**[link](https://github.com/boschresearch/aldm)**|
@@ -191,7 +197,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-16**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Aman Gupta et.al.|[2401.08406](http://arxiv.org/abs/2401.08406)|null|
+|**2024-01-17**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Angels Balaguer et.al.|[2401.08406](http://arxiv.org/abs/2401.08406)|null|
 |**2023-12-25**|**Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers**|Peng Ye et.al.|[2312.15681](http://arxiv.org/abs/2312.15681)|null|
 |**2023-10-19**|**Towards Anytime Fine-tuning: Continually Pre-trained Language Models with Hypernetwork Prompt**|Gangwei Jiang et.al.|[2310.13024](http://arxiv.org/abs/2310.13024)|**[link](https://github.com/gangwjiang/hprompt-cpt)**|
 |**2023-10-12**|**Learn From Model Beyond Fine-Tuning: A Survey**|Hongling Zheng et.al.|[2310.08184](http://arxiv.org/abs/2310.08184)|**[link](https://github.com/ruthless-man/awesome-learn-from-model)**|
