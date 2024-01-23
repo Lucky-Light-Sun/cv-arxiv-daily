@@ -29,7 +29,7 @@
 |**2023-11-29**|**Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation**|Zhen Zhao et.al.|[2311.17325](http://arxiv.org/abs/2311.17325)|**[link](https://github.com/zhenzhao/ad-mt)**|
 |**2023-11-27**|**Only Positive Cases: 5-fold High-order Attention Interaction Model for Skin Segmentation Derived Classification**|Renkai Wu et.al.|[2311.15625](http://arxiv.org/abs/2311.15625)|**[link](https://github.com/wurenkai/MHA-UNet)**|
 |**2023-11-13**|**Assessing Test-time Variability for Interactive 3D Medical Image Segmentation with Diverse Point Prompts**|Hao Li et.al.|[2311.07806](http://arxiv.org/abs/2311.07806)|**[link](https://github.com/medicl-vu/variability)**|
-|**2023-11-03**|**FairSeg: A Large-scale Medical Image Segmentation Dataset for Fairness Learning with Fair Error-Bound Scaling**|Yu Tian et.al.|[2311.02189](http://arxiv.org/abs/2311.02189)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairseg)**|
+|**2024-01-19**|**Harvard FairSeg: A Large-Scale Medical Image Segmentation Dataset for Fairness Learning Using Segment Anything Model with Fair Error-Bound Scaling**|Yu Tian et.al.|[2311.02189](http://arxiv.org/abs/2311.02189)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairseg)**|
 |**2023-11-02**|**Hybrid-Fusion Transformer for Multisequence MRI**|Jihoon Cho et.al.|[2311.01308](http://arxiv.org/abs/2311.01308)|null|
 |**2023-10-30**|**Radiomics as a measure superior to the Dice similarity coefficient for tumor segmentation performance evaluation**|Yoichi Watanabe et.al.|[2310.20039](http://arxiv.org/abs/2310.20039)|null|
 |**2023-10-23**|**Vicinal Feature Statistics Augmentation for Federated 3D Medical Volume Segmentation**|Yongsong Huang et.al.|[2310.15371](http://arxiv.org/abs/2310.15371)|null|
@@ -79,6 +79,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Exploring Simple Open-Vocabulary Semantic Segmentation**|Zihang Lai et.al.|[2401.12217](http://arxiv.org/abs/2401.12217)|null|
+|**2024-01-22**|**Out-of-Distribution Detection & Applications With Ablated Learned Temperature Energy**|Will LeVine et.al.|[2401.12129](http://arxiv.org/abs/2401.12129)|null|
+|**2024-01-22**|**HomeRobot Open Vocabulary Mobile Manipulation Challenge 2023 Participant Report (Team KuzHum)**|Volodymyr Kuzma et.al.|[2401.12048](http://arxiv.org/abs/2401.12048)|null|
+|**2024-01-22**|**SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation**|Ci-Siang Lin et.al.|[2401.11791](http://arxiv.org/abs/2401.11791)|null|
+|**2024-01-22**|**EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models**|Koichi Namekata et.al.|[2401.11739](http://arxiv.org/abs/2401.11739)|null|
+|**2024-01-22**|**MetaSeg: Content-Aware Meta-Net for Omni-Supervised Semantic Segmentation**|Shenwang Jiang et.al.|[2401.11738](http://arxiv.org/abs/2401.11738)|null|
+|**2024-01-22**|**SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation**|Xinqiao Zhao et.al.|[2401.11719](http://arxiv.org/abs/2401.11719)|**[link](https://github.com/barrett-python/sfc)**|
+|**2024-01-21**|**A Survey on African Computer Vision Datasets, Topics and Researchers**|Abdul-Hakeem Omotayo et.al.|[2401.11617](http://arxiv.org/abs/2401.11617)|null|
+|**2024-01-21**|**Embedded Hyperspectral Band Selection with Adaptive Optimization for Image Semantic Segmentation**|Yaniv Zimmer et.al.|[2401.11420](http://arxiv.org/abs/2401.11420)|null|
+|**2024-01-21**|**S $^3$ M-Net: Joint Learning of Semantic Segmentation and Stereo Matching for Autonomous Driving**|Zhiyuan Wu et.al.|[2401.11414](http://arxiv.org/abs/2401.11414)|null|
+|**2024-01-21**|**ANNA: A Deep Learning Based Dataset in Heterogeneous Traffic for Autonomous Vehicles**|Mahedi Kamal et.al.|[2401.11358](http://arxiv.org/abs/2401.11358)|null|
+|**2024-01-20**|**Weakly-Supervised Semantic Segmentation of Circular-Scan, Synthetic-Aperture-Sonar Imagery**|Isaac J. Sledge et.al.|[2401.11313](http://arxiv.org/abs/2401.11313)|null|
+|**2024-01-20**|**A Novel Benchmark for Few-Shot Semantic Segmentation in the Era of Foundation Models**|Reda Bensaid et.al.|[2401.11311](http://arxiv.org/abs/2401.11311)|null|
+|**2024-01-20**|**Spatial Structure Constraints for Weakly Supervised Semantic Segmentation**|Tao Chen et.al.|[2401.11122](http://arxiv.org/abs/2401.11122)|null|
 |**2024-01-19**|**RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision**|Fernando Pérez-García et.al.|[2401.10815](http://arxiv.org/abs/2401.10815)|null|
 |**2024-01-19**|**Exploring Color Invariance through Image-Level Ensemble Learning**|Yunpeng Gong et.al.|[2401.10512](http://arxiv.org/abs/2401.10512)|**[link](https://github.com/finger-monkey/Data-Augmentation)**|
 |**2024-01-18**|**RAP-SAM: Towards Real-Time All-Purpose Segment Anything**|Shilin Xu et.al.|[2401.10228](http://arxiv.org/abs/2401.10228)|**[link](https://github.com/xushilin1/rap-sam)**|
