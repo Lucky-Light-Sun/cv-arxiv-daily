@@ -79,6 +79,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer**|Sonal Kumar et.al.|[2401.12820](http://arxiv.org/abs/2401.12820)|null|
+|**2024-01-23**|**Self-Supervised Vision Transformers Are Efficient Segmentation Learners for Imperfect Labels**|Seungho Lee et.al.|[2401.12535](http://arxiv.org/abs/2401.12535)|null|
+|**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
+|**2024-01-22**|**Scaling Up Quantization-Aware Neural Architecture Search for Efficient Deep Learning on the Edge**|Yao Lu et.al.|[2401.12350](http://arxiv.org/abs/2401.12350)|null|
 |**2024-01-22**|**Exploring Simple Open-Vocabulary Semantic Segmentation**|Zihang Lai et.al.|[2401.12217](http://arxiv.org/abs/2401.12217)|null|
 |**2024-01-22**|**Out-of-Distribution Detection & Applications With Ablated Learned Temperature Energy**|Will LeVine et.al.|[2401.12129](http://arxiv.org/abs/2401.12129)|**[link](https://github.com/anonymousoodauthor/abet)**|
 |**2024-01-22**|**HomeRobot Open Vocabulary Mobile Manipulation Challenge 2023 Participant Report (Team KuzHum)**|Volodymyr Kuzma et.al.|[2401.12048](http://arxiv.org/abs/2401.12048)|null|
