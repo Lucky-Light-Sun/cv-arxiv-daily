@@ -79,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[2401.14325](http://arxiv.org/abs/2401.14325)|null|
 |**2024-01-24**|**Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation**|Saiyang Na et.al.|[2401.13220](http://arxiv.org/abs/2401.13220)|null|
 |**2024-01-24**|**Boundary and Relation Distillation for Semantic Segmentation**|Dong Zhang et.al.|[2401.13174](http://arxiv.org/abs/2401.13174)|null|
 |**2024-01-23**|**DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer**|Sonal Kumar et.al.|[2401.12820](http://arxiv.org/abs/2401.12820)|null|
