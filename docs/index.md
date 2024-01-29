@@ -88,7 +88,7 @@ layout: default
 |**2024-01-21**|**ANNA: A Deep Learning Based Dataset in Heterogeneous Traffic for Autonomous Vehicles**|Mahedi Kamal et.al.|[2401.11358](http://arxiv.org/abs/2401.11358)|null|
 |**2024-01-20**|**Weakly-Supervised Semantic Segmentation of Circular-Scan, Synthetic-Aperture-Sonar Imagery**|Isaac J. Sledge et.al.|[2401.11313](http://arxiv.org/abs/2401.11313)|null|
 |**2024-01-20**|**A Novel Benchmark for Few-Shot Semantic Segmentation in the Era of Foundation Models**|Reda Bensaid et.al.|[2401.11311](http://arxiv.org/abs/2401.11311)|null|
-|**2024-01-20**|**Spatial Structure Constraints for Weakly Supervised Semantic Segmentation**|Tao Chen et.al.|[2401.11122](http://arxiv.org/abs/2401.11122)|null|
+|**2024-01-20**|**Spatial Structure Constraints for Weakly Supervised Semantic Segmentation**|Tao Chen et.al.|[2401.11122](http://arxiv.org/abs/2401.11122)|**[link](https://github.com/nust-machine-intelligence-laboratory/ssc)**|
 |**2024-01-19**|**RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision**|Fernando Pérez-García et.al.|[2401.10815](http://arxiv.org/abs/2401.10815)|null|
 |**2024-01-19**|**Exploring Color Invariance through Image-Level Ensemble Learning**|Yunpeng Gong et.al.|[2401.10512](http://arxiv.org/abs/2401.10512)|**[link](https://github.com/finger-monkey/Data-Augmentation)**|
 |**2024-01-18**|**RAP-SAM: Towards Real-Time All-Purpose Segment Anything**|Shilin Xu et.al.|[2401.10228](http://arxiv.org/abs/2401.10228)|**[link](https://github.com/xushilin1/rap-sam)**|
