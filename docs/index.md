@@ -68,6 +68,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Evaluation of Out-of-Distribution Detection Performance on Autonomous Driving Datasets**|Jens Henriksson et.al.|[2401.17013](http://arxiv.org/abs/2401.17013)|null|
+|**2024-01-30**|**CAFCT: Contextual and Attentional Feature Fusions of Convolutional Neural Networks and Transformer for Liver Tumor Segmentation**|Ming Kang et.al.|[2401.16886](http://arxiv.org/abs/2401.16886)|null|
+|**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
 |**2024-01-28**|**SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks**|Serdar Erisen et.al.|[2401.15741](http://arxiv.org/abs/2401.15741)|null|
 |**2024-01-28**|**UP-CrackNet: Unsupervised Pixel-Wise Road Crack Detection via Adversarial Image Restoration**|Nachuan Ma et.al.|[2401.15647](http://arxiv.org/abs/2401.15647)|null|
 |**2024-01-27**|**Vanishing-Point-Guided Video Semantic Segmentation of Driving Scenes**|Diandian Guo et.al.|[2401.15261](http://arxiv.org/abs/2401.15261)|null|
@@ -227,7 +230,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-17**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Angels Balaguer et.al.|[2401.08406](http://arxiv.org/abs/2401.08406)|null|
+|**2024-01-30**|**Category-wise Fine-Tuning: Resisting Incorrect Pseudo-Labels in Multi-Label Image Classification with Partial Labels**|Chak Fong Chong et.al.|[2401.16991](http://arxiv.org/abs/2401.16991)|null|
+|**2024-01-30**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Angels Balaguer et.al.|[2401.08406](http://arxiv.org/abs/2401.08406)|null|
 |**2023-12-25**|**Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers**|Peng Ye et.al.|[2312.15681](http://arxiv.org/abs/2312.15681)|null|
 |**2023-10-19**|**Towards Anytime Fine-tuning: Continually Pre-trained Language Models with Hypernetwork Prompt**|Gangwei Jiang et.al.|[2310.13024](http://arxiv.org/abs/2310.13024)|**[link](https://github.com/gangwjiang/hprompt-cpt)**|
 |**2023-10-12**|**Learn From Model Beyond Fine-Tuning: A Survey**|Hongling Zheng et.al.|[2310.08184](http://arxiv.org/abs/2310.08184)|**[link](https://github.com/ruthless-man/awesome-learn-from-model)**|
