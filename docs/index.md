@@ -23,7 +23,7 @@ layout: default
 |**2023-11-27**|**Only Positive Cases: 5-fold High-order Attention Interaction Model for Skin Segmentation Derived Classification**|Renkai Wu et.al.|[2311.15625](http://arxiv.org/abs/2311.15625)|**[link](https://github.com/wurenkai/MHA-UNet)**|
 |**2023-11-13**|**Assessing Test-time Variability for Interactive 3D Medical Image Segmentation with Diverse Point Prompts**|Hao Li et.al.|[2311.07806](http://arxiv.org/abs/2311.07806)|**[link](https://github.com/medicl-vu/variability)**|
 |**2024-01-19**|**Harvard FairSeg: A Large-Scale Medical Image Segmentation Dataset for Fairness Learning Using Segment Anything Model with Fair Error-Bound Scaling**|Yu Tian et.al.|[2311.02189](http://arxiv.org/abs/2311.02189)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairseg)**|
-|**2023-11-02**|**Hybrid-Fusion Transformer for Multisequence MRI**|Jihoon Cho et.al.|[2311.01308](http://arxiv.org/abs/2311.01308)|null|
+|**2023-11-02**|**Hybrid-Fusion Transformer for Multisequence MRI**|Jihoon Cho et.al.|[2311.01308](http://arxiv.org/abs/2311.01308)|**[link](https://github.com/zinic95/HFTrans)**|
 |**2023-10-30**|**Radiomics as a measure superior to the Dice similarity coefficient for tumor segmentation performance evaluation**|Yoichi Watanabe et.al.|[2310.20039](http://arxiv.org/abs/2310.20039)|null|
 |**2023-10-23**|**Vicinal Feature Statistics Augmentation for Federated 3D Medical Volume Segmentation**|Yongsong Huang et.al.|[2310.15371](http://arxiv.org/abs/2310.15371)|null|
 |**2023-10-09**|**High Accuracy and Cost-Saving Active Learning 3D WD-UNet for Airway Segmentation**|Shiyi Wang et.al.|[2310.05638](http://arxiv.org/abs/2310.05638)|null|
@@ -68,6 +68,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model**|Zihan Zhong et.al.|[2401.17868](http://arxiv.org/abs/2401.17868)|null|
+|**2024-01-31**|**Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation**|Rozhan Ahmadi et.al.|[2401.17828](http://arxiv.org/abs/2401.17828)|null|
+|**2024-01-31**|**Tiered approach for rapid damage characterisation of infrastructure enabled by remote sensing and deep learning technologies**|Nadiia Kopiika et.al.|[2401.17759](http://arxiv.org/abs/2401.17759)|null|
+|**2024-01-31**|**Towards Image Semantics and Syntax Sequence Learning**|Chun Tao et.al.|[2401.17515](http://arxiv.org/abs/2401.17515)|null|
 |**2024-01-30**|**Evaluation of Out-of-Distribution Detection Performance on Autonomous Driving Datasets**|Jens Henriksson et.al.|[2401.17013](http://arxiv.org/abs/2401.17013)|null|
 |**2024-01-30**|**CAFCT: Contextual and Attentional Feature Fusions of Convolutional Neural Networks and Transformer for Liver Tumor Segmentation**|Ming Kang et.al.|[2401.16886](http://arxiv.org/abs/2401.16886)|null|
 |**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
