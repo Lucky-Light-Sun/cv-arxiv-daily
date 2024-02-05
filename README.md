@@ -79,6 +79,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Convolution kernel adaptation to calibrated fisheye**|Bruno Berenguel-Baeta et.al.|[2402.01456](http://arxiv.org/abs/2402.01456)|**[link](https://github.com/sbrunoberenguel/calibratedconvolutions)**|
+|**2024-02-02**|**Delving into Decision-based Black-box Attacks on Semantic Segmentation**|Zhaoyu Chen et.al.|[2402.01220](http://arxiv.org/abs/2402.01220)|null|
+|**2024-02-02**|**Scale Equalization for Multi-Level Feature Fusion**|Bum Jun Kim et.al.|[2402.01149](http://arxiv.org/abs/2402.01149)|null|
 |**2024-02-01**|**We're Not Using Videos Effectively: An Updated Domain Adaptive Video Segmentation Baseline**|Simar Kareer et.al.|[2402.00868](http://arxiv.org/abs/2402.00868)|**[link](https://github.com/simarkareer/unifiedvideoda)**|
 |**2024-02-01**|**Automatic Segmentation of the Spinal Cord Nerve Rootlets**|Jan Valosek et.al.|[2402.00724](http://arxiv.org/abs/2402.00724)|null|
 |**2024-02-01**|**A Framework for Building Point Cloud Cleaning, Plane Detection and Semantic Segmentation**|Ilyass Abouelaziz et.al.|[2402.00692](http://arxiv.org/abs/2402.00692)|null|
@@ -250,6 +253,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback**|Jian Guan et.al.|[2402.01469](http://arxiv.org/abs/2402.01469)|null|
 |**2024-01-30**|**Category-wise Fine-Tuning: Resisting Incorrect Pseudo-Labels in Multi-Label Image Classification with Partial Labels**|Chak Fong Chong et.al.|[2401.16991](http://arxiv.org/abs/2401.16991)|**[link](https://github.com/maxium0526/category-wise-fine-tuning)**|
 |**2024-01-30**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Angels Balaguer et.al.|[2401.08406](http://arxiv.org/abs/2401.08406)|null|
 |**2023-12-25**|**Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers**|Peng Ye et.al.|[2312.15681](http://arxiv.org/abs/2312.15681)|null|
