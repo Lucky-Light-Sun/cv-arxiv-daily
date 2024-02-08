@@ -79,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Multi-Scale Semantic Segmentation with Modified MBConv Blocks**|Xi Chen et.al.|[2402.04618](http://arxiv.org/abs/2402.04618)|null|
 |**2024-02-06**|**Energy-based Domain-Adaptive Segmentation with Depth Guidance**|Jinjing Zhu et.al.|[2402.03795](http://arxiv.org/abs/2402.03795)|null|
 |**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246](http://arxiv.org/abs/2402.03246)|null|
 |**2024-02-05**|**RRWNet: Recursive Refinement Network for Effective Retinal Artery/Vein Segmentation and Classification**|José Morano et.al.|[2402.03166](http://arxiv.org/abs/2402.03166)|**[link](https://github.com/j-morano/rrwnet)**|
