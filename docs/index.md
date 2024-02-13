@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Make it more specific: A novel uncertainty based airway segmentation application on 3D U-Net and its variants**|Shiyi Wang et.al.|[2402.07403](http://arxiv.org/abs/2402.07403)|null|
 |**2023-12-16**|**Exploring UMAP in hybrid models of entropy-based and representativeness sampling for active learning in biomedical segmentation**|H. S. Tan et.al.|[2312.10361](http://arxiv.org/abs/2312.10361)|null|
 |**2023-12-12**|**Benchmarking Pretrained Vision Embeddings for Near- and Duplicate Detection in Medical Images**|Tuan Truong et.al.|[2312.07273](http://arxiv.org/abs/2312.07273)|null|
 |**2023-12-22**|**DG-TTA: Out-of-domain medical image segmentation through Domain Generalization and Test-Time Adaptation**|Christian Weihsbach et.al.|[2312.06275](http://arxiv.org/abs/2312.06275)|**[link](https://github.com/multimodallearning/dg-tta)**|
@@ -68,6 +69,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-11**|**Data Quality Aware Approaches for Addressing Model Drift of Semantic Segmentation Models**|Samiha Mirza et.al.|[2402.07258](http://arxiv.org/abs/2402.07258)|null|
 |**2024-02-09**|**More than the Sum of Its Parts: Ensembling Backbone Networks for Few-Shot Segmentation**|Nico Catalano et.al.|[2402.06581](http://arxiv.org/abs/2402.06581)|null|
 |**2024-02-09**|**Hybridnet for depth estimation and semantic segmentation**|Dalila Sánchez-Escobedo et.al.|[2402.06539](http://arxiv.org/abs/2402.06539)|null|
 |**2024-02-09**|**Classifying point clouds at the facade-level using geometric features and deep learning networks**|Yue Tan et.al.|[2402.06506](http://arxiv.org/abs/2402.06506)|**[link](https://github.com/yue-t99/pointnet2-geometricfeatures-facade)**|
