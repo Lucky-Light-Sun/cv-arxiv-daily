@@ -276,6 +276,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**Astrophysical and relativistic modeling of the recoiling black-hole candidate in quasar 3C 186**|Matteo Boschini et.al.|[2402.08740](http://arxiv.org/abs/2402.08740)|null|
 |**2024-02-02**|**AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback**|Jian Guan et.al.|[2402.01469](http://arxiv.org/abs/2402.01469)|null|
 |**2024-01-30**|**Category-wise Fine-Tuning: Resisting Incorrect Pseudo-Labels in Multi-Label Image Classification with Partial Labels**|Chak Fong Chong et.al.|[2401.16991](http://arxiv.org/abs/2401.16991)|**[link](https://github.com/maxium0526/category-wise-fine-tuning)**|
 |**2024-01-30**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Angels Balaguer et.al.|[2401.08406](http://arxiv.org/abs/2401.08406)|null|
