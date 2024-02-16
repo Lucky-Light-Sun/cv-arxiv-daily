@@ -80,6 +80,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Is Continual Learning Ready for Real-world Challenges?**|Theodora Kontogianni et.al.|[2402.10130](http://arxiv.org/abs/2402.10130)|null|
+|**2024-02-15**|**Robust semi-automatic vessel tracing in the human retinal image by an instance segmentation neural network**|Siyi Chen et.al.|[2402.10055](http://arxiv.org/abs/2402.10055)|null|
+|**2024-02-15**|**MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding**|Hai-Tao Yu et.al.|[2402.10002](http://arxiv.org/abs/2402.10002)|**[link](https://github.com/haydenyu/mm-point)**|
+|**2024-02-14**|**Automated Plaque Detection and Agatston Score Estimation on Non-Contrast CT Scans: A Multicenter Study**|Andrew M. Nguyen et.al.|[2402.09569](http://arxiv.org/abs/2402.09569)|null|
+|**2024-02-14**|**Reducing Texture Bias of Deep Neural Networks via Edge Enhancing Diffusion**|Edgar Heinert et.al.|[2402.09530](http://arxiv.org/abs/2402.09530)|null|
 |**2024-02-13**|**Adaptive Hierarchical Certification for Segmentation using Randomized Smoothing**|Alaa Anani et.al.|[2402.08400](http://arxiv.org/abs/2402.08400)|null|
 |**2024-02-13**|**Improving Image Coding for Machines through Optimizing Encoder via Auxiliary Loss**|Kei Iino et.al.|[2402.08267](http://arxiv.org/abs/2402.08267)|null|
 |**2024-02-12**|**Semantic segmentation for recognition of epileptiform patterns recorded via Microelectrode Arrays in vitro**|Gabriel Galeote-Checa et.al.|[2402.08099](http://arxiv.org/abs/2402.08099)|null|
