@@ -59,7 +59,7 @@
 |**2023-12-07**|**Diffusion Reflectance Map: Single-Image Stochastic Inverse Rendering of Illumination and Reflectance**|Yuto Enyo et.al.|[2312.04529](http://arxiv.org/abs/2312.04529)|null|
 |**2023-12-07**|**RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models**|Ozgur Kara et.al.|[2312.04524](http://arxiv.org/abs/2312.04524)|**[link](https://github.com/rehg-lab/rave)**|
 |**2023-12-29**|**Identifying and Mitigating the Security Risks of Generative AI**|Clark Barrett et.al.|[2308.14840](http://arxiv.org/abs/2308.14840)|null|
-|**2023-07-26**|**Nonlocality of Mean Scalar Transport in Two-Dimensional Rayleigh-Taylor Instability Using the Macroscopic Forcing Method**|Dana Lynn O. -L. Lavacot et.al.|[2307.13911](http://arxiv.org/abs/2307.13911)|null|
+|**2024-02-15**|**Nonlocality of Mean Scalar Transport in Two-Dimensional Rayleigh-Taylor Instability Using the Macroscopic Forcing Method**|Dana Lynn O. -L. Lavacot et.al.|[2307.13911](http://arxiv.org/abs/2307.13911)|null|
 |**2023-07-03**|**A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering**|Chaoning Zhang et.al.|[2306.06211](http://arxiv.org/abs/2306.06211)|null|
 |**2023-10-26**|**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**|Yonglong Tian et.al.|[2306.00984](http://arxiv.org/abs/2306.00984)|**[link](https://github.com/google-research/syn-rep-learn)**|
 |**2023-11-01**|**DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models**|Ying Fan et.al.|[2305.16381](http://arxiv.org/abs/2305.16381)|**[link](https://github.com/google-research/google-research)**|
@@ -80,6 +80,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**HistoSegCap: Capsules for Weakly-Supervised Semantic Segmentation of Histological Tissue Type in Whole Slide Images**|Mobina Mansoori et.al.|[2402.10851](http://arxiv.org/abs/2402.10851)|null|
+|**2024-02-16**|**Selective Prediction for Semantic Segmentation using Post-Hoc Confidence Estimation and Its Performance under Distribution Shift**|Bruno Laboissiere Camargos Borges et.al.|[2402.10665](http://arxiv.org/abs/2402.10665)|null|
+|**2024-02-16**|**Efficient Multi-task Uncertainties for Joint Semantic Segmentation and Monocular Depth Estimation**|Steven Landgraf et.al.|[2402.10580](http://arxiv.org/abs/2402.10580)|null|
 |**2024-02-15**|**Is Continual Learning Ready for Real-world Challenges?**|Theodora Kontogianni et.al.|[2402.10130](http://arxiv.org/abs/2402.10130)|null|
 |**2024-02-15**|**Robust semi-automatic vessel tracing in the human retinal image by an instance segmentation neural network**|Siyi Chen et.al.|[2402.10055](http://arxiv.org/abs/2402.10055)|null|
 |**2024-02-15**|**MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding**|Hai-Tao Yu et.al.|[2402.10002](http://arxiv.org/abs/2402.10002)|**[link](https://github.com/haydenyu/mm-point)**|
