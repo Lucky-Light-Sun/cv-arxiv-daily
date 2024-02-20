@@ -69,6 +69,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Towards Explainable LiDAR Point Cloud Semantic Segmentation via Gradient Based Target Localization**|Abhishek Kuriyal et.al.|[2402.12098](http://arxiv.org/abs/2402.12098)|**[link](https://github.com/geoai4cities/pgs-cam)**|
+|**2024-02-19**|**ISCUTE: Instance Segmentation of Cables Using Text Embedding**|Shir Kozlovsky et.al.|[2402.11996](http://arxiv.org/abs/2402.11996)|null|
+|**2024-02-18**|**Key Patch Proposer: Key Patches Contain Rich Information**|Jing Xu et.al.|[2402.11458](http://arxiv.org/abs/2402.11458)|**[link](https://github.com/ca-tt-ac/key-patch-proposer)**|
+|**2024-02-17**|**ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing**|Zhenghang Yuan et.al.|[2402.11325](http://arxiv.org/abs/2402.11325)|null|
+|**2024-02-17**|**A Decoding Scheme with Successive Aggregation of Multi-Level Features for Light-Weight Semantic Segmentation**|Jiwon Yoo et.al.|[2402.11201](http://arxiv.org/abs/2402.11201)|null|
 |**2024-02-16**|**HistoSegCap: Capsules for Weakly-Supervised Semantic Segmentation of Histological Tissue Type in Whole Slide Images**|Mobina Mansoori et.al.|[2402.10851](http://arxiv.org/abs/2402.10851)|null|
 |**2024-02-16**|**Selective Prediction for Semantic Segmentation using Post-Hoc Confidence Estimation and Its Performance under Distribution Shift**|Bruno Laboissiere Camargos Borges et.al.|[2402.10665](http://arxiv.org/abs/2402.10665)|null|
 |**2024-02-16**|**Efficient Multi-task Uncertainties for Joint Semantic Segmentation and Monocular Depth Estimation**|Steven Landgraf et.al.|[2402.10580](http://arxiv.org/abs/2402.10580)|null|
@@ -271,9 +276,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-18**|**Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark**|Yihua Zhang et.al.|[2402.11592](http://arxiv.org/abs/2402.11592)|null|
 |**2024-02-13**|**Astrophysical and relativistic modeling of the recoiling black-hole candidate in quasar 3C 186**|Matteo Boschini et.al.|[2402.08740](http://arxiv.org/abs/2402.08740)|null|
 |**2024-02-02**|**AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback**|Jian Guan et.al.|[2402.01469](http://arxiv.org/abs/2402.01469)|null|
 |**2024-01-30**|**Category-wise Fine-Tuning: Resisting Incorrect Pseudo-Labels in Multi-Label Image Classification with Partial Labels**|Chak Fong Chong et.al.|[2401.16991](http://arxiv.org/abs/2401.16991)|**[link](https://github.com/maxium0526/category-wise-fine-tuning)**|
+|**2024-02-18**|**Instruction Fine-Tuning: Does Prompt Loss Matter?**|Mathew Huerta-Enochian et.al.|[2401.13586](http://arxiv.org/abs/2401.13586)|null|
 |**2024-01-30**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Angels Balaguer et.al.|[2401.08406](http://arxiv.org/abs/2401.08406)|null|
 |**2023-12-25**|**Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers**|Peng Ye et.al.|[2312.15681](http://arxiv.org/abs/2312.15681)|null|
 |**2023-10-19**|**Towards Anytime Fine-tuning: Continually Pre-trained Language Models with Hypernetwork Prompt**|Gangwei Jiang et.al.|[2310.13024](http://arxiv.org/abs/2310.13024)|**[link](https://github.com/gangwjiang/hprompt-cpt)**|
