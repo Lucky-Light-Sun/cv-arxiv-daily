@@ -69,6 +69,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Cross-Domain Transfer Learning with CoRTe: Consistent and Reliable Transfer from Black-Box to Lightweight Segmentation Model**|Claudia Cuttano et.al.|[2402.13122](http://arxiv.org/abs/2402.13122)|null|
+|**2024-02-19**|**LangXAI: Integrating Large Vision Models for Generating Textual Explanations to Enhance Explainability in Visual Perception Tasks**|Truong Thanh Hung Nguyen et.al.|[2402.12525](http://arxiv.org/abs/2402.12525)|null|
 |**2024-02-19**|**Towards Explainable LiDAR Point Cloud Semantic Segmentation via Gradient Based Target Localization**|Abhishek Kuriyal et.al.|[2402.12098](http://arxiv.org/abs/2402.12098)|**[link](https://github.com/geoai4cities/pgs-cam)**|
 |**2024-02-19**|**ISCUTE: Instance Segmentation of Cables Using Text Embedding**|Shir Kozlovsky et.al.|[2402.11996](http://arxiv.org/abs/2402.11996)|null|
 |**2024-02-18**|**Key Patch Proposer: Key Patches Contain Rich Information**|Jing Xu et.al.|[2402.11458](http://arxiv.org/abs/2402.11458)|**[link](https://github.com/ca-tt-ac/key-patch-proposer)**|
@@ -276,7 +278,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-18**|**Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark**|Yihua Zhang et.al.|[2402.11592](http://arxiv.org/abs/2402.11592)|null|
+|**2024-02-18**|**Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark**|Yihua Zhang et.al.|[2402.11592](http://arxiv.org/abs/2402.11592)|**[link](https://github.com/zo-bench/zo-llm)**|
 |**2024-02-13**|**Astrophysical and relativistic modeling of the recoiling black-hole candidate in quasar 3C 186**|Matteo Boschini et.al.|[2402.08740](http://arxiv.org/abs/2402.08740)|null|
 |**2024-02-02**|**AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback**|Jian Guan et.al.|[2402.01469](http://arxiv.org/abs/2402.01469)|null|
 |**2024-01-30**|**Category-wise Fine-Tuning: Resisting Incorrect Pseudo-Labels in Multi-Label Image Classification with Partial Labels**|Chak Fong Chong et.al.|[2401.16991](http://arxiv.org/abs/2401.16991)|**[link](https://github.com/maxium0526/category-wise-fine-tuning)**|
