@@ -80,6 +80,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**Tumor segmentation on whole slide images: training or prompting?**|Huaqian Wu et.al.|[2402.13932](http://arxiv.org/abs/2402.13932)|null|
+|**2024-02-21**|**BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery**|Loddo Fabio et.al.|[2402.13918](http://arxiv.org/abs/2402.13918)|**[link](https://github.com/toelt-llc/cloud_segmentation_comparative)**|
+|**2024-02-21**|**Zero-BEV: Zero-shot Projection of Any First-Person Modality to BEV Maps**|Gianluca Monaci et.al.|[2402.13848](http://arxiv.org/abs/2402.13848)|null|
+|**2024-02-21**|**Generalizable Semantic Vision Query Generation for Zero-shot Panoptic and Semantic Segmentation**|Jialei Chen et.al.|[2402.13697](http://arxiv.org/abs/2402.13697)|null|
 |**2024-02-20**|**Cross-Domain Transfer Learning with CoRTe: Consistent and Reliable Transfer from Black-Box to Lightweight Segmentation Model**|Claudia Cuttano et.al.|[2402.13122](http://arxiv.org/abs/2402.13122)|null|
 |**2024-02-19**|**LangXAI: Integrating Large Vision Models for Generating Textual Explanations to Enhance Explainability in Visual Perception Tasks**|Truong Thanh Hung Nguyen et.al.|[2402.12525](http://arxiv.org/abs/2402.12525)|null|
 |**2024-02-19**|**Towards Explainable LiDAR Point Cloud Semantic Segmentation via Gradient Based Target Localization**|Abhishek Kuriyal et.al.|[2402.12098](http://arxiv.org/abs/2402.12098)|**[link](https://github.com/geoai4cities/pgs-cam)**|
