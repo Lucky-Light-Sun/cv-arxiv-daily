@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Overcoming Dimensional Collapse in Self-supervised Contrastive Learning for Medical Image Segmentation**|Jamshid Hassanpour et.al.|[2402.14611](http://arxiv.org/abs/2402.14611)|null|
 |**2024-02-12**|**Make it more specific: A novel uncertainty based airway segmentation application on 3D U-Net and its variants**|Shiyi Wang et.al.|[2402.07403](http://arxiv.org/abs/2402.07403)|null|
 |**2023-12-16**|**Exploring UMAP in hybrid models of entropy-based and representativeness sampling for active learning in biomedical segmentation**|H. S. Tan et.al.|[2312.10361](http://arxiv.org/abs/2312.10361)|null|
 |**2023-12-12**|**Benchmarking Pretrained Vision Embeddings for Near- and Duplicate Detection in Medical Images**|Tuan Truong et.al.|[2312.07273](http://arxiv.org/abs/2312.07273)|null|
@@ -80,6 +81,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Semantic Image Synthesis with Unconditional Generator**|Jungwoo Chae et.al.|[2402.14395](http://arxiv.org/abs/2402.14395)|null|
+|**2024-02-22**|**Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic Segmentation**|Mingxuan Yan et.al.|[2402.14326](http://arxiv.org/abs/2402.14326)|null|
 |**2024-02-21**|**Tumor segmentation on whole slide images: training or prompting?**|Huaqian Wu et.al.|[2402.13932](http://arxiv.org/abs/2402.13932)|null|
 |**2024-02-21**|**BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery**|Loddo Fabio et.al.|[2402.13918](http://arxiv.org/abs/2402.13918)|**[link](https://github.com/toelt-llc/cloud_segmentation_comparative)**|
 |**2024-02-21**|**Zero-BEV: Zero-shot Projection of Any First-Person Modality to BEV Maps**|Gianluca Monaci et.al.|[2402.13848](http://arxiv.org/abs/2402.13848)|null|
