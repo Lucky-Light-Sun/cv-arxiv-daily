@@ -70,6 +70,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-23**|**Modified CycleGAN for the synthesization of samples for wheat head segmentation**|Jaden Myers et.al.|[2402.15135](http://arxiv.org/abs/2402.15135)|null|
 |**2024-02-22**|**Semantic Image Synthesis with Unconditional Generator**|Jungwoo Chae et.al.|[2402.14395](http://arxiv.org/abs/2402.14395)|null|
 |**2024-02-22**|**Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic Segmentation**|Mingxuan Yan et.al.|[2402.14326](http://arxiv.org/abs/2402.14326)|null|
 |**2024-02-21**|**Tumor segmentation on whole slide images: training or prompting?**|Huaqian Wu et.al.|[2402.13932](http://arxiv.org/abs/2402.13932)|null|
