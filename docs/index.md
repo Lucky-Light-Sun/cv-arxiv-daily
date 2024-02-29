@@ -72,6 +72,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation**|Zhiwei Yang et.al.|[2402.18467](http://arxiv.org/abs/2402.18467)|**[link](https://github.com/zwyang6/seco)**|
+|**2024-02-28**|**A Modular System for Enhanced Robustness of Multimedia Understanding Networks via Deep Parametric Estimation**|Francesco Barbato et.al.|[2402.18402](http://arxiv.org/abs/2402.18402)|null|
+|**2024-02-28**|**Enhancing Roadway Safety: LiDAR-based Tree Clearance Analysis**|Miriam Louise Carnot et.al.|[2402.18309](http://arxiv.org/abs/2402.18309)|null|
+|**2024-02-28**|**Self-Supervised Learning in Electron Microscopy: Towards a Foundation Model for Advanced Image Analysis**|Bashir Kazimi et.al.|[2402.18286](http://arxiv.org/abs/2402.18286)|null|
+|**2024-02-28**|**PRCL: Probabilistic Representation Contrastive Learning for Semi-Supervised Semantic Segmentation**|Haoyu Xie et.al.|[2402.18117](http://arxiv.org/abs/2402.18117)|null|
+|**2024-02-28**|**Spannotation: Enhancing Semantic Segmentation for Autonomous Navigation with Efficient Image Annotation**|Samuel O. Folorunsho et.al.|[2402.18084](http://arxiv.org/abs/2402.18084)|**[link](https://github.com/sof-danny/spannotation)**|
+|**2024-02-27**|**Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation**|Xinyu Yang et.al.|[2402.17891](http://arxiv.org/abs/2402.17891)|**[link](https://github.com/youshyee/cosa)**|
 |**2024-02-27**|**Masked Gamma-SSL: Learning Uncertainty Estimation via Masked Image Modeling**|David S. W. Williams et.al.|[2402.17622](http://arxiv.org/abs/2402.17622)|null|
 |**2024-02-27**|**A Large-scale Evaluation of Pretraining Paradigms for the Detection of Defects in Electroluminescence Solar Cell Images**|David Torpey et.al.|[2402.17611](http://arxiv.org/abs/2402.17611)|null|
 |**2024-02-27**|**Scribble Hides Class: Promoting Scribble-Based Weakly-Supervised Semantic Segmentation with Its Class Label**|Xinliang Zhang et.al.|[2402.17555](http://arxiv.org/abs/2402.17555)|**[link](https://github.com/zxl19990529/class-driven-scribble-promotion-network)**|
@@ -295,6 +302,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates**|Kaifeng Lyu et.al.|[2402.18540](http://arxiv.org/abs/2402.18540)|null|
 |**2024-02-26**|**Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark**|Yihua Zhang et.al.|[2402.11592](http://arxiv.org/abs/2402.11592)|**[link](https://github.com/zo-bench/zo-llm)**|
 |**2024-02-13**|**Astrophysical and relativistic modeling of the recoiling black-hole candidate in quasar 3C 186**|Matteo Boschini et.al.|[2402.08740](http://arxiv.org/abs/2402.08740)|null|
 |**2024-02-02**|**AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback**|Jian Guan et.al.|[2402.01469](http://arxiv.org/abs/2402.01469)|null|
