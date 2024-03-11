@@ -72,6 +72,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**Attention-guided Feature Distillation for Semantic Segmentation**|Amir M. Mansourian et.al.|[2403.05451](http://arxiv.org/abs/2403.05451)|**[link](https://github.com/amirmansurian/attnfd)**|
+|**2024-03-08**|**Generalized Correspondence Matching via Flexible Hierarchical Refinement and Patch Descriptor Distillation**|Yu Han et.al.|[2403.05388](http://arxiv.org/abs/2403.05388)|null|
+|**2024-03-08**|**Embedded Deployment of Semantic Segmentation in Medicine through Low-Resolution Inputs**|Erik Ostrowski et.al.|[2403.05340](http://arxiv.org/abs/2403.05340)|null|
+|**2024-03-08**|**LVIC: Multi-modality segmentation by Lifting Visual Info as Cue**|Zichao Dong et.al.|[2403.05159](http://arxiv.org/abs/2403.05159)|null|
 |**2024-03-06**|**ECAP: Extensive Cut-and-Paste Augmentation for Unsupervised Domain Adaptive Semantic Segmentation**|Erik Brorsson et.al.|[2403.03854](http://arxiv.org/abs/2403.03854)|**[link](https://github.com/erikbrorsson/ecap)**|
 |**2024-03-06**|**Multi-Grained Cross-modal Alignment for Learning Open-vocabulary Semantic Segmentation from Text Supervision**|Yajie Liu et.al.|[2403.03707](http://arxiv.org/abs/2403.03707)|null|
 |**2024-03-06**|**Causal Prototype-inspired Contrast Adaptation for Unsupervised Domain Adaptive Semantic Segmentation of High-resolution Remote Sensing Imagery**|Jingru Zhu et.al.|[2403.03704](http://arxiv.org/abs/2403.03704)|null|
