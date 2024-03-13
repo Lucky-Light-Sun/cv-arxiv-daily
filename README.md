@@ -84,6 +84,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation**|Feilong Tang et.al.|[2403.07630](http://arxiv.org/abs/2403.07630)|**[link](https://github.com/barrett-python/cpal)**|
+|**2024-03-12**|**PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution**|Honghao Chen et.al.|[2403.07589](http://arxiv.org/abs/2403.07589)|null|
+|**2024-03-12**|**Open-World Semantic Segmentation Including Class Similarity**|Matteo Sodano et.al.|[2403.07532](http://arxiv.org/abs/2403.07532)|null|
 |**2024-03-11**|**Average Calibration Error: A Differentiable Loss for Improved Reliability in Image Segmentation**|Theodore Barfoot et.al.|[2403.06759](http://arxiv.org/abs/2403.06759)|**[link](https://github.com/cai4cai/ace-dliris)**|
 |**2024-03-11**|**Forest Inspection Dataset for Aerial Semantic Segmentation and Depth Estimation**|Bianca-Cerasela-Zelia Blaga et.al.|[2403.06621](http://arxiv.org/abs/2403.06621)|**[link](https://github.com/hrflr/wuav)**|
 |**2024-03-11**|**OMH: Structured Sparsity via Optimally Matched Hierarchy for Unsupervised Semantic Segmentation**|Baran Ozaydin et.al.|[2403.06546](http://arxiv.org/abs/2403.06546)|null|
@@ -350,6 +353,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Robust Synthetic-to-Real Transfer for Stereo Matching**|Jiawei Zhang et.al.|[2403.07705](http://arxiv.org/abs/2403.07705)|**[link](https://github.com/jiaw-z/dkt-stereo)**|
 |**2024-03-01**|**Cross-Lingual Learning vs. Low-Resource Fine-Tuning: A Case Study with Fact-Checking in Turkish**|Recep Firat Cekinel et.al.|[2403.00411](http://arxiv.org/abs/2403.00411)|**[link](https://github.com/firatcekinel/fctr)**|
 |**2024-02-29**|**On the Convergence of Differentially-Private Fine-tuning: To Linearly Probe or to Fully Fine-tune?**|Shuqi Ke et.al.|[2402.18905](http://arxiv.org/abs/2402.18905)|null|
 |**2024-02-28**|**Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates**|Kaifeng Lyu et.al.|[2402.18540](http://arxiv.org/abs/2402.18540)|**[link](https://github.com/vfleaking/ptst)**|
