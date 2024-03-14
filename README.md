@@ -84,6 +84,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Segmentation of Knee Bones for Osteoarthritis Assessment: A Comparative Analysis of Supervised, Few-Shot, and Zero-Shot Learning Approaches**|Yun Xin Teoh et.al.|[2403.08761](http://arxiv.org/abs/2403.08761)|null|
+|**2024-03-13**|**Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**|Samuel Sze et.al.|[2403.08748](http://arxiv.org/abs/2403.08748)|null|
+|**2024-03-13**|**Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation**|Zicheng Zhang et.al.|[2403.08426](http://arxiv.org/abs/2403.08426)|null|
+|**2024-03-13**|**LIX: Implicitly Infusing Spatial Geometric Prior Knowledge into Visual Semantic Segmentation for Autonomous Driving**|Sicen Guo et.al.|[2403.08215](http://arxiv.org/abs/2403.08215)|null|
+|**2024-03-13**|**Multiscale Low-Frequency Memory Network for Improved Feature Extraction in Convolutional Neural Networks**|Fuzhi Wu et.al.|[2403.08157](http://arxiv.org/abs/2403.08157)|**[link](https://github.com/alphawuseu/mlfm)**|
+|**2024-03-12**|**Mitigating the Impact of Attribute Editing on Face Recognition**|Sudipta Banerjee et.al.|[2403.08092](http://arxiv.org/abs/2403.08092)|null|
 |**2024-03-12**|**Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation**|Feilong Tang et.al.|[2403.07630](http://arxiv.org/abs/2403.07630)|**[link](https://github.com/barrett-python/cpal)**|
 |**2024-03-12**|**PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution**|Honghao Chen et.al.|[2403.07589](http://arxiv.org/abs/2403.07589)|null|
 |**2024-03-12**|**Open-World Semantic Segmentation Including Class Similarity**|Matteo Sodano et.al.|[2403.07532](http://arxiv.org/abs/2403.07532)|null|
