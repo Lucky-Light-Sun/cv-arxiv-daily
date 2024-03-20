@@ -73,6 +73,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**As Firm As Their Foundations: Can open-sourced foundation models be used to create adversarial examples for downstream tasks?**|Anjun Hu et.al.|[2403.12693](http://arxiv.org/abs/2403.12693)|null|
+|**2024-03-19**|**PCT: Perspective Cue Training Framework for Multi-Camera BEV Segmentation**|Haruya Ishikawa et.al.|[2403.12530](http://arxiv.org/abs/2403.12530)|null|
+|**2024-03-19**|**Semantics, Distortion, and Style Matter: Towards Source-free UDA for Panoramic Segmentation**|Xu Zheng et.al.|[2403.12505](http://arxiv.org/abs/2403.12505)|null|
+|**2024-03-18**|**Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation**|Wangbo Zhao et.al.|[2403.11808](http://arxiv.org/abs/2403.11808)|null|
+|**2024-03-18**|**LSKNet: A Foundation Lightweight Backbone for Remote Sensing**|Yuxuan Li et.al.|[2403.11735](http://arxiv.org/abs/2403.11735)|null|
 |**2024-03-18**|**TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models**|Lisa Weijler et.al.|[2403.11691](http://arxiv.org/abs/2403.11691)|null|
 |**2024-03-18**|**OurDB: Ouroboric Domain Bridging for Multi-Target Domain Adaptive Semantic Segmentation**|Seungbeom Woo et.al.|[2403.11582](http://arxiv.org/abs/2403.11582)|null|
 |**2024-03-18**|**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**|Thien-Minh Nguyen et.al.|[2403.11496](http://arxiv.org/abs/2403.11496)|null|
