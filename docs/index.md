@@ -73,11 +73,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al.|[2403.13762](http://arxiv.org/abs/2403.13762)|null|
+|**2024-03-20**|**Next day fire prediction via semantic segmentation**|Konstantinos Alexis et.al.|[2403.13545](http://arxiv.org/abs/2403.13545)|null|
+|**2024-03-20**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Di Wang et.al.|[2403.13430](http://arxiv.org/abs/2403.13430)|null|
+|**2024-03-20**|**AMCO: Adaptive Multimodal Coupling of Vision and Proprioception for Quadruped Robot Navigation in Outdoor Environments**|Mohamed Elnoor et.al.|[2403.13235](http://arxiv.org/abs/2403.13235)|null|
+|**2024-03-20**|**Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation**|Linshan Wu et.al.|[2403.13225](http://arxiv.org/abs/2403.13225)|null|
+|**2024-03-19**|**Reflectivity Is All You Need!: Advancing LiDAR Semantic Segmentation**|Kasi Viswanath et.al.|[2403.13188](http://arxiv.org/abs/2403.13188)|null|
 |**2024-03-19**|**As Firm As Their Foundations: Can open-sourced foundation models be used to create adversarial examples for downstream tasks?**|Anjun Hu et.al.|[2403.12693](http://arxiv.org/abs/2403.12693)|null|
 |**2024-03-19**|**PCT: Perspective Cue Training Framework for Multi-Camera BEV Segmentation**|Haruya Ishikawa et.al.|[2403.12530](http://arxiv.org/abs/2403.12530)|null|
 |**2024-03-19**|**Semantics, Distortion, and Style Matter: Towards Source-free UDA for Panoramic Segmentation**|Xu Zheng et.al.|[2403.12505](http://arxiv.org/abs/2403.12505)|null|
-|**2024-03-18**|**Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation**|Wangbo Zhao et.al.|[2403.11808](http://arxiv.org/abs/2403.11808)|null|
-|**2024-03-18**|**LSKNet: A Foundation Lightweight Backbone for Remote Sensing**|Yuxuan Li et.al.|[2403.11735](http://arxiv.org/abs/2403.11735)|null|
+|**2024-03-18**|**Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation**|Wangbo Zhao et.al.|[2403.11808](http://arxiv.org/abs/2403.11808)|**[link](https://github.com/nus-hpc-ai-lab/dynamic-tuning)**|
+|**2024-03-18**|**LSKNet: A Foundation Lightweight Backbone for Remote Sensing**|Yuxuan Li et.al.|[2403.11735](http://arxiv.org/abs/2403.11735)|**[link](https://github.com/zcablii/lsknet)**|
 |**2024-03-18**|**TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models**|Lisa Weijler et.al.|[2403.11691](http://arxiv.org/abs/2403.11691)|null|
 |**2024-03-18**|**OurDB: Ouroboric Domain Bridging for Multi-Target Domain Adaptive Semantic Segmentation**|Seungbeom Woo et.al.|[2403.11582](http://arxiv.org/abs/2403.11582)|null|
 |**2024-03-18**|**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**|Thien-Minh Nguyen et.al.|[2403.11496](http://arxiv.org/abs/2403.11496)|null|
