@@ -86,6 +86,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377](http://arxiv.org/abs/2403.15377)|null|
+|**2024-03-22**|**Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations**|Pranav Kulkarni et.al.|[2403.15218](http://arxiv.org/abs/2403.15218)|null|
+|**2024-03-22**|**Your Image is My Video: Reshaping the Receptive Field via Image-To-Video Differentiable AutoAugmentation and Fusion**|Sofia Casarin et.al.|[2403.15194](http://arxiv.org/abs/2403.15194)|null|
+|**2024-03-22**|**Improve Cross-domain Mixed Sampling with Guidance Training for Adaptive Segmentation**|Wenlve Zhou et.al.|[2403.14995](http://arxiv.org/abs/2403.14995)|null|
+|**2024-03-21**|**WeatherProof: Leveraging Language Guidance for Semantic Segmentation in Adverse Weather**|Blake Gella et.al.|[2403.14874](http://arxiv.org/abs/2403.14874)|null|
 |**2024-03-21**|**Learning to Project for Cross-Task Knowledge Distillation**|Dylan Auty et.al.|[2403.14494](http://arxiv.org/abs/2403.14494)|null|
 |**2024-03-21**|**OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation**|Bohao Peng et.al.|[2403.14418](http://arxiv.org/abs/2403.14418)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2024-03-21**|**Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models**|Pablo Marcos-Manchón et.al.|[2403.14291](http://arxiv.org/abs/2403.14291)|**[link](https://github.com/vpulab/ovam)**|
@@ -400,7 +405,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-12**|**Robust Synthetic-to-Real Transfer for Stereo Matching**|Jiawei Zhang et.al.|[2403.07705](http://arxiv.org/abs/2403.07705)|**[link](https://github.com/jiaw-z/dkt-stereo)**|
-|**2024-03-01**|**Cross-Lingual Learning vs. Low-Resource Fine-Tuning: A Case Study with Fact-Checking in Turkish**|Recep Firat Cekinel et.al.|[2403.00411](http://arxiv.org/abs/2403.00411)|**[link](https://github.com/firatcekinel/fctr)**|
+|**2024-03-22**|**Cross-Lingual Learning vs. Low-Resource Fine-Tuning: A Case Study with Fact-Checking in Turkish**|Recep Firat Cekinel et.al.|[2403.00411](http://arxiv.org/abs/2403.00411)|**[link](https://github.com/firatcekinel/fctr)**|
 |**2024-02-29**|**On the Convergence of Differentially-Private Fine-tuning: To Linearly Probe or to Fully Fine-tune?**|Shuqi Ke et.al.|[2402.18905](http://arxiv.org/abs/2402.18905)|null|
 |**2024-02-28**|**Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates**|Kaifeng Lyu et.al.|[2402.18540](http://arxiv.org/abs/2402.18540)|**[link](https://github.com/vfleaking/ptst)**|
 |**2024-02-26**|**Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark**|Yihua Zhang et.al.|[2402.11592](http://arxiv.org/abs/2402.11592)|**[link](https://github.com/zo-bench/zo-llm)**|
