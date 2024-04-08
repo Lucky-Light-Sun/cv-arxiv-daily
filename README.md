@@ -89,6 +89,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256](http://arxiv.org/abs/2404.04256)|null|
+|**2024-04-05**|**Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation**|Ji-Jia Wu et.al.|[2404.04231](http://arxiv.org/abs/2404.04231)|null|
+|**2024-04-05**|**MarsSeg: Mars Surface Semantic Segmentation with Multi-level Extractor and Connector**|Junbo Li et.al.|[2404.04155](http://arxiv.org/abs/2404.04155)|null|
+|**2024-04-04**|**Language-Guided Instance-Aware Domain-Adaptive Panoptic Segmentation**|Elham Amin Mansour et.al.|[2404.03799](http://arxiv.org/abs/2404.03799)|null|
+|**2024-04-04**|**Flattening the Parent Bias: Hierarchical Semantic Segmentation in the Poincaré Ball**|Simon Weber et.al.|[2404.03778](http://arxiv.org/abs/2404.03778)|null|
 |**2024-04-04**|**Background Noise Reduction of Attention Map for Weakly Supervised Semantic Segmentation**|Izumi Fujimori et.al.|[2404.03394](http://arxiv.org/abs/2404.03394)|null|
 |**2024-04-03**|**GPU-Accelerated RSF Level Set Evolution for Large-Scale Microvascular Segmentation**|Meher Niger et.al.|[2404.02813](http://arxiv.org/abs/2404.02813)|null|
 |**2024-04-03**|**RS-Mamba for Large Remote Sensing Image Dense Prediction**|Sijie Zhao et.al.|[2404.02668](http://arxiv.org/abs/2404.02668)|**[link](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)**|
