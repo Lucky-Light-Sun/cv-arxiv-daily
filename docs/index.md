@@ -132,7 +132,7 @@ layout: default
 |**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377](http://arxiv.org/abs/2403.15377)|**[link](https://github.com/opengvlab/internvideo2)**|
 |**2024-03-22**|**Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations**|Pranav Kulkarni et.al.|[2403.15218](http://arxiv.org/abs/2403.15218)|**[link](https://github.com/um2ii/sam_dataannotation)**|
 |**2024-03-22**|**Your Image is My Video: Reshaping the Receptive Field via Image-To-Video Differentiable AutoAugmentation and Fusion**|Sofia Casarin et.al.|[2403.15194](http://arxiv.org/abs/2403.15194)|null|
-|**2024-03-22**|**Improve Cross-domain Mixed Sampling with Guidance Training for Adaptive Segmentation**|Wenlve Zhou et.al.|[2403.14995](http://arxiv.org/abs/2403.14995)|null|
+|**2024-03-22**|**Improve Cross-domain Mixed Sampling with Guidance Training for Adaptive Segmentation**|Wenlve Zhou et.al.|[2403.14995](http://arxiv.org/abs/2403.14995)|**[link](https://github.com/wenlve-zhou/guidance-training)**|
 |**2024-03-21**|**WeatherProof: Leveraging Language Guidance for Semantic Segmentation in Adverse Weather**|Blake Gella et.al.|[2403.14874](http://arxiv.org/abs/2403.14874)|null|
 |**2024-03-21**|**Learning to Project for Cross-Task Knowledge Distillation**|Dylan Auty et.al.|[2403.14494](http://arxiv.org/abs/2403.14494)|null|
 |**2024-03-21**|**OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation**|Bohao Peng et.al.|[2403.14418](http://arxiv.org/abs/2403.14418)|**[link](https://github.com/Pointcept/Pointcept)**|
@@ -296,7 +296,7 @@ layout: default
 |**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[2401.14325](http://arxiv.org/abs/2401.14325)|null|
 |**2024-01-24**|**Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation**|Saiyang Na et.al.|[2401.13220](http://arxiv.org/abs/2401.13220)|null|
 |**2024-01-24**|**Boundary and Relation Distillation for Semantic Segmentation**|Dong Zhang et.al.|[2401.13174](http://arxiv.org/abs/2401.13174)|null|
-|**2024-01-23**|**DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer**|Sonal Kumar et.al.|[2401.12820](http://arxiv.org/abs/2401.12820)|null|
+|**2024-01-23**|**DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer**|Sonal Kumar et.al.|[2401.12820](http://arxiv.org/abs/2401.12820)|**[link](https://github.com/SonalKumar95/DatUS)**|
 |**2024-01-23**|**Self-Supervised Vision Transformers Are Efficient Segmentation Learners for Imperfect Labels**|Seungho Lee et.al.|[2401.12535](http://arxiv.org/abs/2401.12535)|null|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
 |**2024-01-22**|**Scaling Up Quantization-Aware Neural Architecture Search for Efficient Deep Learning on the Edge**|Yao Lu et.al.|[2401.12350](http://arxiv.org/abs/2401.12350)|null|
@@ -312,7 +312,7 @@ layout: default
 |**2024-01-21**|**S $^3$ M-Net: Joint Learning of Semantic Segmentation and Stereo Matching for Autonomous Driving**|Zhiyuan Wu et.al.|[2401.11414](http://arxiv.org/abs/2401.11414)|null|
 |**2024-01-21**|**ANNA: A Deep Learning Based Dataset in Heterogeneous Traffic for Autonomous Vehicles**|Mahedi Kamal et.al.|[2401.11358](http://arxiv.org/abs/2401.11358)|**[link](https://github.com/mahedikamal/anna-a-deep-learning-based-dataset-in-heterogenous-traffic-for-autonomous-vehicles)**|
 |**2024-01-20**|**Weakly-Supervised Semantic Segmentation of Circular-Scan, Synthetic-Aperture-Sonar Imagery**|Isaac J. Sledge et.al.|[2401.11313](http://arxiv.org/abs/2401.11313)|null|
-|**2024-01-20**|**A Novel Benchmark for Few-Shot Semantic Segmentation in the Era of Foundation Models**|Reda Bensaid et.al.|[2401.11311](http://arxiv.org/abs/2401.11311)|null|
+|**2024-01-20**|**A Novel Benchmark for Few-Shot Semantic Segmentation in the Era of Foundation Models**|Reda Bensaid et.al.|[2401.11311](http://arxiv.org/abs/2401.11311)|**[link](https://github.com/redabensaidds/foundation_fewshot)**|
 |**2024-01-20**|**Spatial Structure Constraints for Weakly Supervised Semantic Segmentation**|Tao Chen et.al.|[2401.11122](http://arxiv.org/abs/2401.11122)|**[link](https://github.com/nust-machine-intelligence-laboratory/ssc)**|
 |**2024-01-19**|**RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision**|Fernando Pérez-García et.al.|[2401.10815](http://arxiv.org/abs/2401.10815)|null|
 |**2024-01-19**|**Exploring Color Invariance through Image-Level Ensemble Learning**|Yunpeng Gong et.al.|[2401.10512](http://arxiv.org/abs/2401.10512)|**[link](https://github.com/finger-monkey/Data-Augmentation)**|
@@ -460,7 +460,7 @@ layout: default
 |**2024-03-30**|**Brain Decodes Deep Nets**|Huzheng Yang et.al.|[2312.01280](http://arxiv.org/abs/2312.01280)|**[link](https://github.com/huzeyann/braindecodesdeepnets)**|
 |**2023-10-19**|**Towards Anytime Fine-tuning: Continually Pre-trained Language Models with Hypernetwork Prompt**|Gangwei Jiang et.al.|[2310.13024](http://arxiv.org/abs/2310.13024)|**[link](https://github.com/gangwjiang/hprompt-cpt)**|
 |**2023-10-12**|**Learn From Model Beyond Fine-Tuning: A Survey**|Hongling Zheng et.al.|[2310.08184](http://arxiv.org/abs/2310.08184)|**[link](https://github.com/ruthless-man/awesome-learn-from-model)**|
-|**2023-09-30**|**From Language Modeling to Instruction Following: Understanding the Behavior Shift in LLMs after Instruction Tuning**|Xuansheng Wu et.al.|[2310.00492](http://arxiv.org/abs/2310.00492)|null|
+|**2023-09-30**|**From Language Modeling to Instruction Following: Understanding the Behavior Shift in LLMs after Instruction Tuning**|Xuansheng Wu et.al.|[2310.00492](http://arxiv.org/abs/2310.00492)|**[link](https://github.com/jacksonwuxs/interpret_instruction_tuning_llms)**|
 |**2024-03-26**|**Domain-Aware Fine-Tuning: Enhancing Neural Network Adaptability**|Seokhyeon Ha et.al.|[2308.07728](http://arxiv.org/abs/2308.07728)|**[link](https://github.com/skhnha/daft)**|
 |**2023-08-14**|**Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification**|Olesya Razuvayevskaya et.al.|[2308.07282](http://arxiv.org/abs/2308.07282)|null|
 |**2023-06-20**|**Multi-task Collaborative Pre-training and Individual-adaptive-tokens Fine-tuning: A Unified Framework for Brain Representation Learning**|Ning Jiang et.al.|[2306.11378](http://arxiv.org/abs/2306.11378)|null|
