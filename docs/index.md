@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-07**|**CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data**|Wei Fang et.al.|[2404.04878](http://arxiv.org/abs/2404.04878)|null|
 |**2024-04-01**|**Medical Visual Prompting (MVP): A Unified Framework for Versatile and High-Quality Medical Image Segmentation**|Yulin Chen et.al.|[2404.01127](http://arxiv.org/abs/2404.01127)|null|
 |**2024-03-27**|**Generative Medical Segmentation**|Jiayu Huo et.al.|[2403.18198](http://arxiv.org/abs/2403.18198)|**[link](https://github.com/king-haw/gms)**|
 |**2024-03-21**|**Analysing Diffusion Segmentation for Medical Images**|Mathias Öttl et.al.|[2403.14440](http://arxiv.org/abs/2403.14440)|null|
@@ -78,7 +79,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256](http://arxiv.org/abs/2404.04256)|null|
+|**2024-04-08**|**Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery**|Ionut M. Motoi et.al.|[2404.05693](http://arxiv.org/abs/2404.05693)|null|
+|**2024-04-08**|**AlignZeg: Mitigating Objective Misalignment for Zero-shot Semantic Segmentation**|Jiannan Ge et.al.|[2404.05667](http://arxiv.org/abs/2404.05667)|null|
+|**2024-04-08**|**Impact of LiDAR visualisations on semantic segmentation of archaeological objects**|Raveerat Jaturapitpornchai et.al.|[2404.05512](http://arxiv.org/abs/2404.05512)|null|
+|**2024-04-08**|**Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance**|Dazhong Shen et.al.|[2404.05384](http://arxiv.org/abs/2404.05384)|**[link](https://github.com/smilesdzgk/s-cfg)**|
+|**2024-04-08**|**GPS-free Autonomous Navigation in Cluttered Tree Rows with Deep Semantic Segmentation**|Alessandro Navone et.al.|[2404.05338](http://arxiv.org/abs/2404.05338)|null|
+|**2024-04-08**|**Human Detection from 4D Radar Data in Low-Visibility Field Conditions**|Mikael Skog et.al.|[2404.05307](http://arxiv.org/abs/2404.05307)|null|
+|**2024-04-08**|**iVPT: Improving Task-relevant Information Sharing in Visual Prompt Tuning by Cross-layer Dynamic Connection**|Nan Zhou et.al.|[2404.05207](http://arxiv.org/abs/2404.05207)|null|
+|**2024-04-08**|**UniMix: Towards Domain Adaptive and Generalizable LiDAR Semantic Segmentation in Adverse Weather**|Haimei Zhao et.al.|[2404.05145](http://arxiv.org/abs/2404.05145)|null|
+|**2024-04-07**|**D2SL: Decouple Defogging and Semantic Learning for Foggy Domain-Adaptive Segmentation**|Xuan Sun et.al.|[2404.04807](http://arxiv.org/abs/2404.04807)|null|
+|**2024-04-06**|**HawkDrive: A Transformer-driven Visual Perception System for Autonomous Driving in Night Scene**|Ziang Guo et.al.|[2404.04653](http://arxiv.org/abs/2404.04653)|**[link](https://github.com/ziongo6/hawkdrive)**|
+|**2024-04-06**|**Panoptic Perception: A Novel Task and Fine-grained Dataset for Universal Remote Sensing Image Interpretation**|Danpei Zhao et.al.|[2404.04608](http://arxiv.org/abs/2404.04608)|null|
+|**2024-04-06**|**PIE: Physics-inspired Low-light Enhancement**|Dong Liang et.al.|[2404.04586](http://arxiv.org/abs/2404.04586)|null|
+|**2024-04-06**|**Frequency Decomposition-Driven Unsupervised Domain Adaptation for Remote Sensing Image Semantic Segmentation**|Xianping Ma et.al.|[2404.04531](http://arxiv.org/abs/2404.04531)|**[link](https://github.com/sstary/ssrs)**|
+|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256](http://arxiv.org/abs/2404.04256)|**[link](https://github.com/zifuwan/sigma)**|
 |**2024-04-05**|**Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation**|Ji-Jia Wu et.al.|[2404.04231](http://arxiv.org/abs/2404.04231)|null|
 |**2024-04-05**|**MarsSeg: Mars Surface Semantic Segmentation with Multi-level Extractor and Connector**|Junbo Li et.al.|[2404.04155](http://arxiv.org/abs/2404.04155)|null|
 |**2024-04-04**|**Language-Guided Instance-Aware Domain-Adaptive Panoptic Segmentation**|Elham Amin Mansour et.al.|[2404.03799](http://arxiv.org/abs/2404.03799)|null|
