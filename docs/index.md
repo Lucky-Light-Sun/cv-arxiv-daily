@@ -82,6 +82,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302](http://arxiv.org/abs/2404.11302)|**[link](https://github.com/pro1944191/semanticalignnet)**|
+|**2024-04-17**|**Learning from Unlabelled Data with Transformers: Domain Adaptation for Semantic Segmentation of High Resolution Aerial Images**|Nikolaos Dionelis et.al.|[2404.11299](http://arxiv.org/abs/2404.11299)|**[link](https://github.com/esa-philab/learning_from_unlabeled_data_for_domain_adaptation_for_semantic_segmentation)**|
+|**2024-04-16**|**A Concise Tiling Strategy for Preserving Spatial Context in Earth Observation Imagery**|Ellianna Abrahams et.al.|[2404.10927](http://arxiv.org/abs/2404.10927)|**[link](https://github.com/elliesch/flipnslide)**|
+|**2024-04-16**|**Vocabulary-free Image Classification and Semantic Segmentation**|Alessandro Conti et.al.|[2404.10864](http://arxiv.org/abs/2404.10864)|**[link](https://github.com/altndrr/vicss)**|
+|**2024-04-16**|**Gasformer: A Transformer-based Architecture for Segmenting Methane Emissions from Livestock in Optical Gas Imaging**|Toqi Tahamid Sarker et.al.|[2404.10841](http://arxiv.org/abs/2404.10841)|**[link](https://github.com/toqitahamid/gasformer)**|
 |**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760](http://arxiv.org/abs/2404.10760)|null|
 |**2024-04-16**|**ECLAIR: A High-Fidelity Aerial LiDAR Dataset for Semantic Segmentation**|Iaroslav Melekhov et.al.|[2404.10699](http://arxiv.org/abs/2404.10699)|null|
 |**2024-04-16**|**Contextrast: Contextual Contrastive Learning for Semantic Segmentation**|Changki Sung et.al.|[2404.10633](http://arxiv.org/abs/2404.10633)|null|
