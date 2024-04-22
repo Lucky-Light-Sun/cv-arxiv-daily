@@ -56,7 +56,7 @@ layout: default
 |**2023-12-07**|**PrimDiffusion: Volumetric Primitives Diffusion for 3D Human Generation**|Zhaoxi Chen et.al.|[2312.04559](http://arxiv.org/abs/2312.04559)|**[link](https://github.com/frozenburning/primdiffusion)**|
 |**2023-12-07**|**GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation**|Shoufa Chen et.al.|[2312.04557](http://arxiv.org/abs/2312.04557)|null|
 |**2023-12-07**|**SPIDeRS: Structured Polarization for Invisible Depth and Reflectance Sensing**|Tomoki Ichikawa et.al.|[2312.04553](http://arxiv.org/abs/2312.04553)|null|
-|**2023-12-07**|**Generating Illustrated Instructions**|Sachit Menon et.al.|[2312.04552](http://arxiv.org/abs/2312.04552)|null|
+|**2023-12-07**|**Generating Illustrated Instructions**|Sachit Menon et.al.|[2312.04552](http://arxiv.org/abs/2312.04552)|**[link](https://github.com/sachit-menon/generating-illustrated-instructions-reproduction)**|
 |**2023-12-07**|**PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play**|Lili Chen et.al.|[2312.04549](http://arxiv.org/abs/2312.04549)|null|
 |**2023-12-07**|**HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image**|Tong Wu et.al.|[2312.04543](http://arxiv.org/abs/2312.04543)|null|
 |**2023-12-07**|**Diffusion Reflectance Map: Single-Image Stochastic Inverse Rendering of Illumination and Reflectance**|Yuto Enyo et.al.|[2312.04529](http://arxiv.org/abs/2312.04529)|null|
@@ -104,7 +104,7 @@ layout: default
 |**2024-04-15**|**Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL**|Fangwei Zhong et.al.|[2404.09857](http://arxiv.org/abs/2404.09857)|null|
 |**2024-04-15**|**In-Context Translation: Towards Unifying Image Recognition, Processing, and Generation**|Han Xue et.al.|[2404.09633](http://arxiv.org/abs/2404.09633)|null|
 |**2024-04-15**|**The revenge of BiSeNet: Efficient Multi-Task Image Segmentation**|Gabriele Rosi et.al.|[2404.09570](http://arxiv.org/abs/2404.09570)|null|
-|**2024-04-16**|**Human-in-the-Loop Segmentation of Multi-species Coral Imagery**|Scarlett Raine et.al.|[2404.09406](http://arxiv.org/abs/2404.09406)|null|
+|**2024-04-16**|**Human-in-the-Loop Segmentation of Multi-species Coral Imagery**|Scarlett Raine et.al.|[2404.09406](http://arxiv.org/abs/2404.09406)|**[link](https://github.com/sgraine/HIL-coral-segmentation)**|
 |**2024-04-14**|**Bridging Data Islands: Geographic Heterogeneity-Aware Federated Learning for Collaborative Remote Sensing Semantic Segmentation**|Jieyi Tan et.al.|[2404.09292](http://arxiv.org/abs/2404.09292)|null|
 |**2024-04-12**|**Analyzing Decades-Long Environmental Changes in Namibia Using Archival Aerial Photography and Deep Learning**|Girmaw Abebe Tadesse et.al.|[2404.08544](http://arxiv.org/abs/2404.08544)|null|
 |**2024-04-12**|**LaSagnA: Language-based Segmentation Assistant for Complex Queries**|Cong Wei et.al.|[2404.08506](http://arxiv.org/abs/2404.08506)|**[link](https://github.com/congvvc/lasagna)**|
@@ -490,7 +490,7 @@ layout: default
 |**2023-12-08**|**Segmentation of Kidney Tumors on Non-Contrast CT Images using Protuberance Detection Network**|Taro Hatsutani et.al.|[2312.04796](http://arxiv.org/abs/2312.04796)|null|
 |**2023-12-07**|**gcDLSeg: Integrating Graph-cut into Deep Learning for Binary Semantic Segmentation**|Hui Xie et.al.|[2312.04713](http://arxiv.org/abs/2312.04713)|null|
 |**2023-12-07**|**HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image**|Tong Wu et.al.|[2312.04543](http://arxiv.org/abs/2312.04543)|null|
-|**2023-12-07**|**Self-Guided Open-Vocabulary Semantic Segmentation**|Osman Ülger et.al.|[2312.04539](http://arxiv.org/abs/2312.04539)|null|
+|**2023-12-07**|**Self-Guided Open-Vocabulary Semantic Segmentation**|Osman Ülger et.al.|[2312.04539](http://arxiv.org/abs/2312.04539)|**[link](https://github.com/ozzyou/autoseg)**|
 |**2023-12-07**|**Semi-Supervised Active Learning for Semantic Segmentation in Unknown Environments Using Informative Path Planning**|Julius Rückin et.al.|[2312.04402](http://arxiv.org/abs/2312.04402)|**[link](https://github.com/dmar-bonn/ipp-al)**|
 |**2023-12-07**|**Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation**|Zhixiang Wei et.al.|[2312.04265](http://arxiv.org/abs/2312.04265)|**[link](https://github.com/w1oves/rein)**|
 |**2023-12-07**|**Fine-tune vision foundation model for crack segmentation in civil infrastructures**|Kang Ge et.al.|[2312.04233](http://arxiv.org/abs/2312.04233)|null|
