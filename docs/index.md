@@ -82,6 +82,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks**|Sophia Sirko-Galouchenko et.al.|[2404.14027](http://arxiv.org/abs/2404.14027)|null|
+|**2024-04-21**|**Semantic-Rearrangement-Based Multi-Level Alignment for Domain Generalized Segmentation**|Guanlong Jiao et.al.|[2404.13701](http://arxiv.org/abs/2404.13701)|null|
+|**2024-04-21**|**PV-S3: Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al.|[2404.13693](http://arxiv.org/abs/2404.13693)|null|
+|**2024-04-21**|**A Complete System for Automated 3D Semantic-Geometric Mapping of Corrosion in Industrial Environments**|Rui Pimentel de Figueiredo et.al.|[2404.13691](http://arxiv.org/abs/2404.13691)|null|
+|**2024-04-21**|**LMFNet: An Efficient Multimodal Fusion Approach for Semantic Segmentation in High-Resolution Remote Sensing**|Tong Wang et.al.|[2404.13659](http://arxiv.org/abs/2404.13659)|null|
+|**2024-04-21**|**Towards Unified Representation of Multi-Modal Pre-training for 3D Understanding via Differentiable Rendering**|Ben Fei et.al.|[2404.13619](http://arxiv.org/abs/2404.13619)|null|
+|**2024-04-20**|**AMMUNet: Multi-Scale Attention Map Merging for Remote Sensing Image Segmentation**|Yang Yang et.al.|[2404.13408](http://arxiv.org/abs/2404.13408)|null|
+|**2024-04-19**|**BACS: Background Aware Continual Semantic Segmentation**|Mostafa ElAraby et.al.|[2404.13148](http://arxiv.org/abs/2404.13148)|null|
+|**2024-04-19**|**ToNNO: Tomographic Reconstruction of a Neural Network's Output for Weakly Supervised Segmentation of 3D Medical Images**|Marius Schmidt-Mengin et.al.|[2404.13103](http://arxiv.org/abs/2404.13103)|null|
 |**2024-04-19**|**Foundation Model assisted Weakly Supervised LiDAR Semantic Segmentation**|Yilong Chen et.al.|[2404.12861](http://arxiv.org/abs/2404.12861)|null|
 |**2024-04-19**|**COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**|Dmytro Shvetsov et.al.|[2404.12832](http://arxiv.org/abs/2404.12832)|**[link](https://github.com/dmytro-shvetsov/counterfactual-search)**|
 |**2024-04-19**|**A Point-Based Approach to Efficient LiDAR Multi-Task Perception**|Christopher Lang et.al.|[2404.12798](http://arxiv.org/abs/2404.12798)|null|
