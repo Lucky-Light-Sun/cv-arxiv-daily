@@ -93,6 +93,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Boosting Unsupervised Semantic Segmentation with Principal Mask Proposals**|Oliver Hahn et.al.|[2404.16818](http://arxiv.org/abs/2404.16818)|**[link](https://github.com/visinf/primaps)**|
+|**2024-04-25**|**Multi-Scale Representations by Varying Window Attention for Semantic Segmentation**|Haotian Yan et.al.|[2404.16573](http://arxiv.org/abs/2404.16573)|**[link](https://github.com/yan-hao-tian/vw)**|
+|**2024-04-25**|**360SFUDA++: Towards Source-free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes**|Xu Zheng et.al.|[2404.16501](http://arxiv.org/abs/2404.16501)|null|
+|**2024-04-25**|**Semantic Segmentation Refiner for Ultrasound Applications with Zero-Shot Foundation Models**|Hedda Cohen Indelman et.al.|[2404.16325](http://arxiv.org/abs/2404.16325)|null|
+|**2024-04-25**|**A Multi-objective Optimization Benchmark Test Suite for Real-time Semantic Segmentation**|Yifan Zhao et.al.|[2404.16266](http://arxiv.org/abs/2404.16266)|**[link](https://github.com/emi-group/evoxbench)**|
+|**2024-04-24**|**3D Freehand Ultrasound using Visual Inertial and Deep Inertial Odometry for Measuring Patellar Tracking**|Russell Buchanan et.al.|[2404.15847](http://arxiv.org/abs/2404.15847)|null|
+|**2024-04-24**|**Vision Transformer-based Adversarial Domain Adaptation**|Yahan Li et.al.|[2404.15817](http://arxiv.org/abs/2404.15817)|**[link](https://github.com/lluckyyh/vt-ada)**|
 |**2024-04-22**|**OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks**|Sophia Sirko-Galouchenko et.al.|[2404.14027](http://arxiv.org/abs/2404.14027)|null|
 |**2024-04-21**|**Semantic-Rearrangement-Based Multi-Level Alignment for Domain Generalized Segmentation**|Guanlong Jiao et.al.|[2404.13701](http://arxiv.org/abs/2404.13701)|null|
 |**2024-04-21**|**PV-S3: Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al.|[2404.13693](http://arxiv.org/abs/2404.13693)|null|
