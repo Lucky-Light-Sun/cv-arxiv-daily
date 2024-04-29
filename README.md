@@ -374,7 +374,7 @@
 |**2024-02-02**|**Delving into Decision-based Black-box Attacks on Semantic Segmentation**|Zhaoyu Chen et.al.|[2402.01220](http://arxiv.org/abs/2402.01220)|null|
 |**2024-02-02**|**Scale Equalization for Multi-Level Feature Fusion**|Bum Jun Kim et.al.|[2402.01149](http://arxiv.org/abs/2402.01149)|null|
 |**2024-02-06**|**We're Not Using Videos Effectively: An Updated Domain Adaptive Video Segmentation Baseline**|Simar Kareer et.al.|[2402.00868](http://arxiv.org/abs/2402.00868)|**[link](https://github.com/simarkareer/unifiedvideoda)**|
-|**2024-02-01**|**Automatic Segmentation of the Spinal Cord Nerve Rootlets**|Jan Valosek et.al.|[2402.00724](http://arxiv.org/abs/2402.00724)|null|
+|**2024-02-01**|**Automatic Segmentation of the Spinal Cord Nerve Rootlets**|Jan Valosek et.al.|[2402.00724](http://arxiv.org/abs/2402.00724)|**[link](https://github.com/ivadomed/model-spinal-rootlets)**|
 |**2024-02-01**|**A Framework for Building Point Cloud Cleaning, Plane Detection and Semantic Segmentation**|Ilyass Abouelaziz et.al.|[2402.00692](http://arxiv.org/abs/2402.00692)|null|
 |**2024-01-31**|**Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model**|Zihan Zhong et.al.|[2401.17868](http://arxiv.org/abs/2401.17868)|**[link](https://github.com/autogluon/autogluon)**|
 |**2024-01-31**|**Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation**|Rozhan Ahmadi et.al.|[2401.17828](http://arxiv.org/abs/2401.17828)|**[link](https://github.com/rozhanahmadi/swtformer)**|
@@ -385,7 +385,7 @@
 |**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
 |**2024-01-28**|**SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks**|Serdar Erisen et.al.|[2401.15741](http://arxiv.org/abs/2401.15741)|null|
 |**2024-01-28**|**UP-CrackNet: Unsupervised Pixel-Wise Road Crack Detection via Adversarial Image Restoration**|Nachuan Ma et.al.|[2401.15647](http://arxiv.org/abs/2401.15647)|null|
-|**2024-01-27**|**Vanishing-Point-Guided Video Semantic Segmentation of Driving Scenes**|Diandian Guo et.al.|[2401.15261](http://arxiv.org/abs/2401.15261)|null|
+|**2024-01-27**|**Vanishing-Point-Guided Video Semantic Segmentation of Driving Scenes**|Diandian Guo et.al.|[2401.15261](http://arxiv.org/abs/2401.15261)|**[link](https://github.com/rascalgdd/vpseg)**|
 |**2024-01-26**|**Biological Valuation Map of Flanders: A Sentinel-2 Imagery Analysis**|Mingshi Li et.al.|[2401.15223](http://arxiv.org/abs/2401.15223)|null|
 |**2024-01-26**|**Kitchen Food Waste Image Segmentation and Classification for Compost Nutrients Estimation**|Raiyan Rahman et.al.|[2401.15175](http://arxiv.org/abs/2401.15175)|null|
 |**2024-01-26**|**SSR: SAM is a Strong Regularizer for domain adaptive semantic segmentation**|Yanqi Ge et.al.|[2401.14686](http://arxiv.org/abs/2401.14686)|null|
