@@ -49,6 +49,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**ASAM: Boosting Segment Anything Model with Adversarial Tuning**|Bo Li et.al.|[2405.00256](http://arxiv.org/abs/2405.00256)|null|
 |**2024-03-30**|**Multiway Point Cloud Mosaicking with Diffusion and Global Optimization**|Shengze Jin et.al.|[2404.00429](http://arxiv.org/abs/2404.00429)|null|
 |**2024-04-09**|**Rich Human Feedback for Text-to-Image Generation**|Youwei Liang et.al.|[2312.10240](http://arxiv.org/abs/2312.10240)|**[link](https://github.com/google-research/google-research)**|
 |**2023-12-07**|**Gen2Det: Generate to Detect**|Saksham Suri et.al.|[2312.04566](http://arxiv.org/abs/2312.04566)|null|
@@ -82,6 +83,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis**|Huy H. Nguyen et.al.|[2405.00355](http://arxiv.org/abs/2405.00355)|null|
 |**2024-04-30**|**Masked Multi-Query Slot Attention for Unsupervised Object Discovery**|Rishav Pramanik et.al.|[2404.19654](http://arxiv.org/abs/2404.19654)|**[link](https://github.com/rishavpramanik/maskedmultiqueryslot)**|
 |**2024-04-30**|**DELINE8K: A Synthetic Data Pipeline for the Semantic Segmentation of Historical Documents**|Taylor Archibald et.al.|[2404.19259](http://arxiv.org/abs/2404.19259)|null|
 |**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924](http://arxiv.org/abs/2404.18924)|null|
