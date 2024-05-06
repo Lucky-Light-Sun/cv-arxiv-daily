@@ -326,7 +326,7 @@
 |**2024-02-29**|**RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation**|Jie Zhang et.al.|[2402.19004](http://arxiv.org/abs/2402.19004)|null|
 |**2024-02-28**|**Spatial Coherence Loss for Salient and Camouflaged Object Detection and Beyond**|Ziyun Yang et.al.|[2402.18698](http://arxiv.org/abs/2402.18698)|null|
 |**2024-02-29**|**Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation**|Zhiwei Yang et.al.|[2402.18467](http://arxiv.org/abs/2402.18467)|**[link](https://github.com/zwyang6/seco)**|
-|**2024-02-29**|**A Modular System for Enhanced Robustness of Multimedia Understanding Networks via Deep Parametric Estimation**|Francesco Barbato et.al.|[2402.18402](http://arxiv.org/abs/2402.18402)|null|
+|**2024-02-29**|**A Modular System for Enhanced Robustness of Multimedia Understanding Networks via Deep Parametric Estimation**|Francesco Barbato et.al.|[2402.18402](http://arxiv.org/abs/2402.18402)|**[link](https://github.com/samsunglabs/sympie)**|
 |**2024-02-28**|**Enhancing Roadway Safety: LiDAR-based Tree Clearance Analysis**|Miriam Louise Carnot et.al.|[2402.18309](http://arxiv.org/abs/2402.18309)|null|
 |**2024-02-28**|**Self-Supervised Learning in Electron Microscopy: Towards a Foundation Model for Advanced Image Analysis**|Bashir Kazimi et.al.|[2402.18286](http://arxiv.org/abs/2402.18286)|null|
 |**2024-02-28**|**PRCL: Probabilistic Representation Contrastive Learning for Semi-Supervised Semantic Segmentation**|Haoyu Xie et.al.|[2402.18117](http://arxiv.org/abs/2402.18117)|null|
