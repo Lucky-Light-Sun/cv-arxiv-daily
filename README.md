@@ -95,6 +95,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**A New Dataset and Comparative Study for Aphid Cluster Detection and Segmentation in Sorghum Fields**|Raiyan Rahman et.al.|[2405.04305](http://arxiv.org/abs/2405.04305)|null|
+|**2024-05-07**|**ELiTe: Efficient Image-to-LiDAR Knowledge Transfer for Semantic Segmentation**|Zhibo Zhang et.al.|[2405.04121](http://arxiv.org/abs/2405.04121)|null|
 |**2024-05-06**|**PTQ4SAM: Post-Training Quantization for Segment Anything**|Chengtao Lv et.al.|[2405.03144](http://arxiv.org/abs/2405.03144)|**[link](https://github.com/chengtao-lv/ptq4sam)**|
 |**2024-05-04**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|Vishal Nedungadi et.al.|[2405.02771](http://arxiv.org/abs/2405.02771)|null|
 |**2024-05-04**|**Few-Shot Fruit Segmentation via Transfer Learning**|Jordan A. James et.al.|[2405.02556](http://arxiv.org/abs/2405.02556)|null|
