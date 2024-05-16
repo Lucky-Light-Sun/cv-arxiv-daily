@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -53,7 +53,7 @@
 |**2023-11-17**|**CATS v2: Hybrid encoders for robust medical segmentation**|Hao Li et.al.|[2308.06377](http://arxiv.org/abs/2308.06377)|**[link](https://github.com/haoli12345/cats)**|
 |**2023-08-10**|**From CNN to Transformer: A Review of Medical Image Segmentation Models**|Wenjian Yao et.al.|[2308.05305](http://arxiv.org/abs/2308.05305)|null|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
 ## diffusion model
 
@@ -89,7 +89,7 @@
 |**2021-10-31**|**Role of Thermal and Non-thermal Processes in the ISM of Magellanic Clouds**|H. Hassani et.al.|[2111.00583](http://arxiv.org/abs/2111.00583)|null|
 |**2023-04-14**|**Variational Diffusion Models**|Diederik P. Kingma et.al.|[2107.00630](http://arxiv.org/abs/2107.00630)|**[link](https://github.com/google-research/vdm)**|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
 ## semantic segmentation
 
@@ -99,10 +99,10 @@
 |**2024-05-14**|**TEDNet: Twin Encoder Decoder Neural Network for 2D Camera and LiDAR Road Detection**|Martín Bayón-Gutiérrez et.al.|[2405.08429](http://arxiv.org/abs/2405.08429)|**[link](https://github.com/martin-bayon/tednet)**|
 |**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916](http://arxiv.org/abs/2405.07916)|null|
 |**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|null|
-|**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849](http://arxiv.org/abs/2405.06849)|null|
+|**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849](http://arxiv.org/abs/2405.06849)|**[link](https://github.com/SLDGroup/GreedyViG)**|
 |**2024-05-10**|**Enhancing Weakly Supervised Semantic Segmentation with Multi-modal Foundation Models: An End-to-End Approach**|Elham Ravanbakhsh et.al.|[2405.06586](http://arxiv.org/abs/2405.06586)|null|
 |**2024-05-10**|**Semantic and Spatial Adaptive Pixel-level Classifier for Semantic Segmentation**|Xiaowen Ma et.al.|[2405.06525](http://arxiv.org/abs/2405.06525)|**[link](https://github.com/xwmaxwma/ssa)**|
-|**2024-05-10**|**Multi-Target Unsupervised Domain Adaptation for Semantic Segmentation without External Data**|Yonghao Xu et.al.|[2405.06502](http://arxiv.org/abs/2405.06502)|null|
+|**2024-05-10**|**Multi-Target Unsupervised Domain Adaptation for Semantic Segmentation without External Data**|Yonghao Xu et.al.|[2405.06502](http://arxiv.org/abs/2405.06502)|**[link](https://github.com/yonghaoxu/ut-kd)**|
 |**2024-05-10**|**Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data**|Rongyu Zhang et.al.|[2405.06413](http://arxiv.org/abs/2405.06413)|null|
 |**2024-05-10**|**Context-Guided Spatial Feature Reconstruction for Efficient Semantic Segmentation**|Zhenliang Ni et.al.|[2405.06228](http://arxiv.org/abs/2405.06228)|**[link](https://github.com/nizhenliang/cgrseg)**|
 |**2024-05-10**|**Zero-shot Degree of Ill-posedness Estimation for Active Small Object Change Detection**|Koji Takeda et.al.|[2405.06185](http://arxiv.org/abs/2405.06185)|null|
@@ -576,7 +576,7 @@
 |**2023-12-05**|**DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control**|Yuru Jia et.al.|[2312.03048](http://arxiv.org/abs/2312.03048)|null|
 |**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593](http://arxiv.org/abs/2312.02593)|**[link](https://github.com/kulunuos/6dapose)**|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
 ## fine-tune
 
@@ -611,7 +611,7 @@
 |**2022-10-17**|**Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks**|Run Wang et.al.|[2210.07809](http://arxiv.org/abs/2210.07809)|**[link](https://github.com/antigonerandy/ptynet)**|
 |**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995](http://arxiv.org/abs/2209.06995)|**[link](https://github.com/yueyu1030/patron)**|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
 ## diffusion-segmentation
 
@@ -621,7 +621,7 @@
 |**2023-07-17**|**Multimodal Diffusion Segmentation Model for Object Segmentation from Manipulation Instructions**|Yui Iioka et.al.|[2307.08597](http://arxiv.org/abs/2307.08597)|null|
 |**2019-02-11**|**Pinned or moving: states of a single shock in a ring**|Parna Roy et.al.|[1902.03897](http://arxiv.org/abs/1902.03897)|null|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
