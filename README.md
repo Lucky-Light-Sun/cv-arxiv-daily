@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models**|Reza Babaei et.al.|[2406.02653](http://arxiv.org/abs/2406.02653)|null|
 |**2024-06-01**|**Quality Sentinel: Estimating Label Quality and Errors in Medical Segmentation Datasets**|Yixiong Chen et.al.|[2406.00327](http://arxiv.org/abs/2406.00327)|null|
 |**2024-05-28**|**Universal and Extensible Language-Vision Models for Organ Segmentation and Tumor Detection from Abdominal Computed Tomography**|Jie Liu et.al.|[2405.18356](http://arxiv.org/abs/2405.18356)|**[link](https://github.com/ljwztc/clip-driven-universal-model)**|
 |**2024-02-25**|**Frequency-Guided U-Net: Leveraging Attention Filter Gates and Fast Fourier Transformation for Enhanced Medical Image Segmentation**|Haytham Al Ewaidat et.al.|[2405.00683](http://arxiv.org/abs/2405.00683)|null|
@@ -97,6 +98,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Comparative Benchmarking of Failure Detection Methods in Medical Image Segmentation: Unveiling the Role of Confidence Aggregation**|Maximilian Zenk et.al.|[2406.03323](http://arxiv.org/abs/2406.03323)|null|
+|**2024-06-05**|**Learning Semantic Traversability with Egocentric Video and Automated Annotation Strategy**|Yunho Kim et.al.|[2406.02989](http://arxiv.org/abs/2406.02989)|null|
+|**2024-06-04**|**W-RIZZ: A Weakly-Supervised Framework for Relative Traversability Estimation in Mobile Robotics**|Andre Schreiber et.al.|[2406.02822](http://arxiv.org/abs/2406.02822)|null|
+|**2024-06-04**|**Window to Wall Ratio Detection using SegFormer**|Zoe De Simone et.al.|[2406.02706](http://arxiv.org/abs/2406.02706)|null|
 |**2024-06-04**|**Detecting Endangered Marine Species in Autonomous Underwater Vehicle Imagery Using Point Annotations and Few-Shot Learning**|Heather Doig et.al.|[2406.01932](http://arxiv.org/abs/2406.01932)|null|
 |**2024-06-03**|**EAGLE: Efficient Adaptive Geometry-based Learning in Cross-view Understanding**|Thanh-Dat Truong et.al.|[2406.01429](http://arxiv.org/abs/2406.01429)|null|
 |**2024-06-03**|**TE-NeXt: A LiDAR-Based 3D Sparse Convolutional Network for Traversability Estimation**|Antonio Santo et.al.|[2406.01395](http://arxiv.org/abs/2406.01395)|**[link](https://github.com/ARVCUMH/te-next)**|
