@@ -87,6 +87,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Characterizing segregation in blast rock piles a deep-learning approach leveraging aerial image analysis**|Chengeng Liu et.al.|[2406.04149](http://arxiv.org/abs/2406.04149)|null|
+|**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|null|
+|**2024-06-06**|**Enhanced Semantic Segmentation Pipeline for WeatherProof Dataset Challenge**|Nan Zhang et.al.|[2406.03799](http://arxiv.org/abs/2406.03799)|**[link](https://github.com/kaneigi/weatherproofchallenge)**|
+|**2024-06-06**|**DSNet: A Novel Way to Use Atrous Convolutions in Semantic Segmentation**|Zilu Guo et.al.|[2406.03702](http://arxiv.org/abs/2406.03702)|**[link](https://github.com/takaniwa/dsnet)**|
 |**2024-06-05**|**Comparative Benchmarking of Failure Detection Methods in Medical Image Segmentation: Unveiling the Role of Confidence Aggregation**|Maximilian Zenk et.al.|[2406.03323](http://arxiv.org/abs/2406.03323)|null|
 |**2024-06-05**|**Learning Semantic Traversability with Egocentric Video and Automated Annotation Strategy**|Yunho Kim et.al.|[2406.02989](http://arxiv.org/abs/2406.02989)|null|
 |**2024-06-04**|**W-RIZZ: A Weakly-Supervised Framework for Relative Traversability Estimation in Mobile Robotics**|Andre Schreiber et.al.|[2406.02822](http://arxiv.org/abs/2406.02822)|null|
