@@ -98,6 +98,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512](http://arxiv.org/abs/2406.06512)|null|
+|**2024-06-10**|**UMAD: Unsupervised Mask-Level Anomaly Detection for Autonomous Driving**|Daniel Bogdoll et.al.|[2406.06370](http://arxiv.org/abs/2406.06370)|null|
+|**2024-06-09**|**Scaling Graph Convolutions for Mobile Vision**|William Avery et.al.|[2406.05850](http://arxiv.org/abs/2406.05850)|**[link](https://github.com/sldgroup/mobilevigv2)**|
+|**2024-06-09**|**Solution for CVPR 2024 UG2+ Challenge Track on All Weather Semantic Segmentation**|Jun Yu et.al.|[2406.05837](http://arxiv.org/abs/2406.05837)|null|
+|**2024-06-09**|**Convolution and Attention-Free Mamba-based Cardiac Image Segmentation**|Abbas Khan et.al.|[2406.05786](http://arxiv.org/abs/2406.05786)|null|
+|**2024-06-09**|**Separating the "Chirp" from the "Chat": Self-supervised Visual Grounding of Sound and Language**|Mark Hamilton et.al.|[2406.05629](http://arxiv.org/abs/2406.05629)|**[link](https://github.com/mhamilton723/DenseAV)**|
+|**2024-06-08**|**A Two-Stage Adverse Weather Semantic Segmentation Method for WeatherProof Challenge CVPR 2024 Workshop UG2+**|Jianzhao Wang et.al.|[2406.05513](http://arxiv.org/abs/2406.05513)|null|
+|**2024-06-08**|**Layered Image Vectorization via Semantic Simplification**|Zhenyu Wang et.al.|[2406.05404](http://arxiv.org/abs/2406.05404)|null|
+|**2024-06-08**|**1st Place Winner of the 2024 Pixel-level Video Understanding in the Wild (CVPR'24 PVUW) Challenge in Video Panoptic Segmentation and Best Long Video Consistency of Video Semantic Segmentation**|Qingfeng Liu et.al.|[2406.05352](http://arxiv.org/abs/2406.05352)|null|
+|**2024-06-07**|**USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation**|Xiaoqi Wang et.al.|[2406.05271](http://arxiv.org/abs/2406.05271)|null|
 |**2024-06-07**|**Nacala-Roof-Material: Drone Imagery for Roof Detection, Classification, and Segmentation to Support Mosquito-borne Disease Risk Assessment**|Venkanna Babu Guthula et.al.|[2406.04949](http://arxiv.org/abs/2406.04949)|null|
 |**2024-06-06**|**Characterizing segregation in blast rock piles a deep-learning approach leveraging aerial image analysis**|Chengeng Liu et.al.|[2406.04149](http://arxiv.org/abs/2406.04149)|null|
 |**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|**[link](https://github.com/caopulan/Mask2Former-LT)**|
@@ -662,6 +672,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Retrieval & Fine-Tuning for In-Context Tabular Models**|Valentin Thomas et.al.|[2406.05207](http://arxiv.org/abs/2406.05207)|null|
 |**2024-05-31**|**Bayesian Design Principles for Offline-to-Online Reinforcement Learning**|Hao Hu et.al.|[2405.20984](http://arxiv.org/abs/2405.20984)|**[link](https://github.com/YiqinYang/BOORL)**|
 |**2024-05-28**|**Intuitive Fine-Tuning: Towards Simplifying Alignment into a Single Process**|Ermo Hua et.al.|[2405.11870](http://arxiv.org/abs/2405.11870)|**[link](https://github.com/TsinghuaC3I/Intuitive-Fine-Tuning)**|
 |**2024-03-28**|**Low-Rank Rescaled Vision Transformer Fine-Tuning: A Residual Design Approach**|Wei Dong et.al.|[2403.19067](http://arxiv.org/abs/2403.19067)|**[link](https://github.com/zstarn70/rlrr)**|
