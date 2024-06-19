@@ -88,6 +88,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Reparameterizable Dual-Resolution Network for Real-time Semantic Segmentation**|Guoyu Yang et.al.|[2406.12496](http://arxiv.org/abs/2406.12496)|null|
+|**2024-06-18**|**Agriculture-Vision Challenge 2024 -- The Runner-Up Solution for Agricultural Pattern Recognition via Class Balancing and Model Ensemble**|Wang Liu et.al.|[2406.12271](http://arxiv.org/abs/2406.12271)|null|
 |**2024-06-17**|**OoDIS: Anomaly Instance Segmentation Benchmark**|Alexey Nekrasov et.al.|[2406.11835](http://arxiv.org/abs/2406.11835)|**[link](https://github.com/kumuji/ugains)**|
 |**2024-06-17**|**Multimodal Learning To Improve Segmentation With Intraoperative CBCT & Preoperative CT**|Maximilian E. Tschuchnig et.al.|[2406.11650](http://arxiv.org/abs/2406.11650)|null|
 |**2024-06-17**|**Enhancing Generalizability of Representation Learning for Data-Efficient 3D Scene Understanding**|Yunsong Wang et.al.|[2406.11283](http://arxiv.org/abs/2406.11283)|null|
@@ -696,7 +698,7 @@ layout: default
 |**2024-02-13**|**Astrophysical and relativistic modeling of the recoiling black-hole candidate in quasar 3C 186**|Matteo Boschini et.al.|[2402.08740](http://arxiv.org/abs/2402.08740)|null|
 |**2024-02-02**|**AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback**|Jian Guan et.al.|[2402.01469](http://arxiv.org/abs/2402.01469)|null|
 |**2024-01-30**|**Category-wise Fine-Tuning: Resisting Incorrect Pseudo-Labels in Multi-Label Image Classification with Partial Labels**|Chak Fong Chong et.al.|[2401.16991](http://arxiv.org/abs/2401.16991)|**[link](https://github.com/maxium0526/category-wise-fine-tuning)**|
-|**2024-02-18**|**Instruction Fine-Tuning: Does Prompt Loss Matter?**|Mathew Huerta-Enochian et.al.|[2401.13586](http://arxiv.org/abs/2401.13586)|null|
+|**2024-06-18**|**Instruction Fine-Tuning: Does Prompt Loss Matter?**|Mathew Huerta-Enochian et.al.|[2401.13586](http://arxiv.org/abs/2401.13586)|null|
 |**2024-01-30**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Angels Balaguer et.al.|[2401.08406](http://arxiv.org/abs/2401.08406)|null|
 |**2023-12-25**|**Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers**|Peng Ye et.al.|[2312.15681](http://arxiv.org/abs/2312.15681)|null|
 |**2024-03-30**|**Brain Decodes Deep Nets**|Huzheng Yang et.al.|[2312.01280](http://arxiv.org/abs/2312.01280)|**[link](https://github.com/huzeyann/braindecodesdeepnets)**|
