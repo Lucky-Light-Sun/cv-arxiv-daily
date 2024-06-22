@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -94,7 +94,7 @@ layout: default
 |**2024-06-20**|**Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely Sensed Images**|Qinfeng Zhu et.al.|[2406.14086](http://arxiv.org/abs/2406.14086)|**[link](https://github.com/zhuqinfeng1999/seg-lstm)**|
 |**2024-06-19**|**Search-based DNN Testing and Retraining with GAN-enhanced Simulations**|Mohammed Oualid Attaoui et.al.|[2406.13359](http://arxiv.org/abs/2406.13359)|null|
 |**2024-06-19**|**Deep Learning-Based 3D Instance and Semantic Segmentation: A Review**|Siddiqui Muhammad Yasir et.al.|[2406.13308](http://arxiv.org/abs/2406.13308)|null|
-|**2024-06-18**|**Reparameterizable Dual-Resolution Network for Real-time Semantic Segmentation**|Guoyu Yang et.al.|[2406.12496](http://arxiv.org/abs/2406.12496)|null|
+|**2024-06-18**|**Reparameterizable Dual-Resolution Network for Real-time Semantic Segmentation**|Guoyu Yang et.al.|[2406.12496](http://arxiv.org/abs/2406.12496)|**[link](https://github.com/gyyang23/rdrnet)**|
 |**2024-06-18**|**Agriculture-Vision Challenge 2024 -- The Runner-Up Solution for Agricultural Pattern Recognition via Class Balancing and Model Ensemble**|Wang Liu et.al.|[2406.12271](http://arxiv.org/abs/2406.12271)|null|
 |**2024-06-17**|**OoDIS: Anomaly Instance Segmentation Benchmark**|Alexey Nekrasov et.al.|[2406.11835](http://arxiv.org/abs/2406.11835)|**[link](https://github.com/kumuji/ugains)**|
 |**2024-06-17**|**Multimodal Learning To Improve Segmentation With Intraoperative CBCT & Preoperative CT**|Maximilian E. Tschuchnig et.al.|[2406.11650](http://arxiv.org/abs/2406.11650)|null|
