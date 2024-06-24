@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -100,7 +100,7 @@ layout: default
 |**2024-06-17**|**Multimodal Learning To Improve Segmentation With Intraoperative CBCT & Preoperative CT**|Maximilian E. Tschuchnig et.al.|[2406.11650](http://arxiv.org/abs/2406.11650)|null|
 |**2024-06-17**|**Enhancing Generalizability of Representation Learning for Data-Efficient 3D Scene Understanding**|Yunsong Wang et.al.|[2406.11283](http://arxiv.org/abs/2406.11283)|null|
 |**2024-06-17**|**Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation**|Bingfeng Zhang et.al.|[2406.11189](http://arxiv.org/abs/2406.11189)|null|
-|**2024-06-16**|**$α$ -SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion**|Sanbao Su et.al.|[2406.11021](http://arxiv.org/abs/2406.11021)|null|
+|**2024-06-21**|**$α$ -SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion**|Sanbao Su et.al.|[2406.11021](http://arxiv.org/abs/2406.11021)|null|
 |**2024-06-16**|**PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery**|Libo Wang et.al.|[2406.10828](http://arxiv.org/abs/2406.10828)|**[link](https://github.com/WangLibo1995/GeoSeg)**|
 |**2024-06-15**|**GenMM: Geometrically and Temporally Consistent Multimodal Data Generation for Video and LiDAR**|Bharat Singh et.al.|[2406.10722](http://arxiv.org/abs/2406.10722)|null|
 |**2024-06-15**|**A Late-Stage Bitemporal Feature Fusion Network for Semantic Change Detection**|Chenyao Zhou et.al.|[2406.10678](http://arxiv.org/abs/2406.10678)|**[link](https://github.com/STORMTROOPERRR/RSISCD)**|
