@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -58,7 +58,7 @@
 |**2023-11-17**|**CATS v2: Hybrid encoders for robust medical segmentation**|Hao Li et.al.|[2308.06377](http://arxiv.org/abs/2308.06377)|**[link](https://github.com/haoli12345/cats)**|
 |**2023-08-10**|**From CNN to Transformer: A Review of Medical Image Segmentation Models**|Wenjian Yao et.al.|[2308.05305](http://arxiv.org/abs/2308.05305)|null|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 ## diffusion model
 
@@ -94,7 +94,7 @@
 |**2021-10-31**|**Role of Thermal and Non-thermal Processes in the ISM of Magellanic Clouds**|H. Hassani et.al.|[2111.00583](http://arxiv.org/abs/2111.00583)|null|
 |**2023-04-14**|**Variational Diffusion Models**|Diederik P. Kingma et.al.|[2107.00630](http://arxiv.org/abs/2107.00630)|**[link](https://github.com/google-research/vdm)**|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 ## semantic segmentation
 
@@ -102,19 +102,19 @@
 |---|---|---|---|---|
 |**2024-06-26**|**CAS: Confidence Assessments of classification algorithms for Semantic segmentation of EO data**|Nikolaos Dionelis et.al.|[2406.18279](http://arxiv.org/abs/2406.18279)|null|
 |**2024-06-26**|**The Surprising Effectiveness of Multimodal Large Language Models for Video Moment Retrieval**|Meinardus Boris et.al.|[2406.18113](http://arxiv.org/abs/2406.18113)|**[link](https://github.com/sudo-Boris/mr-Blip)**|
-|**2024-06-26**|**Few-Shot Medical Image Segmentation with High-Fidelity Prototypes**|Song Tang et.al.|[2406.18074](http://arxiv.org/abs/2406.18074)|null|
+|**2024-06-26**|**Few-Shot Medical Image Segmentation with High-Fidelity Prototypes**|Song Tang et.al.|[2406.18074](http://arxiv.org/abs/2406.18074)|**[link](https://github.com/tntek/dspnet)**|
 |**2024-06-25**|**Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2406.17679](http://arxiv.org/abs/2406.17679)|null|
 |**2024-06-25**|**DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation**|Ahmad Mohammadshirazi et.al.|[2406.17591](http://arxiv.org/abs/2406.17591)|**[link](https://github.com/ahmad-shirazi/docparsenet)**|
 |**2024-06-25**|**Principal Component Clustering for Semantic Segmentation in Synthetic Data Generation**|Felix Stillger et.al.|[2406.17541](http://arxiv.org/abs/2406.17541)|null|
 |**2024-06-25**|**Investigating Self-Supervised Methods for Label-Efficient Learning**|Srinivasa Rao Nandam et.al.|[2406.17460](http://arxiv.org/abs/2406.17460)|null|
 |**2024-06-25**|**Pseudo Labelling for Enhanced Masked Autoencoders**|Srinivasa Rao Nandam et.al.|[2406.17450](http://arxiv.org/abs/2406.17450)|null|
 |**2024-06-25**|**Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model**|Zhuoyuan Li et.al.|[2406.17442](http://arxiv.org/abs/2406.17442)|null|
-|**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438](http://arxiv.org/abs/2406.17438)|null|
+|**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438](http://arxiv.org/abs/2406.17438)|**[link](https://github.com/qimaqi/Implicit-Zoo)**|
 |**2024-06-24**|**Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation**|Yizheng Wu et.al.|[2406.16776](http://arxiv.org/abs/2406.16776)|**[link](https://github.com/w1zheng/insteacher3d)**|
 |**2024-06-24**|**μ-Net: A Deep Learning-Based Architecture for μ-CT Segmentation**|Pierangela Bruno et.al.|[2406.16724](http://arxiv.org/abs/2406.16724)|null|
 |**2024-06-24**|**GATSBI: An Online GTSP-Based Algorithm for Targeted Surface Bridge Inspection and Defect Detection**|Harnaik Dhami et.al.|[2406.16625](http://arxiv.org/abs/2406.16625)|null|
 |**2024-06-24**|**LOGCAN++: Local-global class-aware network for semantic segmentation of remote sensing images**|Xiaowen Ma et.al.|[2406.16502](http://arxiv.org/abs/2406.16502)|**[link](https://github.com/xwmaxwma/rssegmentation)**|
-|**2024-06-24**|**Cascade Reward Sampling for Efficient Decoding-Time Alignment**|Bolian Li et.al.|[2406.16306](http://arxiv.org/abs/2406.16306)|null|
+|**2024-06-24**|**Cascade Reward Sampling for Efficient Decoding-Time Alignment**|Bolian Li et.al.|[2406.16306](http://arxiv.org/abs/2406.16306)|**[link](https://github.com/lblaoke/CARDS)**|
 |**2024-06-24**|**SegNet4D: Effective and Efficient 4D LiDAR Semantic Segmentation in Autonomous Driving Environments**|Neng Wang et.al.|[2406.16279](http://arxiv.org/abs/2406.16279)|**[link](https://github.com/nubot-nudt/segnet4d)**|
 |**2024-06-23**|**UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**|Pengfei Zhang et.al.|[2406.16129](http://arxiv.org/abs/2406.16129)|null|
 |**2024-06-22**|**Fine-grained Background Representation for Weakly Supervised Semantic Segmentation**|Xu Yin et.al.|[2406.15755](http://arxiv.org/abs/2406.15755)|null|
@@ -718,7 +718,7 @@
 |**2023-12-05**|**DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control**|Yuru Jia et.al.|[2312.03048](http://arxiv.org/abs/2312.03048)|null|
 |**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593](http://arxiv.org/abs/2312.02593)|**[link](https://github.com/kulunuos/6dapose)**|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 ## fine-tune
 
@@ -757,18 +757,18 @@
 |**2022-10-17**|**Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks**|Run Wang et.al.|[2210.07809](http://arxiv.org/abs/2210.07809)|**[link](https://github.com/antigonerandy/ptynet)**|
 |**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995](http://arxiv.org/abs/2209.06995)|**[link](https://github.com/yueyu1030/patron)**|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 ## diffusion-segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361](http://arxiv.org/abs/2406.18361)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
+|**2024-06-27**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361](http://arxiv.org/abs/2406.18361)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
 |**2024-03-21**|**Analysing Diffusion Segmentation for Medical Images**|Mathias Öttl et.al.|[2403.14440](http://arxiv.org/abs/2403.14440)|null|
 |**2023-07-17**|**Multimodal Diffusion Segmentation Model for Object Segmentation from Manipulation Instructions**|Yui Iioka et.al.|[2307.08597](http://arxiv.org/abs/2307.08597)|null|
 |**2019-02-11**|**Pinned or moving: states of a single shock in a ring**|Parna Roy et.al.|[1902.03897](http://arxiv.org/abs/1902.03897)|null|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
