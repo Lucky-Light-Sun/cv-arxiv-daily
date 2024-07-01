@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-26**|**A Refer-and-Ground Multimodal Large Language Model for Biomedicine**|Xiaoshuang Huang et.al.|[2406.18146](http://arxiv.org/abs/2406.18146)|null|
+|**2024-06-28**|**A Refer-and-Ground Multimodal Large Language Model for Biomedicine**|Xiaoshuang Huang et.al.|[2406.18146](http://arxiv.org/abs/2406.18146)|**[link](https://github.com/shawnhuang497/bird)**|
 |**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486](http://arxiv.org/abs/2406.08486)|**[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)**|
 |**2024-06-04**|**Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models**|Reza Babaei et.al.|[2406.02653](http://arxiv.org/abs/2406.02653)|null|
 |**2024-06-01**|**Quality Sentinel: Estimating Label Quality and Errors in Medical Segmentation Datasets**|Yixiong Chen et.al.|[2406.00327](http://arxiv.org/abs/2406.00327)|null|
