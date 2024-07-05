@@ -111,7 +111,7 @@
 |**2024-07-02**|**MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders**|Baijiong Lin et.al.|[2407.02228](http://arxiv.org/abs/2407.02228)|**[link](https://github.com/envision-research/mtmamba)**|
 |**2024-07-02**|**Occlusion-Aware Seamless Segmentation**|Yihong Cao et.al.|[2407.02182](http://arxiv.org/abs/2407.02182)|**[link](https://github.com/yihong-97/oass)**|
 |**2024-07-02**|**VRBiom: A New Periocular Dataset for Biometric Applications of HMD**|Ketan Kotwal et.al.|[2407.02150](http://arxiv.org/abs/2407.02150)|null|
-|**2024-07-02**|**Label Anything: Multi-Class Few-Shot Semantic Segmentation with Visual Prompts**|Pasquale De Marinis et.al.|[2407.02075](http://arxiv.org/abs/2407.02075)|null|
+|**2024-07-02**|**Label Anything: Multi-Class Few-Shot Semantic Segmentation with Visual Prompts**|Pasquale De Marinis et.al.|[2407.02075](http://arxiv.org/abs/2407.02075)|**[link](https://github.com/pasqualedem/LabelAnything)**|
 |**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014](http://arxiv.org/abs/2407.02014)|**[link](https://github.com/visresearch/mgc)**|
 |**2024-07-01**|**Label-free Neural Semantic Image Synthesis**|Jiayi Wang et.al.|[2407.01790](http://arxiv.org/abs/2407.01790)|null|
 |**2024-07-01**|**PanopticRecon: Leverage Open-vocabulary Instance Segmentation for Zero-shot Panoptic Reconstruction**|Xuan Yu et.al.|[2407.01349](http://arxiv.org/abs/2407.01349)|null|
