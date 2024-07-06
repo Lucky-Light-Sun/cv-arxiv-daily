@@ -107,7 +107,7 @@
 |**2024-07-03**|**Knowledge Transfer with Simulated Inter-Image Erasing for Weakly Supervised Semantic Segmentation**|Tao Chen et.al.|[2407.02768](http://arxiv.org/abs/2407.02768)|null|
 |**2024-07-02**|**Open Panoramic Segmentation**|Junwei Zheng et.al.|[2407.02685](http://arxiv.org/abs/2407.02685)|null|
 |**2024-07-02**|**Holistically-Nested Structure-Aware Graph Neural Network for Road Extraction**|Tinghuai Wang et.al.|[2407.02639](http://arxiv.org/abs/2407.02639)|null|
-|**2024-07-02**|**Rethinking Data Augmentation for Robust LiDAR Semantic Segmentation in Adverse Weather**|Junsung Park et.al.|[2407.02286](http://arxiv.org/abs/2407.02286)|null|
+|**2024-07-02**|**Rethinking Data Augmentation for Robust LiDAR Semantic Segmentation in Adverse Weather**|Junsung Park et.al.|[2407.02286](http://arxiv.org/abs/2407.02286)|**[link](https://github.com/engineerJPark/LiDAR-DataAug4Weather)**|
 |**2024-07-02**|**MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders**|Baijiong Lin et.al.|[2407.02228](http://arxiv.org/abs/2407.02228)|**[link](https://github.com/envision-research/mtmamba)**|
 |**2024-07-02**|**Occlusion-Aware Seamless Segmentation**|Yihong Cao et.al.|[2407.02182](http://arxiv.org/abs/2407.02182)|**[link](https://github.com/yihong-97/oass)**|
 |**2024-07-02**|**VRBiom: A New Periocular Dataset for Biometric Applications of HMD**|Ketan Kotwal et.al.|[2407.02150](http://arxiv.org/abs/2407.02150)|null|
