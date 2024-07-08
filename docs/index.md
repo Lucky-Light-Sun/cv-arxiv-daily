@@ -428,7 +428,7 @@ layout: default
 |**2024-03-21**|**Learning to Project for Cross-Task Knowledge Distillation**|Dylan Auty et.al.|[2403.14494](http://arxiv.org/abs/2403.14494)|null|
 |**2024-03-21**|**OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation**|Bohao Peng et.al.|[2403.14418](http://arxiv.org/abs/2403.14418)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2024-03-21**|**Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models**|Pablo Marcos-Manchón et.al.|[2403.14291](http://arxiv.org/abs/2403.14291)|**[link](https://github.com/vpulab/ovam)**|
-|**2024-03-21**|**OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation**|Kwanyoung Kim et.al.|[2403.14183](http://arxiv.org/abs/2403.14183)|null|
+|**2024-03-21**|**OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation**|Kwanyoung Kim et.al.|[2403.14183](http://arxiv.org/abs/2403.14183)|**[link](https://github.com/cubeyoung/OTSeg)**|
 |**2024-03-21**|**Evidential Semantic Mapping in Off-road Environments with Uncertainty-aware Bayesian Kernel Inference**|Junyoung Kim et.al.|[2403.14138](http://arxiv.org/abs/2403.14138)|null|
 |**2024-03-21**|**Soft Masked Transformer for Point Cloud Processing with Skip Attention-Based Upsampling**|Yong He et.al.|[2403.14124](http://arxiv.org/abs/2403.14124)|null|
 |**2024-03-21**|**Semantics from Space: Satellite-Guided Thermal Semantic Segmentation Annotation for Aerial Field Robots**|Connor Lee et.al.|[2403.14056](http://arxiv.org/abs/2403.14056)|null|
