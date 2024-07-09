@@ -68,6 +68,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135](http://arxiv.org/abs/2407.06135)|**[link](https://github.com/gair-nlp/anole)**|
 |**2024-05-01**|**ASAM: Boosting Segment Anything Model with Adversarial Tuning**|Bo Li et.al.|[2405.00256](http://arxiv.org/abs/2405.00256)|**[link](https://github.com/luckybird1994/ASAM)**|
 |**2024-03-30**|**Multiway Point Cloud Mosaicking with Diffusion and Global Optimization**|Shengze Jin et.al.|[2404.00429](http://arxiv.org/abs/2404.00429)|null|
 |**2024-04-09**|**Rich Human Feedback for Text-to-Image Generation**|Youwei Liang et.al.|[2312.10240](http://arxiv.org/abs/2312.10240)|**[link](https://github.com/google-research/google-research)**|
@@ -104,6 +105,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077](http://arxiv.org/abs/2407.06077)|null|
+|**2024-07-08**|**Test-time adaptation for geospatial point cloud semantic segmentation with distinct domain shifts**|Puzuo Wang et.al.|[2407.06043](http://arxiv.org/abs/2407.06043)|null|
+|**2024-07-08**|**RHRSegNet: Relighting High-Resolution Night-Time Semantic Segmentation**|Sarah Elmahdy et.al.|[2407.06016](http://arxiv.org/abs/2407.06016)|null|
+|**2024-07-07**|**Semantic Segmentation for Real-World and Synthetic Vehicle's Forward-Facing Camera Images**|Tuan T. Nguyen et.al.|[2407.05452](http://arxiv.org/abs/2407.05452)|null|
+|**2024-07-07**|**Self-supervised Learning via Cluster Distance Prediction for Operating Room Context Awareness**|Idris Hamoud et.al.|[2407.05448](http://arxiv.org/abs/2407.05448)|null|
+|**2024-07-06**|**A Study of Test-time Contrastive Concepts for Open-world, Open-vocabulary Semantic Segmentation**|Monika Wysoczańska et.al.|[2407.05061](http://arxiv.org/abs/2407.05061)|null|
+|**2024-07-06**|**BlessemFlood21: Advancing Flood Analysis with a High-Resolution Georeferenced Dataset for Humanitarian Aid Support**|Vladyslav Polushko et.al.|[2407.05007](http://arxiv.org/abs/2407.05007)|null|
+|**2024-07-05**|**Explainable Metric Learning for Deflating Data Bias**|Emma Andrews et.al.|[2407.04866](http://arxiv.org/abs/2407.04866)|null|
 |**2024-07-05**|**LMSeg: A deep graph message-passing network for efficient and accurate semantic segmentation of large-scale 3D landscape meshes**|Zexian Huang et.al.|[2407.04326](http://arxiv.org/abs/2407.04326)|null|
 |**2024-07-04**|**Relative Difficulty Distillation for Semantic Segmentation**|Dong Liang et.al.|[2407.03719](http://arxiv.org/abs/2407.03719)|null|
 |**2024-07-04**|**POSTURE: Pose Guided Unsupervised Domain Adaptation for Human Body Part Segmentation**|Arindam Dutta et.al.|[2407.03549](http://arxiv.org/abs/2407.03549)|null|
@@ -794,6 +803,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-07**|**Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models**|Chun-Mei Feng et.al.|[2407.05323](http://arxiv.org/abs/2407.05323)|null|
 |**2024-06-27**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361](http://arxiv.org/abs/2406.18361)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
 |**2024-03-21**|**Analysing Diffusion Segmentation for Medical Images**|Mathias Öttl et.al.|[2403.14440](http://arxiv.org/abs/2403.14440)|null|
 |**2023-07-17**|**Multimodal Diffusion Segmentation Model for Object Segmentation from Manipulation Instructions**|Yui Iioka et.al.|[2307.08597](http://arxiv.org/abs/2307.08597)|null|
