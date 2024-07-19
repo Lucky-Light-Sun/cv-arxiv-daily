@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -99,10 +99,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-17**|**Weighting Pseudo-Labels via High-Activation Feature Index Similarity and Object Detection for Semi-Supervised Segmentation**|Prantik Howlader et.al.|[2407.12630](http://arxiv.org/abs/2407.12630)|null|
+|**2024-07-18**|**GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**|Abdelrahman Shaker et.al.|[2407.13772](http://arxiv.org/abs/2407.13772)|null|
+|**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761](http://arxiv.org/abs/2407.13761)|null|
+|**2024-07-18**|**MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**|Ziming Zhong et.al.|[2407.13675](http://arxiv.org/abs/2407.13675)|null|
+|**2024-07-18**|**Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**|Xiaoyu Zhu et.al.|[2407.13642](http://arxiv.org/abs/2407.13642)|null|
+|**2024-07-18**|**FADE: A Task-Agnostic Upsampling Operator for Encoder-Decoder Architectures**|Hao Lu et.al.|[2407.13500](http://arxiv.org/abs/2407.13500)|null|
+|**2024-07-18**|**FREST: Feature RESToration for Semantic Segmentation under Multiple Adverse Conditions**|Sohyun Lee et.al.|[2407.13437](http://arxiv.org/abs/2407.13437)|null|
+|**2024-07-18**|**Learning from the Web: Language Drives Weakly-Supervised Incremental Learning for Semantic Segmentation**|Chang Liu et.al.|[2407.13363](http://arxiv.org/abs/2407.13363)|null|
+|**2024-07-18**|**Make a Strong Teacher with Label Assistance: A Novel Knowledge Distillation Approach for Semantic Segmentation**|Shoumeng Qiu et.al.|[2407.13254](http://arxiv.org/abs/2407.13254)|null|
+|**2024-07-18**|**OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation**|Jian Sun et.al.|[2407.13137](http://arxiv.org/abs/2407.13137)|null|
+|**2024-07-18**|**Tree semantic segmentation from aerial image time series**|Venkatesh Ramesh et.al.|[2407.13102](http://arxiv.org/abs/2407.13102)|null|
+|**2024-07-17**|**ColorMAE: Exploring data-independent masking strategies in Masked AutoEncoders**|Carlos Hinojosa et.al.|[2407.13036](http://arxiv.org/abs/2407.13036)|null|
+|**2024-07-17**|**Weighting Pseudo-Labels via High-Activation Feature Index Similarity and Object Detection for Semi-Supervised Segmentation**|Prantik Howlader et.al.|[2407.12630](http://arxiv.org/abs/2407.12630)|**[link](https://github.com/cvlab-stonybrook/Weighting-Pseudo-Labels)**|
 |**2024-07-17**|**Instance-wise Uncertainty for Class Imbalance in Semantic Segmentation**|Luís Almeida et.al.|[2407.12609](http://arxiv.org/abs/2407.12609)|null|
-|**2024-07-17**|**Benchmarking Robust Self-Supervised Learning Across Diverse Downstream Tasks**|Antoni Kowalczuk et.al.|[2407.12588](http://arxiv.org/abs/2407.12588)|**[link](https://github.com/layer6ai-labs/ssl-robustness)**|
-|**2024-07-17**|**Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation**|Ruijie Xu et.al.|[2407.12489](http://arxiv.org/abs/2407.12489)|null|
+|**2024-07-18**|**Benchmarking Robust Self-Supervised Learning Across Diverse Downstream Tasks**|Antoni Kowalczuk et.al.|[2407.12588](http://arxiv.org/abs/2407.12588)|**[link](https://github.com/layer6ai-labs/ssl-robustness)**|
+|**2024-07-17**|**Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation**|Ruijie Xu et.al.|[2407.12489](http://arxiv.org/abs/2407.12489)|**[link](https://github.com/RikkiXu/NCD_PC)**|
 |**2024-07-17**|**Progressive Proxy Anchor Propagation for Unsupervised Semantic Segmentation**|Hyun Seok Seong et.al.|[2407.12463](http://arxiv.org/abs/2407.12463)|null|
 |**2024-07-17**|**ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference**|Mengcheng Lan et.al.|[2407.12442](http://arxiv.org/abs/2407.12442)|null|
 |**2024-07-17**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319](http://arxiv.org/abs/2407.12319)|null|
