@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -22,7 +22,7 @@ layout: default
 |**2024-07-10**|**Weakly-supervised Medical Image Segmentation with Gaze Annotations**|Yuan Zhong et.al.|[2407.07406](http://arxiv.org/abs/2407.07406)|**[link](https://github.com/med-air/gazemedseg)**|
 |**2024-07-16**|**Beyond Pixels: Semi-Supervised Semantic Segmentation with a Multi-scale Patch-based Multi-Label Classifier**|Prantik Howlader et.al.|[2407.04036](http://arxiv.org/abs/2407.04036)|**[link](https://github.com/cvlab-stonybrook/beyond-pixels)**|
 |**2024-07-03**|**HiDiff: Hybrid Diffusion Framework for Medical Image Segmentation**|Tao Chen et.al.|[2407.03548](http://arxiv.org/abs/2407.03548)|**[link](https://github.com/takimailto/hidiff)**|
-|**2024-07-03**|**Probing Perfection: The Relentless Art of Meddling for Pulmonary Airway Segmentation from HRCT via a Human-AI Collaboration Based Active Learning Method**|Shiyi Wang et.al.|[2407.03542](http://arxiv.org/abs/2407.03542)|null|
+|**2024-07-23**|**Probing Perfection: The Relentless Art of Meddling for Pulmonary Airway Segmentation from HRCT via a Human-AI Collaboration Based Active Learning Method**|Shiyi Wang et.al.|[2407.03542](http://arxiv.org/abs/2407.03542)|null|
 |**2024-06-29**|**pFLFE: Cross-silo Personalized Federated Learning via Feature Enhancement on Medical Image Segmentation**|Luyuan Xie et.al.|[2407.00462](http://arxiv.org/abs/2407.00462)|null|
 |**2024-06-28**|**A Refer-and-Ground Multimodal Large Language Model for Biomedicine**|Xiaoshuang Huang et.al.|[2406.18146](http://arxiv.org/abs/2406.18146)|**[link](https://github.com/shawnhuang497/bird)**|
 |**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486](http://arxiv.org/abs/2406.08486)|**[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)**|
@@ -112,7 +112,7 @@ layout: default
 |**2024-07-18**|**Many Perception Tasks are Highly Redundant Functions of their Input Data**|Rahul Ramesh et.al.|[2407.13841](http://arxiv.org/abs/2407.13841)|null|
 |**2024-07-18**|**GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**|Abdelrahman Shaker et.al.|[2407.13772](http://arxiv.org/abs/2407.13772)|**[link](https://github.com/Amshaker/GroupMamba)**|
 |**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761](http://arxiv.org/abs/2407.13761)|null|
-|**2024-07-18**|**MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**|Ziming Zhong et.al.|[2407.13675](http://arxiv.org/abs/2407.13675)|**[link](https://github.com/zimingzhong/MeshSegmenter)**|
+|**2024-07-23**|**MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**|Ziming Zhong et.al.|[2407.13675](http://arxiv.org/abs/2407.13675)|**[link](https://github.com/zimingzhong/MeshSegmenter)**|
 |**2024-07-18**|**Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**|Xiaoyu Zhu et.al.|[2407.13642](http://arxiv.org/abs/2407.13642)|null|
 |**2024-07-18**|**FADE: A Task-Agnostic Upsampling Operator for Encoder-Decoder Architectures**|Hao Lu et.al.|[2407.13500](http://arxiv.org/abs/2407.13500)|**[link](https://github.com/poppinace/fade)**|
 |**2024-07-18**|**FREST: Feature RESToration for Semantic Segmentation under Multiple Adverse Conditions**|Sohyun Lee et.al.|[2407.13437](http://arxiv.org/abs/2407.13437)|null|

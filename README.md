@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2024-07-10**|**Weakly-supervised Medical Image Segmentation with Gaze Annotations**|Yuan Zhong et.al.|[2407.07406](http://arxiv.org/abs/2407.07406)|**[link](https://github.com/med-air/gazemedseg)**|
 |**2024-07-16**|**Beyond Pixels: Semi-Supervised Semantic Segmentation with a Multi-scale Patch-based Multi-Label Classifier**|Prantik Howlader et.al.|[2407.04036](http://arxiv.org/abs/2407.04036)|**[link](https://github.com/cvlab-stonybrook/beyond-pixels)**|
 |**2024-07-03**|**HiDiff: Hybrid Diffusion Framework for Medical Image Segmentation**|Tao Chen et.al.|[2407.03548](http://arxiv.org/abs/2407.03548)|**[link](https://github.com/takimailto/hidiff)**|
-|**2024-07-03**|**Probing Perfection: The Relentless Art of Meddling for Pulmonary Airway Segmentation from HRCT via a Human-AI Collaboration Based Active Learning Method**|Shiyi Wang et.al.|[2407.03542](http://arxiv.org/abs/2407.03542)|null|
+|**2024-07-23**|**Probing Perfection: The Relentless Art of Meddling for Pulmonary Airway Segmentation from HRCT via a Human-AI Collaboration Based Active Learning Method**|Shiyi Wang et.al.|[2407.03542](http://arxiv.org/abs/2407.03542)|null|
 |**2024-06-29**|**pFLFE: Cross-silo Personalized Federated Learning via Feature Enhancement on Medical Image Segmentation**|Luyuan Xie et.al.|[2407.00462](http://arxiv.org/abs/2407.00462)|null|
 |**2024-06-28**|**A Refer-and-Ground Multimodal Large Language Model for Biomedicine**|Xiaoshuang Huang et.al.|[2406.18146](http://arxiv.org/abs/2406.18146)|**[link](https://github.com/shawnhuang497/bird)**|
 |**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486](http://arxiv.org/abs/2406.08486)|**[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)**|
@@ -68,7 +68,7 @@
 |**2023-11-17**|**CATS v2: Hybrid encoders for robust medical segmentation**|Hao Li et.al.|[2308.06377](http://arxiv.org/abs/2308.06377)|**[link](https://github.com/haoli12345/cats)**|
 |**2023-08-10**|**From CNN to Transformer: A Review of Medical Image Segmentation Models**|Wenjian Yao et.al.|[2308.05305](http://arxiv.org/abs/2308.05305)|null|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## diffusion model
 
@@ -105,7 +105,7 @@
 |**2021-10-31**|**Role of Thermal and Non-thermal Processes in the ISM of Magellanic Clouds**|H. Hassani et.al.|[2111.00583](http://arxiv.org/abs/2111.00583)|null|
 |**2023-04-14**|**Variational Diffusion Models**|Diederik P. Kingma et.al.|[2107.00630](http://arxiv.org/abs/2107.00630)|**[link](https://github.com/google-research/vdm)**|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## semantic segmentation
 
@@ -123,7 +123,7 @@
 |**2024-07-18**|**Many Perception Tasks are Highly Redundant Functions of their Input Data**|Rahul Ramesh et.al.|[2407.13841](http://arxiv.org/abs/2407.13841)|null|
 |**2024-07-18**|**GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**|Abdelrahman Shaker et.al.|[2407.13772](http://arxiv.org/abs/2407.13772)|**[link](https://github.com/Amshaker/GroupMamba)**|
 |**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761](http://arxiv.org/abs/2407.13761)|null|
-|**2024-07-18**|**MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**|Ziming Zhong et.al.|[2407.13675](http://arxiv.org/abs/2407.13675)|**[link](https://github.com/zimingzhong/MeshSegmenter)**|
+|**2024-07-23**|**MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**|Ziming Zhong et.al.|[2407.13675](http://arxiv.org/abs/2407.13675)|**[link](https://github.com/zimingzhong/MeshSegmenter)**|
 |**2024-07-18**|**Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**|Xiaoyu Zhu et.al.|[2407.13642](http://arxiv.org/abs/2407.13642)|null|
 |**2024-07-18**|**FADE: A Task-Agnostic Upsampling Operator for Encoder-Decoder Architectures**|Hao Lu et.al.|[2407.13500](http://arxiv.org/abs/2407.13500)|**[link](https://github.com/poppinace/fade)**|
 |**2024-07-18**|**FREST: Feature RESToration for Semantic Segmentation under Multiple Adverse Conditions**|Sohyun Lee et.al.|[2407.13437](http://arxiv.org/abs/2407.13437)|null|
@@ -835,7 +835,7 @@
 |**2023-12-05**|**DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control**|Yuru Jia et.al.|[2312.03048](http://arxiv.org/abs/2312.03048)|null|
 |**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593](http://arxiv.org/abs/2312.02593)|**[link](https://github.com/kulunuos/6dapose)**|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## fine-tune
 
@@ -874,7 +874,7 @@
 |**2022-10-17**|**Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks**|Run Wang et.al.|[2210.07809](http://arxiv.org/abs/2210.07809)|**[link](https://github.com/antigonerandy/ptynet)**|
 |**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995](http://arxiv.org/abs/2209.06995)|**[link](https://github.com/yueyu1030/patron)**|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## diffusion-segmentation
 
@@ -886,7 +886,7 @@
 |**2023-07-17**|**Multimodal Diffusion Segmentation Model for Object Segmentation from Manipulation Instructions**|Yui Iioka et.al.|[2307.08597](http://arxiv.org/abs/2307.08597)|null|
 |**2019-02-11**|**Pinned or moving: states of a single shock in a ring**|Parna Roy et.al.|[1902.03897](http://arxiv.org/abs/1902.03897)|null|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
