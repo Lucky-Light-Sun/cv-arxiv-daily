@@ -111,6 +111,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Taxonomy-Aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-World Perception**|Julia Hindel et.al.|[2407.18145](http://arxiv.org/abs/2407.18145)|null|
+|**2024-07-25**|**TiCoSS: Tightening the Coupling between Semantic Segmentation and Stereo Matching within A Joint Learning Framework**|Guanfeng Tang et.al.|[2407.18038](http://arxiv.org/abs/2407.18038)|null|
+|**2024-07-25**|**Segmentation-guided MRI reconstruction for meaningfully diverse reconstructions**|Jan Nikolas Morshuis et.al.|[2407.18026](http://arxiv.org/abs/2407.18026)|null|
 |**2024-07-24**|**Embedding-Free Transformer with Inference Spatial Reduction for Efficient Semantic Segmentation**|Hyunwoo Yu et.al.|[2407.17261](http://arxiv.org/abs/2407.17261)|**[link](https://github.com/hyunwoo137/edaformer)**|
 |**2024-07-25**|**Enhancing Environmental Monitoring through Multispectral Imaging: The WasteMS Dataset for Semantic Segmentation of Lakeside Waste**|Qinfeng Zhu et.al.|[2407.17028](http://arxiv.org/abs/2407.17028)|**[link](https://github.com/zhuqinfeng1999/wastems)**|
 |**2024-07-24**|**Progressive Query Refinement Framework for Bird's-Eye-View Semantic Segmentation from Surrounding Images**|Dooseop Choi et.al.|[2407.17003](http://arxiv.org/abs/2407.17003)|**[link](https://github.com/d1024choi/progressivequeryrefinenet)**|
