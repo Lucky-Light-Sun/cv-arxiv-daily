@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -27,7 +27,7 @@ layout: default
 |**2024-06-28**|**A Refer-and-Ground Multimodal Large Language Model for Biomedicine**|Xiaoshuang Huang et.al.|[2406.18146](http://arxiv.org/abs/2406.18146)|**[link](https://github.com/shawnhuang497/bird)**|
 |**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486](http://arxiv.org/abs/2406.08486)|**[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)**|
 |**2024-06-04**|**Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models**|Reza Babaei et.al.|[2406.02653](http://arxiv.org/abs/2406.02653)|null|
-|**2024-06-01**|**Quality Sentinel: Estimating Label Quality and Errors in Medical Segmentation Datasets**|Yixiong Chen et.al.|[2406.00327](http://arxiv.org/abs/2406.00327)|null|
+|**2024-06-01**|**Quality Sentinel: Estimating Label Quality and Errors in Medical Segmentation Datasets**|Yixiong Chen et.al.|[2406.00327](http://arxiv.org/abs/2406.00327)|**[link](https://github.com/Schuture/Quality-Sentinel)**|
 |**2024-05-28**|**Universal and Extensible Language-Vision Models for Organ Segmentation and Tumor Detection from Abdominal Computed Tomography**|Jie Liu et.al.|[2405.18356](http://arxiv.org/abs/2405.18356)|**[link](https://github.com/ljwztc/clip-driven-universal-model)**|
 |**2024-02-25**|**Frequency-Guided U-Net: Leveraging Attention Filter Gates and Fast Fourier Transformation for Enhanced Medical Image Segmentation**|Haytham Al Ewaidat et.al.|[2405.00683](http://arxiv.org/abs/2405.00683)|null|
 |**2024-04-09**|**EPL: Evidential Prototype Learning for Semi-supervised Medical Image Segmentation**|Yuanpeng He et.al.|[2404.06181](http://arxiv.org/abs/2404.06181)|null|
@@ -101,7 +101,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-24**|**Embedding-Free Transformer with Inference Spatial Reduction for Efficient Semantic Segmentation**|Hyunwoo Yu et.al.|[2407.17261](http://arxiv.org/abs/2407.17261)|**[link](https://github.com/hyunwoo137/edaformer)**|
-|**2024-07-24**|**Enhancing Environmental Monitoring through Multispectral Imaging: The WasteMS Dataset for Semantic Segmentation of Lakeside Waste**|Qinfeng Zhu et.al.|[2407.17028](http://arxiv.org/abs/2407.17028)|**[link](https://github.com/zhuqinfeng1999/wastems)**|
+|**2024-07-25**|**Enhancing Environmental Monitoring through Multispectral Imaging: The WasteMS Dataset for Semantic Segmentation of Lakeside Waste**|Qinfeng Zhu et.al.|[2407.17028](http://arxiv.org/abs/2407.17028)|**[link](https://github.com/zhuqinfeng1999/wastems)**|
 |**2024-07-24**|**Progressive Query Refinement Framework for Bird's-Eye-View Semantic Segmentation from Surrounding Images**|Dooseop Choi et.al.|[2407.17003](http://arxiv.org/abs/2407.17003)|**[link](https://github.com/d1024choi/progressivequeryrefinenet)**|
 |**2024-07-23**|**Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**|Anam Manzoor et.al.|[2407.16647](http://arxiv.org/abs/2407.16647)|null|
 |**2024-07-23**|**Deep Bayesian segmentation for colon polyps: Well-calibrated predictions in medical imaging**|Daniela L. Ramos et.al.|[2407.16608](http://arxiv.org/abs/2407.16608)|null|
