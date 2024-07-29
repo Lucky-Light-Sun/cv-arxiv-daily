@@ -145,7 +145,7 @@
 |**2024-07-17**|**Instance-wise Uncertainty for Class Imbalance in Semantic Segmentation**|Luís Almeida et.al.|[2407.12609](http://arxiv.org/abs/2407.12609)|null|
 |**2024-07-18**|**Benchmarking Robust Self-Supervised Learning Across Diverse Downstream Tasks**|Antoni Kowalczuk et.al.|[2407.12588](http://arxiv.org/abs/2407.12588)|**[link](https://github.com/layer6ai-labs/ssl-robustness)**|
 |**2024-07-17**|**Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation**|Ruijie Xu et.al.|[2407.12489](http://arxiv.org/abs/2407.12489)|**[link](https://github.com/RikkiXu/NCD_PC)**|
-|**2024-07-17**|**Progressive Proxy Anchor Propagation for Unsupervised Semantic Segmentation**|Hyun Seok Seong et.al.|[2407.12463](http://arxiv.org/abs/2407.12463)|null|
+|**2024-07-17**|**Progressive Proxy Anchor Propagation for Unsupervised Semantic Segmentation**|Hyun Seok Seong et.al.|[2407.12463](http://arxiv.org/abs/2407.12463)|**[link](https://github.com/hynnsk/PPAP)**|
 |**2024-07-17**|**ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference**|Mengcheng Lan et.al.|[2407.12442](http://arxiv.org/abs/2407.12442)|null|
 |**2024-07-17**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319](http://arxiv.org/abs/2407.12319)|null|
 |**2024-07-16**|**FoodMem: Near Real-time and Precise Food Video Segmentation**|Ahmad AlMughrabi et.al.|[2407.12121](http://arxiv.org/abs/2407.12121)|null|
@@ -839,7 +839,7 @@
 |**2023-12-06**|**Foundation Model Assisted Weakly Supervised Semantic Segmentation**|Xiaobo Yang et.al.|[2312.03585](http://arxiv.org/abs/2312.03585)|**[link](https://github.com/HAL-42/FMA-WSSS)**|
 |**2023-12-06**|**ShareCMP: Polarization-Aware RGB-P Semantic Segmentation**|Zhuoyan Liu et.al.|[2312.03430](http://arxiv.org/abs/2312.03430)|**[link](https://github.com/lefteyex/sharecmp)**|
 |**2023-12-06**|**DeepPyramid+: Medical Image Segmentation using Pyramid View Fusion and Deformable Pyramid Reception**|Negin Ghamsarian et.al.|[2312.03409](http://arxiv.org/abs/2312.03409)|null|
-|**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203](http://arxiv.org/abs/2312.03203)|null|
+|**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203](http://arxiv.org/abs/2312.03203)|**[link](https://github.com/ShijieZhou-UCLA/feature-3dgs)**|
 |**2023-12-05**|**AI-SAM: Automatic and Interactive Segment Anything Model**|Yimu Pan et.al.|[2312.03119](http://arxiv.org/abs/2312.03119)|**[link](https://github.com/ymp5078/ai-sam)**|
 |**2023-12-05**|**DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control**|Yuru Jia et.al.|[2312.03048](http://arxiv.org/abs/2312.03048)|null|
 |**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593](http://arxiv.org/abs/2312.02593)|**[link](https://github.com/kulunuos/6dapose)**|
