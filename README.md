@@ -152,13 +152,13 @@
 |**2024-08-02**|**Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation**|Yuanzhi Su et.al.|[2408.01356](http://arxiv.org/abs/2408.01356)|null|
 |**2024-08-02**|**StitchFusion: Weaving Any Visual Modalities to Enhance Multimodal Semantic Segmentation**|Bingyu Li et.al.|[2408.01343](http://arxiv.org/abs/2408.01343)|null|
 |**2024-08-02**|**Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach**|Yabin Zhu et.al.|[2408.00969](http://arxiv.org/abs/2408.00969)|**[link](https://github.com/wqw123wqw/pftrack)**|
-|**2024-08-01**|**Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation**|Siyu Jiao et.al.|[2408.00744](http://arxiv.org/abs/2408.00744)|null|
+|**2024-08-01**|**Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation**|Siyu Jiao et.al.|[2408.00744](http://arxiv.org/abs/2408.00744)|**[link](https://github.com/jiaosiyu1999/MAFT-Plus)**|
 |**2024-08-01**|**Synthetic dual image generation for reduction of labeling efforts in semantic segmentation of micrographs with a customized metric function**|Matias Oscar Volman Stern et.al.|[2408.00707](http://arxiv.org/abs/2408.00707)|null|
 |**2024-08-01**|**AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**|Asbjørn Munk et.al.|[2408.00640](http://arxiv.org/abs/2408.00640)|null|
-|**2024-08-01**|**SegStitch: Multidimensional Transformer for Robust and Efficient Medical Imaging Segmentation**|Shengbo Tan et.al.|[2408.00496](http://arxiv.org/abs/2408.00496)|null|
+|**2024-08-01**|**SegStitch: Multidimensional Transformer for Robust and Efficient Medical Imaging Segmentation**|Shengbo Tan et.al.|[2408.00496](http://arxiv.org/abs/2408.00496)|**[link](https://github.com/goblin327/segstitch)**|
 |**2024-07-31**|**Open-Vocabulary Audio-Visual Semantic Segmentation**|Ruohao Guo et.al.|[2407.21721](http://arxiv.org/abs/2407.21721)|null|
 |**2024-07-31**|**MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment**|Anurag Das et.al.|[2407.21654](http://arxiv.org/abs/2407.21654)|null|
-|**2024-07-31**|**Small Object Few-shot Segmentation for Vision-based Industrial Inspection**|Zilong Zhang et.al.|[2407.21351](http://arxiv.org/abs/2407.21351)|null|
+|**2024-07-31**|**Small Object Few-shot Segmentation for Vision-based Industrial Inspection**|Zilong Zhang et.al.|[2407.21351](http://arxiv.org/abs/2407.21351)|**[link](https://github.com/zhangzilongc/sofs)**|
 |**2024-07-31**|**On-the-fly Point Feature Representation for Point Clouds Analysis**|Jiangyi Wang et.al.|[2407.21335](http://arxiv.org/abs/2407.21335)|null|
 |**2024-07-31**|**Fine-grained Metrics for Point Cloud Semantic Segmentation**|Zhuheng Lu et.al.|[2407.21289](http://arxiv.org/abs/2407.21289)|null|
 |**2024-07-30**|**PLANesT-3D: A new annotated dataset for segmentation of 3D plant point clouds**|Kerem Mertoğlu et.al.|[2407.21150](http://arxiv.org/abs/2407.21150)|null|
@@ -401,7 +401,7 @@
 |**2024-05-24**|**Visualize and Paint GAN Activations**|Rudolf Herdt et.al.|[2405.15636](http://arxiv.org/abs/2405.15636)|null|
 |**2024-05-24**|**Leveraging knowledge distillation for partial multi-task learning from multiple remote sensing datasets**|Hoàng-Ân Lê et.al.|[2405.15394](http://arxiv.org/abs/2405.15394)|**[link](https://github.com/lhoangan/multas)**|
 |**2024-05-24**|**U3M: Unbiased Multiscale Modal Fusion Model for Multimodal Semantic Segmentation**|Bingyu Li et.al.|[2405.15365](http://arxiv.org/abs/2405.15365)|**[link](https://github.com/libingyu01/u3m-multimodal-semantic-segmentation)**|
-|**2024-05-24**|**Cross-Domain Few-Shot Semantic Segmentation via Doubly Matching Transformation**|Jiayi Chen et.al.|[2405.15265](http://arxiv.org/abs/2405.15265)|null|
+|**2024-05-24**|**Cross-Domain Few-Shot Semantic Segmentation via Doubly Matching Transformation**|Jiayi Chen et.al.|[2405.15265](http://arxiv.org/abs/2405.15265)|**[link](https://github.com/chenjiayi68/dmtnet)**|
 |**2024-05-23**|**Mamba-R: Vision Mamba ALSO Needs Registers**|Feng Wang et.al.|[2405.14858](http://arxiv.org/abs/2405.14858)|null|
 |**2024-05-23**|**Segformer++: Efficient Token-Merging Strategies for High-Resolution Semantic Segmentation**|Daniel Kienzle et.al.|[2405.14467](http://arxiv.org/abs/2405.14467)|**[link](https://github.com/KieDani/SegformerPlusPlus)**|
 |**2024-05-23**|**MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models**|Jiuming Liu et.al.|[2405.14338](http://arxiv.org/abs/2405.14338)|null|
