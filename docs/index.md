@@ -107,12 +107,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**OpenNav: Efficient Open Vocabulary 3D Object Detection for Smart Wheelchair Navigation**|Muhammad Rameez ur Rahman et.al.|[2408.13936](http://arxiv.org/abs/2408.13936)|**[link](https://github.com/easywalk-prin/opennav)**|
+|**2024-08-25**|**Exploring Reliable Matching with Phase Enhancement for Night-time Semantic Segmentation**|Yuwen Pan et.al.|[2408.13838](http://arxiv.org/abs/2408.13838)|null|
+|**2024-08-25**|**TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather**|Xiongwei Zhao et.al.|[2408.13802](http://arxiv.org/abs/2408.13802)|**[link](https://github.com/grandzxw/triplemixer)**|
+|**2024-08-25**|**ICFRNet: Image Complexity Prior Guided Feature Refinement for Real-time Semantic Segmentation**|Xin Zhang et.al.|[2408.13771](http://arxiv.org/abs/2408.13771)|null|
+|**2024-08-25**|**Localization and Expansion: A Decoupled Framework for Point Cloud Few-shot Semantic Segmentation**|Zhaoyang Li et.al.|[2408.13752](http://arxiv.org/abs/2408.13752)|null|
+|**2024-08-24**|**ESA: Annotation-Efficient Active Learning for Semantic Segmentation**|Jinchao Ge et.al.|[2408.13491](http://arxiv.org/abs/2408.13491)|**[link](https://github.com/jinchaogjc/esa)**|
 |**2024-08-23**|**Accuracy Improvement of Cell Image Segmentation Using Feedback Former**|Hinako Mitsuoka et.al.|[2408.12974](http://arxiv.org/abs/2408.12974)|null|
 |**2024-08-23**|**Image Segmentation in Foundation Model Era: A Survey**|Tianfei Zhou et.al.|[2408.12957](http://arxiv.org/abs/2408.12957)|null|
 |**2024-08-23**|**Symmetric masking strategy enhances the performance of Masked Image Modeling**|Khanh-Binh Nguyen et.al.|[2408.12772](http://arxiv.org/abs/2408.12772)|null|
 |**2024-08-22**|**Scribbles for All: Benchmarking Scribble Supervised Segmentation Across Datasets**|Wolfgang Boettcher et.al.|[2408.12489](http://arxiv.org/abs/2408.12489)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
-|**2024-08-21**|**UNetMamba: Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images**|Enze Zhu et.al.|[2408.11545](http://arxiv.org/abs/2408.11545)|null|
+|**2024-08-26**|**UNetMamba: An Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images**|Enze Zhu et.al.|[2408.11545](http://arxiv.org/abs/2408.11545)|**[link](https://github.com/enzezhu2001/unetmamba)**|
 |**2024-08-21**|**Exploring Scene Coherence for Semi-Supervised 3D Semantic Segmentation**|Chuandong Liu et.al.|[2408.11280](http://arxiv.org/abs/2408.11280)|null|
 |**2024-08-20**|**NeCo: Improving DINOv2's spatial representations in 19 GPU hours with Patch Neighbor Consistency**|Valentinos Pariza et.al.|[2408.11054](http://arxiv.org/abs/2408.11054)|null|
 |**2024-08-20**|**CO2Wounds-V2: Extended Chronic Wounds Dataset From Leprosy Patients**|Karen Sanchez et.al.|[2408.10827](http://arxiv.org/abs/2408.10827)|null|
