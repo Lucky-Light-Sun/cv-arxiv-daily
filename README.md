@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-02**|**MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM**|Nan Zhou et.al.|[2409.00924](http://arxiv.org/abs/2409.00924)|null|
 |**2024-08-12**|**Enhancing 3D Transformer Segmentation Model for Medical Image with Token-level Representation Learning**|Xinrong Hu et.al.|[2408.05889](http://arxiv.org/abs/2408.05889)|**[link](https://github.com/xhu248/simtrot)**|
 |**2024-08-05**|**Interactive 3D Medical Image Segmentation with SAM 2**|Chuyun Shen et.al.|[2408.02635](http://arxiv.org/abs/2408.02635)|**[link](https://github.com/chuyun-shen/sam_2_medical_3d)**|
 |**2024-08-01**|**Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**|Xiaofeng Liu et.al.|[2408.00706](http://arxiv.org/abs/2408.00706)|null|
@@ -118,6 +119,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation**|Hayeon Jo et.al.|[2409.02838](http://arxiv.org/abs/2409.02838)|null|
+|**2024-09-04**|**CLDA: Collaborative Learning for Enhanced Unsupervised Domain Adaptation**|Minhee Cho et.al.|[2409.02699](http://arxiv.org/abs/2409.02699)|null|
+|**2024-09-04**|**SG-MIM: Structured Knowledge Guided Efficient Pre-training for Dense Prediction**|Sumin Son et.al.|[2409.02513](http://arxiv.org/abs/2409.02513)|null|
+|**2024-09-03**|**K-Origins: Better Colour Quantification for Neural Networks**|Lewis Mason et.al.|[2409.02281](http://arxiv.org/abs/2409.02281)|null|
+|**2024-09-03**|**AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions**|Chenghao Qian et.al.|[2409.02045](http://arxiv.org/abs/2409.02045)|null|
+|**2024-09-03**|**Segmenting Object Affordances: Reproducibility and Sensitivity to Scale**|Tommaso Apicella et.al.|[2409.01814](http://arxiv.org/abs/2409.01814)|**[link](https://github.com/apicis/aff-seg)**|
+|**2024-09-03**|**Efficiently Expanding Receptive Fields: Local Split Attention and Parallel Aggregation for Enhanced Large-scale Point Cloud Semantic Segmentation**|Haodong Wang et.al.|[2409.01662](http://arxiv.org/abs/2409.01662)|null|
+|**2024-09-02**|**SOOD-ImageNet: a Large-Scale Dataset for Semantic Out-Of-Distribution Image Classification and Semantic Segmentation**|Alberto Bacchin et.al.|[2409.01109](http://arxiv.org/abs/2409.01109)|**[link](https://github.com/bach05/SOODImageNet)**|
+|**2024-09-02**|**From Bird's-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model**|Xiaojie Xu et.al.|[2409.01014](http://arxiv.org/abs/2409.01014)|null|
+|**2024-09-02**|**SeCo-INR: Semantically Conditioned Implicit Neural Representations for Improved Medical Image Super-Resolution**|Mevan Ekanayake et.al.|[2409.01013](http://arxiv.org/abs/2409.01013)|null|
+|**2024-09-02**|**IVGF: The Fusion-Guided Infrared and Visible General Framework**|Fangcen Liu et.al.|[2409.00973](http://arxiv.org/abs/2409.00973)|null|
+|**2024-09-01**|**Image-to-Lidar Relational Distillation for Autonomous Driving Data**|Anas Mahmoud et.al.|[2409.00845](http://arxiv.org/abs/2409.00845)|null|
+|**2024-09-01**|**Change-Aware Siamese Network for Surface Defects Segmentation under Complex Background**|Biyuan Liu et.al.|[2409.00589](http://arxiv.org/abs/2409.00589)|null|
+|**2024-08-31**|**Plant detection from ultra high resolution remote sensing images: A Semantic Segmentation approach based on fuzzy loss**|Shivam Pande et.al.|[2409.00513](http://arxiv.org/abs/2409.00513)|null|
 |**2024-08-30**|**Generative AI Enables Medical Image Segmentation in Ultra Low-Data Regimes**|Li Zhang et.al.|[2408.17421](http://arxiv.org/abs/2408.17421)|**[link](https://github.com/importzl/semantic_segmentation)**|
 |**2024-08-30**|**Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**|Ahmed Hammam et.al.|[2408.17311](http://arxiv.org/abs/2408.17311)|null|
 |**2024-08-30**|**Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training**|Zizheng Huang et.al.|[2408.17081](http://arxiv.org/abs/2408.17081)|**[link](https://github.com/huangzizheng01/shufflemamba)**|
@@ -955,6 +970,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Creating Domain-Specific Translation Memories for Machine Translation Fine-tuning: The TRENCARD Bilingual Cardiology Corpus**|Gokhan Dogru et.al.|[2409.02667](http://arxiv.org/abs/2409.02667)|null|
+|**2024-08-27**|**Non-instructional Fine-tuning: Enabling Instruction-Following Capabilities in Pre-trained Language Models without Instruction-Following Data**|Juncheng Xie et.al.|[2409.00096](http://arxiv.org/abs/2409.00096)|null|
 |**2024-08-26**|**CURLoRA: Stable LLM Continual Fine-Tuning and Catastrophic Forgetting Mitigation**|Muhammad Fawi et.al.|[2408.14572](http://arxiv.org/abs/2408.14572)|**[link](https://github.com/mnoorfawi/curlora)**|
 |**2024-08-19**|**Image-based Freeform Handwriting Authentication with Energy-oriented Self-Supervised Learning**|Jingyao Wang et.al.|[2408.09676](http://arxiv.org/abs/2408.09676)|null|
 |**2024-08-18**|**Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs**|Jiancheng Dong et.al.|[2408.09327](http://arxiv.org/abs/2408.09327)|null|
