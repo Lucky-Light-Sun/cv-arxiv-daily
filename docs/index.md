@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -113,7 +113,7 @@ layout: default
 |**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|null|
 |**2024-09-05**|**UAV (Unmanned Aerial Vehicles): Diverse Applications of UAV Datasets in Segmentation, Classification, Detection, and Tracking**|Md. Mahfuzur Rahman et.al.|[2409.03245](http://arxiv.org/abs/2409.03245)|null|
 |**2024-09-05**|**Labeled-to-Unlabeled Distribution Alignment for Partially-Supervised Multi-Organ Medical Image Segmentation**|Xixi Jiang et.al.|[2409.03228](http://arxiv.org/abs/2409.03228)|**[link](https://github.com/xjiangmed/ltuda)**|
-|**2024-09-05**|**iSeg: An Iterative Refinement-based Framework for Training-free Segmentation**|Lin Sun et.al.|[2409.03209](http://arxiv.org/abs/2409.03209)|**[link](https://github.com/linsun449/iseg.code)**|
+|**2024-09-06**|**iSeg: An Iterative Refinement-based Framework for Training-free Segmentation**|Lin Sun et.al.|[2409.03209](http://arxiv.org/abs/2409.03209)|**[link](https://github.com/linsun449/iseg.code)**|
 |**2024-09-04**|**iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation**|Hayeon Jo et.al.|[2409.02838](http://arxiv.org/abs/2409.02838)|null|
 |**2024-09-04**|**CLDA: Collaborative Learning for Enhanced Unsupervised Domain Adaptation**|Minhee Cho et.al.|[2409.02699](http://arxiv.org/abs/2409.02699)|null|
 |**2024-09-04**|**SG-MIM: Structured Knowledge Guided Efficient Pre-training for Dense Prediction**|Sumin Son et.al.|[2409.02513](http://arxiv.org/abs/2409.02513)|null|
