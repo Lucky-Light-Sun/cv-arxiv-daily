@@ -108,6 +108,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Segmentation by Factorization: Unsupervised Semantic Segmentation for Pathology by Factorizing Foundation Model Features**|Jacob Gildenblat et.al.|[2409.05697](http://arxiv.org/abs/2409.05697)|null|
+|**2024-09-09**|**ICPR 2024 Competition on Safe Segmentation of Drive Scenes in Unstructured Traffic and Adverse Weather Conditions**|Furqan Ahmed Shaik et.al.|[2409.05327](http://arxiv.org/abs/2409.05327)|null|
+|**2024-09-08**|**RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network**|Zhiwei Lin et.al.|[2409.04979](http://arxiv.org/abs/2409.04979)|null|
 |**2024-09-06**|**Train Till You Drop: Towards Stable and Robust Source-free Unsupervised 3D Domain Adaptation**|Björn Michele et.al.|[2409.04409](http://arxiv.org/abs/2409.04409)|**[link](https://github.com/valeoai/ttyd)**|
 |**2024-09-05**|**Foundation Model or Finetune? Evaluation of few-shot semantic segmentation for river pollution**|Marga Don et.al.|[2409.03754](http://arxiv.org/abs/2409.03754)|**[link](https://github.com/theoceancleanup/rivertrashsegmentation)**|
 |**2024-09-05**|**LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones**|Moritz Nottebaum et.al.|[2409.03460](http://arxiv.org/abs/2409.03460)|**[link](https://github.com/altair199797/lowformer)**|
