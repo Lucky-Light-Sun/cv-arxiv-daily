@@ -108,6 +108,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
+|**2024-09-12**|**Depth Matters: Exploring Deep Interactions of RGB-D for Semantic Segmentation in Traffic Scenes**|Siyu Chen et.al.|[2409.07995](http://arxiv.org/abs/2409.07995)|null|
+|**2024-09-12**|**SURGIVID: Annotation-Efficient Surgical Video Object Discovery**|Çağhan Köksal et.al.|[2409.07801](http://arxiv.org/abs/2409.07801)|null|
+|**2024-09-12**|**Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation**|Fuchen Zheng et.al.|[2409.07793](http://arxiv.org/abs/2409.07793)|**[link](https://github.com/lzeeorno/lagrange-duality-and-cmaformer)**|
+|**2024-09-12**|**ASSNet: Adaptive Semantic Segmentation Network for Microtumors and Multi-Organ Segmentation**|Fuchen Zheng et.al.|[2409.07779](http://arxiv.org/abs/2409.07779)|**[link](https://github.com/lzeeorno/assnet)**|
+|**2024-09-12**|**Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Qinglong Cao et.al.|[2409.07683](http://arxiv.org/abs/2409.07683)|null|
+|**2024-09-11**|**Token Turing Machines are Efficient Vision Models**|Purvish Jajal et.al.|[2409.07613](http://arxiv.org/abs/2409.07613)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 |**2024-09-11**|**Brain-Inspired Stepwise Patch Merging for Vision Transformers**|Yonghao Yu et.al.|[2409.06963](http://arxiv.org/abs/2409.06963)|null|
 |**2024-09-10**|**Cross-Modal Self-Supervised Learning with Effective Contrastive Units for LiDAR Point Clouds**|Mu Cai et.al.|[2409.06827](http://arxiv.org/abs/2409.06827)|**[link](https://github.com/qcraftai/cross-modal-ssl)**|
