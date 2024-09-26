@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-19**|**Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation**|Zhikai Wei et.al.|[2409.12522](http://arxiv.org/abs/2409.12522)|**[link](https://github.com/wkklavis/dapsam)**|
 |**2024-09-16**|**Learning Semi-Supervised Medical Image Segmentation from Spatial Registration**|Qianying Liu et.al.|[2409.10422](http://arxiv.org/abs/2409.10422)|null|
 |**2024-09-17**|**Fuse4Seg: Image-Level Fusion Based Multi-Modality Medical Image Segmentation**|Yuchen Guo et.al.|[2409.10328](http://arxiv.org/abs/2409.10328)|null|
 |**2024-09-02**|**MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM**|Nan Zhou et.al.|[2409.00924](http://arxiv.org/abs/2409.00924)|null|
@@ -74,6 +75,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-20**|**SpaceBlender: Creating Context-Rich Collaborative Spaces Through Generative 3D Scene Blending**|Nels Numan et.al.|[2409.13926](http://arxiv.org/abs/2409.13926)|null|
 |**2024-08-01**|**A new approach for encoding code and assisting code understanding**|Mengdan Fan et.al.|[2408.00521](http://arxiv.org/abs/2408.00521)|null|
 |**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135](http://arxiv.org/abs/2407.06135)|**[link](https://github.com/gair-nlp/anole)**|
 |**2024-05-01**|**ASAM: Boosting Segment Anything Model with Adversarial Tuning**|Bo Li et.al.|[2405.00256](http://arxiv.org/abs/2405.00256)|**[link](https://github.com/luckybird1994/ASAM)**|
@@ -110,6 +112,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation**|Hannah Kerner et.al.|[2409.16252](http://arxiv.org/abs/2409.16252)|null|
+|**2024-09-24**|**Deep Learning for Precision Agriculture: Post-Spraying Evaluation and Deposition Estimation**|Harry Rogers et.al.|[2409.16213](http://arxiv.org/abs/2409.16213)|**[link](https://github.com/harry-rogers/psie)**|
+|**2024-09-24**|**Potential Field as Scene Affordance for Behavior Change-Based Visual Risk Object Identification**|Pang-Yuan Pao et.al.|[2409.15846](http://arxiv.org/abs/2409.15846)|null|
+|**2024-09-24**|**DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation**|Soojin Jang et.al.|[2409.15801](http://arxiv.org/abs/2409.15801)|null|
+|**2024-09-23**|**ZeroSCD: Zero-Shot Street Scene Change Detection**|Shyam Sundar Kannan et.al.|[2409.15255](http://arxiv.org/abs/2409.15255)|null|
+|**2024-09-23**|**Diffusion-based RGB-D Semantic Segmentation with Deformable Attention Transformer**|Minh Bui et.al.|[2409.15117](http://arxiv.org/abs/2409.15117)|null|
+|**2024-09-23**|**The BRAVO Semantic Segmentation Challenge Results in UNCV2024**|Tuan-Hung Vu et.al.|[2409.15107](http://arxiv.org/abs/2409.15107)|null|
+|**2024-09-21**|**MOSE: Monocular Semantic Reconstruction Using NeRF-Lifted Noisy Priors**|Zhenhua Du et.al.|[2409.14019](http://arxiv.org/abs/2409.14019)|null|
+|**2024-09-21**|**Enhanced Semantic Segmentation for Large-Scale and Imbalanced Point Clouds**|Haoran Gong et.al.|[2409.13983](http://arxiv.org/abs/2409.13983)|null|
+|**2024-09-21**|**CUS3D :CLIP-based Unsupervised 3D Segmentation via Object-level Denoise**|Fuyang Yu et.al.|[2409.13982](http://arxiv.org/abs/2409.13982)|null|
+|**2024-09-20**|**Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models**|Luciano Baresi et.al.|[2409.13661](http://arxiv.org/abs/2409.13661)|null|
+|**2024-09-20**|**Beyond Accuracy Optimization: Computer Vision Losses for Large Language Model Fine-Tuning**|Daniele Rege Cambrin et.al.|[2409.13641](http://arxiv.org/abs/2409.13641)|**[link](https://github.com/darthreca/segmentation-losses-nlp)**|
+|**2024-09-20**|**Towards Semi-supervised Dual-modal Semantic Segmentation**|Qiulei Dong et.al.|[2409.13325](http://arxiv.org/abs/2409.13325)|null|
+|**2024-09-19**|**Automated Linear Disturbance Mapping via Semantic Segmentation of Sentinel-2 Imagery**|Andrew M. Nagel et.al.|[2409.12817](http://arxiv.org/abs/2409.12817)|null|
+|**2024-09-20**|**Autonomous Visual Fish Pen Inspections for Estimating the State of Biofouling Buildup Using ROV -- Extended Abstract**|Matej Fabijanić et.al.|[2409.12813](http://arxiv.org/abs/2409.12813)|null|
 |**2024-09-17**|**Uncertainty and Prediction Quality Estimation for Semantic Segmentation via Graph Neural Networks**|Edgar Heinert et.al.|[2409.11373](http://arxiv.org/abs/2409.11373)|null|
 |**2024-09-17**|**MSDNet: Multi-Scale Decoder for Few-Shot Semantic Segmentation via Transformer-Guided Prototyping**|Amirreza Fateh et.al.|[2409.11316](http://arxiv.org/abs/2409.11316)|**[link](https://github.com/amirrezafateh/msdnet)**|
 |**2024-09-17**|**Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark**|Clifford Broni-Bediako et.al.|[2409.11227](http://arxiv.org/abs/2409.11227)|**[link](https://github.com/cliffbb/oem-fewshot-challenge)**|
@@ -995,6 +1012,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Supervised Fine-Tuning: An Activation Pattern Optimization Process for Attention Heads**|Yang Zhao et.al.|[2409.15820](http://arxiv.org/abs/2409.15820)|null|
+|**2024-09-23**|**Beyond Fine-tuning: Unleashing the Potential of Continuous Pretraining for Clinical LLMs**|Clément Christophe et.al.|[2409.14988](http://arxiv.org/abs/2409.14988)|null|
 |**2024-09-04**|**Creating Domain-Specific Translation Memories for Machine Translation Fine-tuning: The TRENCARD Bilingual Cardiology Corpus**|Gokhan Dogru et.al.|[2409.02667](http://arxiv.org/abs/2409.02667)|null|
 |**2024-08-27**|**Non-instructional Fine-tuning: Enabling Instruction-Following Capabilities in Pre-trained Language Models without Instruction-Following Data**|Juncheng Xie et.al.|[2409.00096](http://arxiv.org/abs/2409.00096)|null|
 |**2024-08-26**|**CURLoRA: Stable LLM Continual Fine-Tuning and Catastrophic Forgetting Mitigation**|Muhammad Fawi et.al.|[2408.14572](http://arxiv.org/abs/2408.14572)|**[link](https://github.com/mnoorfawi/curlora)**|
