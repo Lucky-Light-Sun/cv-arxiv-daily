@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Medical Image Segmentation with SAM-generated Annotations**|Iira Häkkinen et.al.|[2409.20253](http://arxiv.org/abs/2409.20253)|null|
 |**2024-09-19**|**Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation**|Zhikai Wei et.al.|[2409.12522](http://arxiv.org/abs/2409.12522)|**[link](https://github.com/wkklavis/dapsam)**|
 |**2024-09-16**|**Learning Semi-Supervised Medical Image Segmentation from Spatial Registration**|Qianying Liu et.al.|[2409.10422](http://arxiv.org/abs/2409.10422)|null|
 |**2024-09-17**|**Fuse4Seg: Image-Level Fusion Based Multi-Modality Medical Image Segmentation**|Yuchen Guo et.al.|[2409.10328](http://arxiv.org/abs/2409.10328)|null|
@@ -112,6 +113,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation**|Boyu Han et.al.|[2409.20398](http://arxiv.org/abs/2409.20398)|null|
+|**2024-09-30**|**Leveraging CAM Algorithms for Explaining Medical Semantic Segmentation**|Tillmann Rheude et.al.|[2409.20287](http://arxiv.org/abs/2409.20287)|null|
+|**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164](http://arxiv.org/abs/2409.20164)|null|
+|**2024-09-30**|**Segmenting Wood Rot using Computer Vision Models**|Roland Kammerbauer et.al.|[2409.20137](http://arxiv.org/abs/2409.20137)|null|
+|**2024-09-30**|**Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels**|Heeseong Shin et.al.|[2409.19846](http://arxiv.org/abs/2409.19846)|null|
 |**2024-09-27**|**Excavating in the Wild: The GOOSE-Ex Dataset for Semantic Segmentation**|Raphael Hagmanns et.al.|[2409.18788](http://arxiv.org/abs/2409.18788)|null|
 |**2024-09-27**|**Learning from Pattern Completion: Self-supervised Controllable Generation**|Zhiqiang Chen et.al.|[2409.18694](http://arxiv.org/abs/2409.18694)|null|
 |**2024-09-27**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434](http://arxiv.org/abs/2409.18434)|null|
