@@ -144,7 +144,7 @@ layout: default
 |**2024-10-01**|**RobustEMD: Domain Robust Matching for Cross-domain Few-shot Medical Image Segmentation**|Yazhou Zhu et.al.|[2410.01110](http://arxiv.org/abs/2410.01110)|null|
 |**2024-10-01**|**Semantic Segmentation of Unmanned Aerial Vehicle Remote Sensing Images using SegFormer**|Vlatko Spasev et.al.|[2410.01092](http://arxiv.org/abs/2410.01092)|null|
 |**2024-10-01**|**Deep Nets with Subsampling Layers Unwittingly Discard Useful Activations at Test-Time**|Chiao-An Yang et.al.|[2410.01083](http://arxiv.org/abs/2410.01083)|**[link](https://github.com/ca-joe-yang/discard-in-subsampling)**|
-|**2024-10-01**|**DeepAerialMapper: Deep Learning-based Semi-automatic HD Map Creation for Highly Automated Vehicles**|Robert Krajewski et.al.|[2410.00769](http://arxiv.org/abs/2410.00769)|null|
+|**2024-10-01**|**DeepAerialMapper: Deep Learning-based Semi-automatic HD Map Creation for Highly Automated Vehicles**|Robert Krajewski et.al.|[2410.00769](http://arxiv.org/abs/2410.00769)|**[link](https://github.com/robertkrajewski/deepaerialmapper)**|
 |**2024-10-01**|**Can We Remove the Ground? Obstacle-aware Point Cloud Compression for Remote Object Detection**|Pengxi Zeng et.al.|[2410.00582](http://arxiv.org/abs/2410.00582)|null|
 |**2024-10-01**|**Precise Workcell Sketching from Point Clouds Using an AR Toolbox**|Krzysztof Zieliński et.al.|[2410.00479](http://arxiv.org/abs/2410.00479)|null|
 |**2024-10-01**|**Deep Multimodal Fusion for Semantic Segmentation of Remote Sensing Earth Observation Data**|Ivica Dimitrovski et.al.|[2410.00469](http://arxiv.org/abs/2410.00469)|null|
