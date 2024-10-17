@@ -127,7 +127,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-15**|**RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation**|Anton Antonov et.al.|[2410.11722](http://arxiv.org/abs/2410.11722)|null|
+|**2024-10-16**|**VividMed: Vision Language Model with Versatile Visual Grounding for Medicine**|Lingxiao Luo et.al.|[2410.12694](http://arxiv.org/abs/2410.12694)|null|
+|**2024-10-16**|**Cascade learning in multi-task encoder-decoder networks for concurrent bone segmentation and glenohumeral joint assessment in shoulder CT scans**|Luca Marsilio et.al.|[2410.12641](http://arxiv.org/abs/2410.12641)|null|
+|**2024-10-16**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
+|**2024-10-15**|**Development and Testing of a Wood Panels Bark Removal Equipment Based on Deep Learning**|Rijun Wang et.al.|[2410.11913](http://arxiv.org/abs/2410.11913)|null|
+|**2024-10-15**|**RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation**|Anton Antonov et.al.|[2410.11722](http://arxiv.org/abs/2410.11722)|**[link](https://github.com/emb-ai/rclicks)**|
 |**2024-10-15**|**InvSeg: Test-Time Prompt Inversion for Semantic Segmentation**|Jiayi Lin et.al.|[2410.11473](http://arxiv.org/abs/2410.11473)|null|
 |**2024-10-15**|**MANet: Fine-Tuning Segment Anything Model for Multimodal Remote Sensing Semantic Segmentation**|Xianping Ma et.al.|[2410.11160](http://arxiv.org/abs/2410.11160)|**[link](https://github.com/sstary/ssrs)**|
 |**2024-10-14**|**Locality Alignment Improves Vision-Language Models**|Ian Covert et.al.|[2410.11087](http://arxiv.org/abs/2410.11087)|null|
