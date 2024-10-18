@@ -127,6 +127,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621](http://arxiv.org/abs/2410.13621)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
+|**2024-10-17**|**Day-Night Adaptation: An Innovative Source-free Adaptation Framework for Medical Image Segmentation**|Ziyang Chen et.al.|[2410.13472](http://arxiv.org/abs/2410.13472)|null|
+|**2024-10-17**|**SiamSeg: Self-Training with Contrastive Learning for Unsupervised Domain Adaptation in Remote Sensing**|Bin Wang et.al.|[2410.13471](http://arxiv.org/abs/2410.13471)|**[link](https://github.com/woldier/siamseg)**|
+|**2024-10-17**|**Railway LiDAR semantic segmentation based on intelligent semi-automated data annotation**|Florian Wulff et.al.|[2410.13383](http://arxiv.org/abs/2410.13383)|null|
+|**2024-10-17**|**Adversarial Neural Networks in Medical Imaging Advancements and Challenges in Semantic Segmentation**|Houze Liu et.al.|[2410.13099](http://arxiv.org/abs/2410.13099)|null|
+|**2024-10-16**|**Task Consistent Prototype Learning for Incremental Few-shot Semantic Segmentation**|Wenbo Xu et.al.|[2410.13094](http://arxiv.org/abs/2410.13094)|null|
+|**2024-10-16**|**Risk Assessment for Autonomous Landing in Urban Environments using Semantic Segmentation**|Jesús Alejandro Loera-Ponce et.al.|[2410.12988](http://arxiv.org/abs/2410.12988)|null|
 |**2024-10-16**|**VividMed: Vision Language Model with Versatile Visual Grounding for Medicine**|Lingxiao Luo et.al.|[2410.12694](http://arxiv.org/abs/2410.12694)|null|
 |**2024-10-16**|**Cascade learning in multi-task encoder-decoder networks for concurrent bone segmentation and glenohumeral joint assessment in shoulder CT scans**|Luca Marsilio et.al.|[2410.12641](http://arxiv.org/abs/2410.12641)|null|
 |**2024-10-17**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
