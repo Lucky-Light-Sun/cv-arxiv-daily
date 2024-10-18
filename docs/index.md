@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -118,7 +118,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-16**|**VividMed: Vision Language Model with Versatile Visual Grounding for Medicine**|Lingxiao Luo et.al.|[2410.12694](http://arxiv.org/abs/2410.12694)|null|
 |**2024-10-16**|**Cascade learning in multi-task encoder-decoder networks for concurrent bone segmentation and glenohumeral joint assessment in shoulder CT scans**|Luca Marsilio et.al.|[2410.12641](http://arxiv.org/abs/2410.12641)|null|
-|**2024-10-16**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
+|**2024-10-17**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
 |**2024-10-15**|**Development and Testing of a Wood Panels Bark Removal Equipment Based on Deep Learning**|Rijun Wang et.al.|[2410.11913](http://arxiv.org/abs/2410.11913)|null|
 |**2024-10-15**|**RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation**|Anton Antonov et.al.|[2410.11722](http://arxiv.org/abs/2410.11722)|**[link](https://github.com/emb-ai/rclicks)**|
 |**2024-10-15**|**InvSeg: Test-Time Prompt Inversion for Semantic Segmentation**|Jiayi Lin et.al.|[2410.11473](http://arxiv.org/abs/2410.11473)|null|
