@@ -162,7 +162,7 @@ layout: default
 |**2024-10-04**|**HRVMamba: High-Resolution Visual State Space Model for Dense Prediction**|Hao Zhang et.al.|[2410.03174](http://arxiv.org/abs/2410.03174)|null|
 |**2024-10-03**|**HiFiSeg: High-Frequency Information Enhanced Polyp Segmentation with Global-Local Vision Transformer**|Jingjing Ren et.al.|[2410.02528](http://arxiv.org/abs/2410.02528)|null|
 |**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
-|**2024-10-03**|**RESSCAL3D++: Joint Acquisition and Semantic Segmentation of 3D Point Clouds**|Remco Royen et.al.|[2410.02323](http://arxiv.org/abs/2410.02323)|null|
+|**2024-10-03**|**RESSCAL3D++: Joint Acquisition and Semantic Segmentation of 3D Point Clouds**|Remco Royen et.al.|[2410.02323](http://arxiv.org/abs/2410.02323)|**[link](https://github.com/remcoroyen/vx-s3dis)**|
 |**2024-10-03**|**Efficient Semantic Segmentation via Lightweight Multiple-Information Interaction Network**|Yangyang Qiu et.al.|[2410.02224](http://arxiv.org/abs/2410.02224)|null|
 |**2024-10-03**|**Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images**|Qingyuan Liu et.al.|[2410.02207](http://arxiv.org/abs/2410.02207)|null|
 |**2024-10-02**|**SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images**|Kaiyu Li et.al.|[2410.01768](http://arxiv.org/abs/2410.01768)|**[link](https://github.com/likyoo/SegEarth-OV)**|
