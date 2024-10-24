@@ -117,6 +117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**Towards Safer Planetary Exploration: A Hybrid Architecture for Terrain Traversability Analysis in Mars Rovers**|Achille Chiuchiarelli et.al.|[2410.17738](http://arxiv.org/abs/2410.17738)|null|
 |**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
 |**2024-10-22**|**SERN: Simulation-Enhanced Realistic Navigation for Multi-Agent Robotic Systems in Contested Environments**|Jumman Hossain et.al.|[2410.16686](http://arxiv.org/abs/2410.16686)|null|
 |**2024-10-21**|**TIPS: Text-Image Pretraining with Spatial Awareness**|Kevis-Kokitsi Maninis et.al.|[2410.16512](http://arxiv.org/abs/2410.16512)|null|
