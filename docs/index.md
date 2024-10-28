@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-24**|**Uncertainty-Error correlations in Evidential Deep Learning models for biomedical segmentation**|Hai Siong Tan et.al.|[2410.18461](http://arxiv.org/abs/2410.18461)|null|
 |**2024-10-20**|**Taming Mambas for Voxel Level 3D Medical Image Segmentation**|Luca Lumetti et.al.|[2410.15496](http://arxiv.org/abs/2410.15496)|null|
-|**2024-10-11**|**Few Exemplar-Based General Medical Image Segmentation via Domain-Aware Selective Adaptation**|Chen Xu et.al.|[2410.09254](http://arxiv.org/abs/2410.09254)|null|
+|**2024-10-25**|**Few Exemplar-Based General Medical Image Segmentation via Domain-Aware Selective Adaptation**|Chen Xu et.al.|[2410.09254](http://arxiv.org/abs/2410.09254)|null|
 |**2024-10-05**|**DB-SAM: Delving into High Quality Universal Medical Image Segmentation**|Chao Qin et.al.|[2410.04172](http://arxiv.org/abs/2410.04172)|**[link](https://github.com/alfredqin/db-sam)**|
 |**2024-10-01**|**Y-CA-Net: A Convolutional Attention Based Network for Volumetric Medical Image Segmentation**|Muhammad Hamza Sharif et.al.|[2410.01003](http://arxiv.org/abs/2410.01003)|null|
 |**2024-09-30**|**Medical Image Segmentation with SAM-generated Annotations**|Iira Häkkinen et.al.|[2409.20253](http://arxiv.org/abs/2409.20253)|null|
@@ -118,6 +118,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**IPPON: Common Sense Guided Informative Path Planning for Object Goal Navigation**|Kaixian Qu et.al.|[2410.19697](http://arxiv.org/abs/2410.19697)|null|
+|**2024-10-25**|**Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation**|Yao Wu et.al.|[2410.19446](http://arxiv.org/abs/2410.19446)|**[link](https://github.com/barcaaaa/ftd-plusplus)**|
+|**2024-10-25**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341](http://arxiv.org/abs/2410.19341)|**[link](https://github.com/woo-soojin/context-based-vlpr)**|
 |**2024-10-24**|**Every Component Counts: Rethinking the Measure of Success for Medical Semantic Segmentation in Multi-Instance Segmentation Tasks**|Alexander Jaus et.al.|[2410.18684](http://arxiv.org/abs/2410.18684)|null|
 |**2024-10-24**|**Unsupervised semantic segmentation of urban high-density multispectral point clouds**|Oona Oinonen et.al.|[2410.18520](http://arxiv.org/abs/2410.18520)|null|
 |**2024-10-23**|**CARLA2Real: a tool for reducing the sim2real gap in CARLA simulator**|Stefanos Pasios et.al.|[2410.18238](http://arxiv.org/abs/2410.18238)|null|
