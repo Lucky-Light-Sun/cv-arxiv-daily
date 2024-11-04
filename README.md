@@ -205,7 +205,7 @@
 |**2024-10-04**|**Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**|Benyuan Meng et.al.|[2410.03558](http://arxiv.org/abs/2410.03558)|**[link](https://github.com/darkbblue/generic-diffusion-feature)**|
 |**2024-10-04**|**HRVMamba: High-Resolution Visual State Space Model for Dense Prediction**|Hao Zhang et.al.|[2410.03174](http://arxiv.org/abs/2410.03174)|null|
 |**2024-10-03**|**HiFiSeg: High-Frequency Information Enhanced Polyp Segmentation with Global-Local Vision Transformer**|Jingjing Ren et.al.|[2410.02528](http://arxiv.org/abs/2410.02528)|null|
-|**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
+|**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|**[link](https://github.com/aim-uofa/diffews)**|
 |**2024-10-03**|**RESSCAL3D++: Joint Acquisition and Semantic Segmentation of 3D Point Clouds**|Remco Royen et.al.|[2410.02323](http://arxiv.org/abs/2410.02323)|**[link](https://github.com/remcoroyen/vx-s3dis)**|
 |**2024-10-03**|**Efficient Semantic Segmentation via Lightweight Multiple-Information Interaction Network**|Yangyang Qiu et.al.|[2410.02224](http://arxiv.org/abs/2410.02224)|null|
 |**2024-10-03**|**Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images**|Qingyuan Liu et.al.|[2410.02207](http://arxiv.org/abs/2410.02207)|null|
@@ -439,7 +439,7 @@
 |**2024-07-16**|**FoodMem: Near Real-time and Precise Food Video Segmentation**|Ahmad AlMughrabi et.al.|[2407.12121](http://arxiv.org/abs/2407.12121)|null|
 |**2024-07-16**|**Mitigating Background Shift in Class-Incremental Semantic Segmentation**|Gilhan Park et.al.|[2407.11859](http://arxiv.org/abs/2407.11859)|**[link](https://github.com/roadonep/eccv2024_mbs)**|
 |**2024-07-16**|**Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation**|Juncheng Ma et.al.|[2407.11820](http://arxiv.org/abs/2407.11820)|**[link](https://github.com/GeWu-Lab/Stepping-Stones)**|
-|**2024-07-16**|**XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach**|Truong Thanh Hung Nguyen et.al.|[2407.11771](http://arxiv.org/abs/2407.11771)|null|
+|**2024-07-16**|**XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach**|Truong Thanh Hung Nguyen et.al.|[2407.11771](http://arxiv.org/abs/2407.11771)|**[link](https://github.com/analytics-everywhere-lab/vqixai)**|
 |**2024-07-16**|**OAM-TCD: A globally diverse dataset of high-resolution tree cover maps**|Josh Veitch-Michaelis et.al.|[2407.11743](http://arxiv.org/abs/2407.11743)|**[link](https://github.com/restor-foundation/tcd)**|
 |**2024-07-16**|**SFPNet: Sparse Focal Point Network for Semantic Segmentation on General LiDAR Point Clouds**|Yanbo Wang et.al.|[2407.11569](http://arxiv.org/abs/2407.11569)|**[link](https://github.com/Cavendish518/SFPNet)**|
 |**2024-07-16**|**Leveraging Segment Anything Model in Identifying Buildings within Refugee Camps (SAM4Refugee) from Satellite Imagery for Humanitarian Operations**|Yunya Gao et.al.|[2407.11381](http://arxiv.org/abs/2407.11381)|**[link](https://github.com/yunyagaotree/sam-adapter-for-refugee-dwelling-extraction)**|
@@ -568,7 +568,7 @@
 |**2024-06-10**|**UMAD: Unsupervised Mask-Level Anomaly Detection for Autonomous Driving**|Daniel Bogdoll et.al.|[2406.06370](http://arxiv.org/abs/2406.06370)|null|
 |**2024-06-09**|**Scaling Graph Convolutions for Mobile Vision**|William Avery et.al.|[2406.05850](http://arxiv.org/abs/2406.05850)|**[link](https://github.com/sldgroup/mobilevigv2)**|
 |**2024-06-09**|**Solution for CVPR 2024 UG2+ Challenge Track on All Weather Semantic Segmentation**|Jun Yu et.al.|[2406.05837](http://arxiv.org/abs/2406.05837)|null|
-|**2024-06-09**|**Convolution and Attention-Free Mamba-based Cardiac Image Segmentation**|Abbas Khan et.al.|[2406.05786](http://arxiv.org/abs/2406.05786)|null|
+|**2024-06-09**|**Convolution and Attention-Free Mamba-based Cardiac Image Segmentation**|Abbas Khan et.al.|[2406.05786](http://arxiv.org/abs/2406.05786)|**[link](https://github.com/kabbas570/cams-net)**|
 |**2024-06-09**|**Separating the "Chirp" from the "Chat": Self-supervised Visual Grounding of Sound and Language**|Mark Hamilton et.al.|[2406.05629](http://arxiv.org/abs/2406.05629)|**[link](https://github.com/mhamilton723/DenseAV)**|
 |**2024-06-08**|**A Two-Stage Adverse Weather Semantic Segmentation Method for WeatherProof Challenge CVPR 2024 Workshop UG2+**|Jianzhao Wang et.al.|[2406.05513](http://arxiv.org/abs/2406.05513)|null|
 |**2024-06-08**|**Layered Image Vectorization via Semantic Simplification**|Zhenyu Wang et.al.|[2406.05404](http://arxiv.org/abs/2406.05404)|null|
@@ -1030,7 +1030,7 @@
 |**2024-01-15**|**Semantic Segmentation in Multiple Adverse Weather Conditions with Domain Knowledge Retention**|Xin Yang et.al.|[2401.07459](http://arxiv.org/abs/2401.07459)|null|
 |**2024-01-13**|**Weak Labeling for Cropland Mapping in Africa**|Gilles Quentin Hacheme et.al.|[2401.07014](http://arxiv.org/abs/2401.07014)|null|
 |**2024-01-12**|**Seeing the roads through the trees: A benchmark for modeling spatial dependencies with aerial imagery**|Caleb Robinson et.al.|[2401.06762](http://arxiv.org/abs/2401.06762)|**[link](https://github.com/isaaccorley/chesapeakersc)**|
-|**2024-01-12**|**UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding**|Bowen Shi et.al.|[2401.06397](http://arxiv.org/abs/2401.06397)|null|
+|**2024-01-12**|**UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding**|Bowen Shi et.al.|[2401.06397](http://arxiv.org/abs/2401.06397)|**[link](https://github.com/lygsbw/umg-clip)**|
 |**2024-01-11**|**Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications**|Yuwen Xiong et.al.|[2401.06197](http://arxiv.org/abs/2401.06197)|**[link](https://github.com/opengvlab/dcnv4)**|
 |**2024-01-09**|**Generic Knowledge Boosted Pre-training For Remote Sensing Images**|Ziyue Huang et.al.|[2401.04614](http://arxiv.org/abs/2401.04614)|**[link](https://github.com/floatingstarZ/GeRSP)**|
 |**2024-01-08**|**Fully Attentional Networks with Self-emerging Token Labeling**|Bingyin Zhao et.al.|[2401.03844](http://arxiv.org/abs/2401.03844)|**[link](https://github.com/NVlabs/STL)**|
