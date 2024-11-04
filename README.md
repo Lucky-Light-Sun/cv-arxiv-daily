@@ -138,7 +138,7 @@
 |**2024-10-29**|**Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation**|Ruihao Xia et.al.|[2410.21708](http://arxiv.org/abs/2410.21708)|**[link](https://github.com/xiarho/madm)**|
 |**2024-10-28**|**Domain Adaptation with a Single Vision-Language Embedding**|Mohammad Fahes et.al.|[2410.21361](http://arxiv.org/abs/2410.21361)|null|
 |**2024-10-28**|**IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks**|Manjunath D et.al.|[2410.20953](http://arxiv.org/abs/2410.20953)|**[link](https://github.com/Manjuphoenix/IndraEye)**|
-|**2024-10-27**|**A Framework for Real-Time Volcano-Seismic Event Recognition Based on Multi-Station Seismograms and Semantic Segmentation Models**|Camilo Espinosa-Curilem et.al.|[2410.20595](http://arxiv.org/abs/2410.20595)|**[link](https://github.com/camilo-espinosa/volcano-seismic-segmentation)**|
+|**2024-11-01**|**A Framework for Real-Time Volcano-Seismic Event Recognition Based on Multi-Station Seismograms and Semantic Segmentation Models**|Camilo Espinosa-Curilem et.al.|[2410.20595](http://arxiv.org/abs/2410.20595)|**[link](https://github.com/camilo-espinosa/volcano-seismic-segmentation)**|
 |**2024-10-27**|**Unlocking Comics: The AI4VA Dataset for Visual Understanding**|Peter Grönquist et.al.|[2410.20459](http://arxiv.org/abs/2410.20459)|**[link](https://github.com/ivrl/ai4va)**|
 |**2024-10-27**|**Historical Test-time Prompt Tuning for Vision Foundation Models**|Jingyi Zhang et.al.|[2410.20346](http://arxiv.org/abs/2410.20346)|null|
 |**2024-10-25**|**OReole-FM: successes and challenges toward billion-parameter foundation models for high-resolution satellite imagery**|Philipe Dias et.al.|[2410.19965](http://arxiv.org/abs/2410.19965)|null|
