@@ -119,8 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Revisiting Network Perturbation for Semi-Supervised Semantic Segmentation**|Sien Li et.al.|[2411.05307](http://arxiv.org/abs/2411.05307)|**[link](https://github.com/llistenl/mlpmatch)**|
 |**2024-11-07**|**In the Era of Prompt Learning with Vision-Language Models**|Ankit Jha et.al.|[2411.04892](http://arxiv.org/abs/2411.04892)|null|
-|**2024-11-07**|**ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset**|Olaf Wysocki et.al.|[2411.04865](http://arxiv.org/abs/2411.04865)|**[link](https://github.com/oloocki/zaha)**|
+|**2024-11-08**|**ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset**|Olaf Wysocki et.al.|[2411.04865](http://arxiv.org/abs/2411.04865)|**[link](https://github.com/oloocki/zaha)**|
 |**2024-11-06**|**Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model**|Yansong Qu et.al.|[2411.03672](http://arxiv.org/abs/2411.03672)|null|
 |**2024-11-05**|**Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation**|Zhiling Yue et.al.|[2411.03551](http://arxiv.org/abs/2411.03551)|null|
 |**2024-11-05**|**SynthSet: Generative Diffusion Model for Semantic Segmentation in Precision Agriculture**|Andrew Heschl et.al.|[2411.03505](http://arxiv.org/abs/2411.03505)|**[link](https://github.com/visionresearchlab/synthset)**|
