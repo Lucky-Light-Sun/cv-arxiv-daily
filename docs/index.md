@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**SegBook: A Simple Baseline and Cookbook for Volumetric Medical Image Segmentation**|Jin Ye et.al.|[2411.14525](http://arxiv.org/abs/2411.14525)|null|
 |**2024-11-04**|**Weakly supervised deep learning model with size constraint for prostate cancer detection in multiparametric MRI and generalization to unseen domains**|Robin Trombetta et.al.|[2411.02466](http://arxiv.org/abs/2411.02466)|null|
 |**2024-10-24**|**Uncertainty-Error correlations in Evidential Deep Learning models for biomedical segmentation**|Hai Siong Tan et.al.|[2410.18461](http://arxiv.org/abs/2410.18461)|null|
 |**2024-10-20**|**Taming Mambas for Voxel Level 3D Medical Image Segmentation**|Luca Lumetti et.al.|[2410.15496](http://arxiv.org/abs/2410.15496)|null|
@@ -119,6 +120,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Effective SAM Combination for Open-Vocabulary Semantic Segmentation**|Minhyeok Lee et.al.|[2411.14723](http://arxiv.org/abs/2411.14723)|null|
 |**2024-11-21**|**Revisiting the Integration of Convolution and Attention for Vision Backbone**|Lei Zhu et.al.|[2411.14429](http://arxiv.org/abs/2411.14429)|**[link](https://github.com/rayleizhu/glmix)**|
 |**2024-11-21**|**CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation**|Lin Sun et.al.|[2411.13836](http://arxiv.org/abs/2411.13836)|**[link](https://github.com/linsun449/cliper.code)**|
 |**2024-11-21**|**Segment Any Class (SAC): Multi-Class Few-Shot Semantic Segmentation via Class Region Proposals**|Hussni Mohd Zakir et.al.|[2411.13774](http://arxiv.org/abs/2411.13774)|null|
