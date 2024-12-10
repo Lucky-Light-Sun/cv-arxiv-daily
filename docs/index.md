@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-08**|**Dilated Balanced Cross Entropy Loss for Medical Image Segmentation**|Seyed Mohsen Hosseini et.al.|[2412.06045](http://arxiv.org/abs/2412.06045)|null|
 |**2024-11-24**|**Integrating Deep Metric Learning with Coreset for Active Learning in 3D Segmentation**|Arvind Murari Vepa et.al.|[2411.15763](http://arxiv.org/abs/2411.15763)|null|
 |**2024-11-21**|**SegBook: A Simple Baseline and Cookbook for Volumetric Medical Image Segmentation**|Jin Ye et.al.|[2411.14525](http://arxiv.org/abs/2411.14525)|null|
 |**2024-11-04**|**Weakly supervised deep learning model with size constraint for prostate cancer detection in multiparametric MRI and generalization to unseen domains**|Robin Trombetta et.al.|[2411.02466](http://arxiv.org/abs/2411.02466)|null|
@@ -123,6 +124,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**|Andrei-Robert Alexandrescu et.al.|[2412.06742](http://arxiv.org/abs/2412.06742)|null|
+|**2024-12-09**|**Active Learning with Context Sampling and One-vs-Rest Entropy for Semantic Segmentation**|Fei Wu et.al.|[2412.06470](http://arxiv.org/abs/2412.06470)|null|
+|**2024-12-09**|**GCUNet: A GNN-Based Contextual Learning Network for Tertiary Lymphoid Structure Semantic Segmentation in Whole Slide Image**|Lei Su et.al.|[2412.06129](http://arxiv.org/abs/2412.06129)|null|
+|**2024-12-08**|**Efficient Semantic Splatting for Remote Sensing Multi-view Segmentation**|Zipeng Qi et.al.|[2412.05969](http://arxiv.org/abs/2412.05969)|null|
+|**2024-12-08**|**CSG: A Context-Semantic Guided Diffusion Approach in De Novo Musculoskeletal Ultrasound Image Generation**|Elay Dahan et.al.|[2412.05833](http://arxiv.org/abs/2412.05833)|null|
+|**2024-12-07**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679](http://arxiv.org/abs/2412.05679)|**[link](https://github.com/xuliu-cyber/rsunivlm)**|
+|**2024-12-06**|**FogROS2-FT: Fault Tolerant Cloud Robotics**|Kaiyuan Chen et.al.|[2412.05408](http://arxiv.org/abs/2412.05408)|null|
+|**2024-12-06**|**Generative Model-Based Fusion for Improved Few-Shot Semantic Segmentation of Infrared Images**|Junno Yun et.al.|[2412.05341](http://arxiv.org/abs/2412.05341)|null|
 |**2024-12-05**|**Assessing and Learning Alignment of Unimodal Vision and Language Models**|Le Zhang et.al.|[2412.04616](http://arxiv.org/abs/2412.04616)|null|
 |**2024-12-05**|**A Hitchhiker's Guide to Understanding Performances of Two-Class Classifiers**|Anaïs Halin et.al.|[2412.04377](http://arxiv.org/abs/2412.04377)|null|
 |**2024-12-05**|**Customize Segment Anything Model for Multi-Modal Semantic Segmentation with Mixture of LoRA Experts**|Chenyang Zhu et.al.|[2412.04220](http://arxiv.org/abs/2412.04220)|null|
