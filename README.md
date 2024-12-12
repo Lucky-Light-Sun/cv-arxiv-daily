@@ -135,6 +135,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**SegFace: Face Segmentation of Long-Tail Classes**|Kartik Narayan et.al.|[2412.08647](http://arxiv.org/abs/2412.08647)|**[link](https://github.com/kartik-3004/segface)**|
+|**2024-12-11**|**EOV-Seg: Efficient Open-Vocabulary Panoptic Segmentation**|Hongwei Niu et.al.|[2412.08628](http://arxiv.org/abs/2412.08628)|null|
+|**2024-12-11**|**Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning**|Fan Lu et.al.|[2412.08614](http://arxiv.org/abs/2412.08614)|**[link](https://github.com/lufan31/comprecap)**|
+|**2024-12-11**|**Hierarchical Context Alignment with Disentangled Geometric and Temporal Modeling for Semantic Occupancy Prediction**|Bohan Li et.al.|[2412.08243](http://arxiv.org/abs/2412.08243)|null|
+|**2024-12-11**|**THUD++: Large-Scale Dynamic Indoor Scene Dataset and Benchmark for Mobile Robots**|Zeshun Li et.al.|[2412.08096](http://arxiv.org/abs/2412.08096)|null|
+|**2024-12-11**|**Static-Dynamic Class-level Perception Consistency in Video Semantic Segmentation**|Zhigang Cen et.al.|[2412.08034](http://arxiv.org/abs/2412.08034)|null|
 |**2024-12-09**|**SphereUFormer: A U-Shaped Transformer for Spherical 360 Perception**|Yaniv Benny et.al.|[2412.06968](http://arxiv.org/abs/2412.06968)|null|
 |**2024-12-10**|**ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**|Andrei-Robert Alexandrescu et.al.|[2412.06742](http://arxiv.org/abs/2412.06742)|null|
 |**2024-12-09**|**Active Learning with Context Sampling and One-vs-Rest Entropy for Semantic Segmentation**|Fei Wu et.al.|[2412.06470](http://arxiv.org/abs/2412.06470)|null|
