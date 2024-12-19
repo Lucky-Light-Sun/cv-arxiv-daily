@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2412.13742](http://arxiv.org/abs/2412.13742)|null|
 |**2024-12-17**|**SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation**|Shuangping Huang et.al.|[2412.12660](http://arxiv.org/abs/2412.12660)|null|
 |**2024-12-08**|**Dilated Balanced Cross Entropy Loss for Medical Image Segmentation**|Seyed Mohsen Hosseini et.al.|[2412.06045](http://arxiv.org/abs/2412.06045)|null|
 |**2024-11-24**|**Integrating Deep Metric Learning with Coreset for Active Learning in 3D Segmentation**|Arvind Murari Vepa et.al.|[2411.15763](http://arxiv.org/abs/2411.15763)|**[link](https://github.com/arvindmvepa/al-seg)**|
@@ -136,6 +137,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Incorporating Feature Pyramid Tokenization and Open Vocabulary Semantic Segmentation**|Jianyu Zhang et.al.|[2412.14145](http://arxiv.org/abs/2412.14145)|null|
+|**2024-12-18**|**Prompt Categories Cluster for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2412.13823](http://arxiv.org/abs/2412.13823)|null|
+|**2024-12-18**|**Federated Source-free Domain Adaptation for Classification: Weighted Cluster Aggregation for Unlabeled Data**|Junki Mori et.al.|[2412.13757](http://arxiv.org/abs/2412.13757)|null|
+|**2024-12-18**|**Optical aberrations in autonomous driving: Physics-informed parameterized temperature scaling for neural network uncertainty calibration**|Dominik Werner Wolf et.al.|[2412.13695](http://arxiv.org/abs/2412.13695)|null|
+|**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654](http://arxiv.org/abs/2412.13654)|null|
 |**2024-12-17**|**Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843](http://arxiv.org/abs/2412.12843)|null|
 |**2024-12-17**|**Open-World Panoptic Segmentation**|Matteo Sodano et.al.|[2412.12740](http://arxiv.org/abs/2412.12740)|null|
 |**2024-12-17**|**SemStereo: Semantic-Constrained Stereo Matching Network for Remote Sensing**|Chen Chen et.al.|[2412.12685](http://arxiv.org/abs/2412.12685)|**[link](https://github.com/chenchen235/SemStereo)**|
@@ -1292,6 +1298,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Zero-Shot Prompting and Few-Shot Fine-Tuning: Revisiting Document Image Classification Using Large Language Models**|Anna Scius-Bertrand et.al.|[2412.13859](http://arxiv.org/abs/2412.13859)|null|
 |**2024-12-17**|**Preference-Oriented Supervised Fine-Tuning: Favoring Target Model Over Aligned Large Language Models**|Yuchen Fan et.al.|[2412.12865](http://arxiv.org/abs/2412.12865)|**[link](https://github.com/Savannah120/alignment-handbook-PoFT)**|
 |**2024-11-30**|**Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models**|Sanghyun Kim et.al.|[2412.00357](http://arxiv.org/abs/2412.00357)|null|
 |**2024-11-29**|**Effective Fine-Tuning of Vision-Language Models for Accurate Galaxy Morphology Analysis**|Ruoqi Wang et.al.|[2411.19475](http://arxiv.org/abs/2411.19475)|null|
