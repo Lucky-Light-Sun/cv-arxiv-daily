@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**MiniGPT-Pancreas: Multimodal Large Language Model for Pancreas Cancer Classification and Detection**|Andrea Moglia et.al.|[2412.15925](http://arxiv.org/abs/2412.15925)|**[link](https://github.com/elianastasio/minigpt-pancreas)**|
 |**2024-12-18**|**Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2412.13742](http://arxiv.org/abs/2412.13742)|null|
 |**2024-12-17**|**SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation**|Shuangping Huang et.al.|[2412.12660](http://arxiv.org/abs/2412.12660)|null|
 |**2024-12-08**|**Dilated Balanced Cross Entropy Loss for Medical Image Segmentation**|Seyed Mohsen Hosseini et.al.|[2412.06045](http://arxiv.org/abs/2412.06045)|null|
@@ -137,6 +138,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**SegCol Challenge: Semantic Segmentation for Tools and Fold Edges in Colonoscopy data**|Xinwei Ju et.al.|[2412.16078](http://arxiv.org/abs/2412.16078)|null|
+|**2024-12-20**|**Enhancing Generalized Few-Shot Semantic Segmentation via Effective Knowledge Transfer**|Xinyue Chen et.al.|[2412.15835](http://arxiv.org/abs/2412.15835)|**[link](https://github.com/hhhhedy/gfss-ekt)**|
 |**2024-12-19**|**GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation**|G. Andrade-Miranda et.al.|[2412.15054](http://arxiv.org/abs/2412.15054)|**[link](https://github.com/andrade-miranda/girafe)**|
 |**2024-12-19**|**Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation**|Zhenxin Lei et.al.|[2412.14587](http://arxiv.org/abs/2412.14587)|null|
 |**2024-12-18**|**Split Learning in Computer Vision for Semantic Segmentation Delay Minimization**|Nikos G. Evgenidis et.al.|[2412.14272](http://arxiv.org/abs/2412.14272)|null|
