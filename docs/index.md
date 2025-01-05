@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372](http://arxiv.org/abs/2501.01372)|null|
 |**2024-12-20**|**MiniGPT-Pancreas: Multimodal Large Language Model for Pancreas Cancer Classification and Detection**|Andrea Moglia et.al.|[2412.15925](http://arxiv.org/abs/2412.15925)|**[link](https://github.com/elianastasio/minigpt-pancreas)**|
 |**2024-12-18**|**Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2412.13742](http://arxiv.org/abs/2412.13742)|**[link](https://github.com/taozh2017/knowsam)**|
 |**2024-12-17**|**SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation**|Shuangping Huang et.al.|[2412.12660](http://arxiv.org/abs/2412.12660)|null|
@@ -127,6 +128,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|null|
+|**2025-01-01**|**FGAseg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation**|Bingyu Li et.al.|[2501.00877](http://arxiv.org/abs/2501.00877)|**[link](https://github.com/LiBingyu01/FGA-seg)**|
+|**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352](http://arxiv.org/abs/2501.00352)|null|
+|**2024-12-31**|**OVGaussian: Generalizable 3D Gaussian Segmentation with Open Vocabularies**|Runnan Chen et.al.|[2501.00326](http://arxiv.org/abs/2501.00326)|null|
 |**2024-12-30**|**HisynSeg: Weakly-Supervised Histopathological Image Segmentation via Image-Mixing Synthesis and Consistency Regularization**|Zijie Fang et.al.|[2412.20924](http://arxiv.org/abs/2412.20924)|**[link](https://github.com/vison307/hisynseg)**|
 |**2024-12-30**|**LiDAR-Camera Fusion for Video Panoptic Segmentation without Video Training**|Fardin Ayar et.al.|[2412.20881](http://arxiv.org/abs/2412.20881)|null|
 |**2024-12-29**|**Image Augmentation Agent for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2412.20439](http://arxiv.org/abs/2412.20439)|null|
