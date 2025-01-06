@@ -561,7 +561,7 @@
 |**2024-08-07**|**SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology**|Mingya Zhang et.al.|[2408.03651](http://arxiv.org/abs/2408.03651)|**[link](https://github.com/simzhangbest/sam2path)**|
 |**2024-08-06**|**Post-Mortem Human Iris Segmentation Analysis with Deep Learning**|Afzal Hossain et.al.|[2408.03448](http://arxiv.org/abs/2408.03448)|null|
 |**2024-08-06**|**Comb, Prune, Distill: Towards Unified Pruning for Vision Model Compression**|Jonas Schmitt et.al.|[2408.03046](http://arxiv.org/abs/2408.03046)|**[link](https://github.com/cranken/cpd)**|
-|**2024-08-05**|**Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs**|Jeongkee Lim et.al.|[2408.02261](http://arxiv.org/abs/2408.02261)|null|
+|**2024-08-05**|**Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs**|Jeongkee Lim et.al.|[2408.02261](http://arxiv.org/abs/2408.02261)|**[link](https://github.com/jkee58/csi)**|
 |**2024-08-05**|**Curriculum learning based pre-training using Multi-Modal Contrastive Masked Autoencoders**|Muhammad Abdullah Jamal et.al.|[2408.02245](http://arxiv.org/abs/2408.02245)|null|
 |**2024-08-04**|**Pixel-Level Domain Adaptation: A New Perspective for Enhancing Weakly Supervised Semantic Segmentation**|Ye Du et.al.|[2408.02039](http://arxiv.org/abs/2408.02039)|null|
 |**2024-08-03**|**Bayesian Active Learning for Semantic Segmentation**|Sima Didari et.al.|[2408.01694](http://arxiv.org/abs/2408.01694)|null|
@@ -648,7 +648,7 @@
 |**2024-07-14**|**HSFusion: A high-level vision task-driven infrared and visible image fusion network via semantic and geometric domain transformation**|Chengjie Jiang et.al.|[2407.10047](http://arxiv.org/abs/2407.10047)|null|
 |**2024-07-13**|**Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation**|Anqi Zhang et.al.|[2407.09838](http://arxiv.org/abs/2407.09838)|null|
 |**2024-07-13**|**3D Weakly Supervised Semantic Segmentation with 2D Vision-Language Guidance**|Xiaoxu Xu et.al.|[2407.09826](http://arxiv.org/abs/2407.09826)|**[link](https://github.com/xuxiaoxxxx/3DSS-VLG)**|
-|**2024-07-13**|**TASeg: Temporal Aggregation Network for LiDAR Semantic Segmentation**|Xiaopei Wu et.al.|[2407.09751](http://arxiv.org/abs/2407.09751)|null|
+|**2024-07-13**|**TASeg: Temporal Aggregation Network for LiDAR Semantic Segmentation**|Xiaopei Wu et.al.|[2407.09751](http://arxiv.org/abs/2407.09751)|**[link](https://github.com/littlepey/taseg)**|
 |**2024-07-12**|**Uplifting Range-View-based 3D Semantic Segmentation in Real-Time with Multi-Sensor Fusion**|Shiqi Tan et.al.|[2407.09697](http://arxiv.org/abs/2407.09697)|null|
 |**2024-07-12**|**SPIN: Hierarchical Segmentation with Subpart Granularity in Natural Images**|Josh Myers-Dean et.al.|[2407.09686](http://arxiv.org/abs/2407.09686)|null|
 |**2024-07-12**|**FANet: Feature Amplification Network for Semantic Segmentation in Cluttered Background**|Muhammad Ali et.al.|[2407.09379](http://arxiv.org/abs/2407.09379)|**[link](https://github.com/techmn/fanet)**|
