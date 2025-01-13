@@ -142,6 +142,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**The 2nd Place Solution from the 3D Semantic Segmentation Track in the 2024 Waymo Open Dataset Challenge**|Qing Wu et.al.|[2501.05472](http://arxiv.org/abs/2501.05472)|null|
 |**2025-01-09**|**Domain-Incremental Semantic Segmentation for Autonomous Driving under Adverse Driving Conditions**|Shishir Muralidhara et.al.|[2501.05246](http://arxiv.org/abs/2501.05246)|null|
 |**2025-01-09**|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu et.al.|[2501.05095](http://arxiv.org/abs/2501.05095)|null|
 |**2025-01-08**|**Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation**|Ulindu De Silva et.al.|[2501.04696](http://arxiv.org/abs/2501.04696)|**[link](https://github.com/ulindup/segtto)**|
