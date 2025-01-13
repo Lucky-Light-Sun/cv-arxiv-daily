@@ -512,7 +512,7 @@
 |**2024-08-30**|**Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training**|Zizheng Huang et.al.|[2408.17081](http://arxiv.org/abs/2408.17081)|**[link](https://github.com/huangzizheng01/shufflemamba)**|
 |**2024-08-30**|**Transient Fault Tolerant Semantic Segmentation for Autonomous Driving**|Leonardo Iurada et.al.|[2408.16952](http://arxiv.org/abs/2408.16952)|**[link](https://github.com/iurada/neutron-segmentation)**|
 |**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|**[link](https://github.com/vimslab/sodawidenetplusplus)**|
-|**2024-08-29**|**Multi-source Domain Adaptation for Panoramic Semantic Segmentation**|Jing Jiang et.al.|[2408.16469](http://arxiv.org/abs/2408.16469)|null|
+|**2024-08-29**|**Multi-source Domain Adaptation for Panoramic Semantic Segmentation**|Jing Jiang et.al.|[2408.16469](http://arxiv.org/abs/2408.16469)|**[link](https://github.com/jingjiang02/dta4pass)**|
 |**2024-08-29**|**EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More**|Kanghao Chen et.al.|[2408.16254](http://arxiv.org/abs/2408.16254)|null|
 |**2024-08-28**|**SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors**|Zhiqing Zhang et.al.|[2408.15887](http://arxiv.org/abs/2408.15887)|null|
 |**2024-08-28**|**DQFormer: Towards Unified LiDAR Panoptic Segmentation with Decoupled Queries**|Yu Yang et.al.|[2408.15813](http://arxiv.org/abs/2408.15813)|null|
