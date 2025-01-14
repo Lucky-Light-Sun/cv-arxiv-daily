@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation**|Zhipeng Deng et.al.|[2501.07378](http://arxiv.org/abs/2501.07378)|null|
 |**2025-01-09**|**Improving the U-Net Configuration for Automated Delineation of Head and Neck Cancer on MRI**|Andrei Iantsen et.al.|[2501.05120](http://arxiv.org/abs/2501.05120)|null|
 |**2025-01-05**|**Unsupervised Search for Ethnic Minorities' Medical Segmentation Training Set**|Yixiao Chen et.al.|[2501.02442](http://arxiv.org/abs/2501.02442)|**[link](https://github.com/yorkeyao/snp)**|
 |**2025-01-05**|**Framework for lung CT image segmentation based on UNet++**|Hao Ziang et.al.|[2501.02428](http://arxiv.org/abs/2501.02428)|null|
@@ -131,6 +132,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Kolmogorov-Arnold Network for Remote Sensing Image Semantic Segmentation**|Xianping Ma et.al.|[2501.07390](http://arxiv.org/abs/2501.07390)|null|
+|**2025-01-13**|**Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion**|Li Liang et.al.|[2501.07260](http://arxiv.org/abs/2501.07260)|**[link](https://github.com/xrkong/skimba)**|
+|**2025-01-12**|**LarvSeg: Exploring Image Classification Data For Large Vocabulary Semantic Segmentation via Category-wise Attentive Classifier**|Haojun Yu et.al.|[2501.06862](http://arxiv.org/abs/2501.06862)|**[link](https://github.com/haojunyu1998/larvseg)**|
+|**2025-01-12**|**SAM-DA: Decoder Adapter for Efficient Medical Domain Adaptation**|Javier Gamazo Tejero et.al.|[2501.06836](http://arxiv.org/abs/2501.06836)|null|
+|**2025-01-11**|**Parking Space Detection in the City of Granada**|Crespo-Orti Luis et.al.|[2501.06651](http://arxiv.org/abs/2501.06651)|**[link](https://github.com/pab1s/granada-parking-segmentation)**|
 |**2025-01-06**|**The 2nd Place Solution from the 3D Semantic Segmentation Track in the 2024 Waymo Open Dataset Challenge**|Qing Wu et.al.|[2501.05472](http://arxiv.org/abs/2501.05472)|null|
 |**2025-01-09**|**Domain-Incremental Semantic Segmentation for Autonomous Driving under Adverse Driving Conditions**|Shishir Muralidhara et.al.|[2501.05246](http://arxiv.org/abs/2501.05246)|null|
 |**2025-01-09**|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu et.al.|[2501.05095](http://arxiv.org/abs/2501.05095)|null|
