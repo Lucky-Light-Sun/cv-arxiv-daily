@@ -383,7 +383,7 @@
 |**2024-10-22**|**Multi-Layer Feature Fusion with Cross-Channel Attention-Based U-Net for Kidney Tumor Segmentation**|Fnu Neha et.al.|[2410.15472](http://arxiv.org/abs/2410.15472)|null|
 |**2024-10-18**|**On the Influence of Shape, Texture and Color for Learning Semantic Segmentation**|Annika Mütze et.al.|[2410.14878](http://arxiv.org/abs/2410.14878)|null|
 |**2024-10-18**|**Automated Road Extraction from Satellite Imagery Integrating Dense Depthwise Dilated Separable Spatial Pyramid Pooling with DeepLabV3+**|Arpan Mahara et.al.|[2410.14836](http://arxiv.org/abs/2410.14836)|null|
-|**2024-10-17**|**ARKit LabelMaker: A New Scale for Indoor 3D Scene Understanding**|Guangda Ji et.al.|[2410.13924](http://arxiv.org/abs/2410.13924)|null|
+|**2024-10-17**|**ARKit LabelMaker: A New Scale for Indoor 3D Scene Understanding**|Guangda Ji et.al.|[2410.13924](http://arxiv.org/abs/2410.13924)|**[link](https://github.com/cvg/labelmaker)**|
 |**2024-10-22**|**EP-SAM: Weakly Supervised Histopathology Segmentation via Enhanced Prompt with Segment Anything**|Joonhyeon Song et.al.|[2410.13621](http://arxiv.org/abs/2410.13621)|**[link](https://github.com/qi-nemosong/ep-sam)**|
 |**2024-10-17**|**Day-Night Adaptation: An Innovative Source-free Adaptation Framework for Medical Image Segmentation**|Ziyang Chen et.al.|[2410.13472](http://arxiv.org/abs/2410.13472)|null|
 |**2024-10-17**|**SiamSeg: Self-Training with Contrastive Learning for Unsupervised Domain Adaptation in Remote Sensing**|Bin Wang et.al.|[2410.13471](http://arxiv.org/abs/2410.13471)|**[link](https://github.com/woldier/siamseg)**|
@@ -435,7 +435,7 @@
 |**2024-10-03**|**Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images**|Qingyuan Liu et.al.|[2410.02207](http://arxiv.org/abs/2410.02207)|null|
 |**2024-10-02**|**SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images**|Kaiyu Li et.al.|[2410.01768](http://arxiv.org/abs/2410.01768)|**[link](https://github.com/likyoo/SegEarth-OV)**|
 |**2024-10-02**|**One-Shot Robust Imitation Learning for Long-Horizon Visuomotor Tasks from Unsegmented Demonstrations**|Shaokang Wu et.al.|[2410.01630](http://arxiv.org/abs/2410.01630)|null|
-|**2024-10-02**|**Cognition Transferring and Decoupling for Text-supervised Egocentric Semantic Segmentation**|Zhaofeng Shi et.al.|[2410.01341](http://arxiv.org/abs/2410.01341)|null|
+|**2024-10-02**|**Cognition Transferring and Decoupling for Text-supervised Egocentric Semantic Segmentation**|Zhaofeng Shi et.al.|[2410.01341](http://arxiv.org/abs/2410.01341)|**[link](https://github.com/zhaofengshi/ctdn)**|
 |**2024-10-02**|**VectorGraphNET: Graph Attention Networks for Accurate Segmentation of Complex Technical Drawings**|Andrea Carrara et.al.|[2410.01336](http://arxiv.org/abs/2410.01336)|null|
 |**2024-10-01**|**RobustEMD: Domain Robust Matching for Cross-domain Few-shot Medical Image Segmentation**|Yazhou Zhu et.al.|[2410.01110](http://arxiv.org/abs/2410.01110)|**[link](https://github.com/YazhouZhu19/RobustEMD)**|
 |**2024-10-01**|**Semantic Segmentation of Unmanned Aerial Vehicle Remote Sensing Images using SegFormer**|Vlatko Spasev et.al.|[2410.01092](http://arxiv.org/abs/2410.01092)|null|
@@ -1218,7 +1218,7 @@
 |**2024-01-22**|**Exploring Simple Open-Vocabulary Semantic Segmentation**|Zihang Lai et.al.|[2401.12217](http://arxiv.org/abs/2401.12217)|**[link](https://github.com/zlai0/s-seg)**|
 |**2024-01-22**|**Out-of-Distribution Detection & Applications With Ablated Learned Temperature Energy**|Will LeVine et.al.|[2401.12129](http://arxiv.org/abs/2401.12129)|**[link](https://github.com/anonymousoodauthor/abet)**|
 |**2024-01-22**|**HomeRobot Open Vocabulary Mobile Manipulation Challenge 2023 Participant Report (Team KuzHum)**|Volodymyr Kuzma et.al.|[2401.12048](http://arxiv.org/abs/2401.12048)|null|
-|**2024-01-22**|**SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation**|Ci-Siang Lin et.al.|[2401.11791](http://arxiv.org/abs/2401.11791)|null|
+|**2024-01-22**|**SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation**|Ci-Siang Lin et.al.|[2401.11791](http://arxiv.org/abs/2401.11791)|**[link](https://github.com/nvlabs/semples)**|
 |**2024-01-22**|**EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models**|Koichi Namekata et.al.|[2401.11739](http://arxiv.org/abs/2401.11739)|null|
 |**2024-01-22**|**MetaSeg: Content-Aware Meta-Net for Omni-Supervised Semantic Segmentation**|Shenwang Jiang et.al.|[2401.11738](http://arxiv.org/abs/2401.11738)|null|
 |**2024-01-22**|**SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation**|Xinqiao Zhao et.al.|[2401.11719](http://arxiv.org/abs/2401.11719)|**[link](https://github.com/barrett-python/sfc)**|
