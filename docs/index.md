@@ -134,6 +134,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang et.al.|[2501.19274](http://arxiv.org/abs/2501.19274)|null|
+|**2025-01-31**|**ContextFormer: Redefining Efficiency in Semantic Segmentation**|Mian Muhammad Naeem Abid et.al.|[2501.19255](http://arxiv.org/abs/2501.19255)|null|
+|**2025-01-31**|**Integrating Semi-Supervised and Active Learning for Semantic Segmentation**|Wanli Ma et.al.|[2501.19227](http://arxiv.org/abs/2501.19227)|null|
+|**2025-01-31**|**SynthmanticLiDAR: A Synthetic Dataset for Semantic Segmentation on LiDAR Imaging**|Javier Montalvo et.al.|[2501.19035](http://arxiv.org/abs/2501.19035)|null|
+|**2025-01-31**|**Project-and-Fuse: Improving RGB-D Semantic Segmentation via Graph Convolution Networks**|Xiaoyan Jiang et.al.|[2501.18851](http://arxiv.org/abs/2501.18851)|null|
 |**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 |**2025-01-30**|**Ground Awareness in Deep Learning for Large Outdoor Point Cloud Segmentation**|Kevin Qiu et.al.|[2501.18246](http://arxiv.org/abs/2501.18246)|null|
 |**2025-01-29**|**Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation**|Lin Chen et.al.|[2501.17642](http://arxiv.org/abs/2501.17642)|null|
