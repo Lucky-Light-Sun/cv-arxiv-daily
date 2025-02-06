@@ -146,6 +146,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Disentangling CLIP Features for Enhanced Localized Understanding**|Samyak Rawelekar et.al.|[2502.02977](http://arxiv.org/abs/2502.02977)|null|
+|**2025-02-05**|**From DeepSense to Open RAN: AI/ML Advancements in Dynamic Spectrum Sensing and Their Applications**|Ryan Barker et.al.|[2502.02889](http://arxiv.org/abs/2502.02889)|null|
+|**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-04**|**Transfer Risk Map: Mitigating Pixel-level Negative Transfer in Medical Segmentation**|Shutong Duan et.al.|[2502.02340](http://arxiv.org/abs/2502.02340)|null|
 |**2025-02-04**|**UNIP: Rethinking Pre-trained Attention Patterns for Infrared Semantic Segmentation**|Tao Zhang et.al.|[2502.02257](http://arxiv.org/abs/2502.02257)|null|
 |**2025-02-04**|**Deep Ensemble approach for Enhancing Brain Tumor Segmentation in Resource-Limited Settings**|Jeremiah Fadugba et.al.|[2502.02179](http://arxiv.org/abs/2502.02179)|null|
@@ -1418,7 +1421,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-30**|**Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate**|Yubo Wang et.al.|[2501.17703](http://arxiv.org/abs/2501.17703)|null|
+|**2025-02-05**|**Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate**|Yubo Wang et.al.|[2501.17703](http://arxiv.org/abs/2501.17703)|null|
 |**2025-01-29**|**Cross-Language Approach for Quranic QA**|Islam Oshallah et.al.|[2501.17449](http://arxiv.org/abs/2501.17449)|null|
 |**2024-12-18**|**Zero-Shot Prompting and Few-Shot Fine-Tuning: Revisiting Document Image Classification Using Large Language Models**|Anna Scius-Bertrand et.al.|[2412.13859](http://arxiv.org/abs/2412.13859)|null|
 |**2024-12-17**|**Preference-Oriented Supervised Fine-Tuning: Favoring Target Model Over Aligned Large Language Models**|Yuchen Fan et.al.|[2412.12865](http://arxiv.org/abs/2412.12865)|**[link](https://github.com/Savannah120/alignment-handbook-PoFT)**|
