@@ -135,6 +135,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Adaptive Margin Contrastive Learning for Ambiguity-aware 3D Semantic Segmentation**|Yang Chen et.al.|[2502.04111](http://arxiv.org/abs/2502.04111)|null|
+|**2025-02-06**|**LeAP: Consistent multi-domain 3D labeling using Foundation Models**|Simon Gebraad et.al.|[2502.03901](http://arxiv.org/abs/2502.03901)|null|
+|**2025-02-06**|**Optimized Unet with Attention Mechanism for Multi-Scale Semantic Segmentation**|Xuan Li et.al.|[2502.03813](http://arxiv.org/abs/2502.03813)|null|
+|**2025-02-05**|**Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics**|Indrashis Das et.al.|[2502.03654](http://arxiv.org/abs/2502.03654)|null|
 |**2025-02-05**|**Disentangling CLIP Features for Enhanced Localized Understanding**|Samyak Rawelekar et.al.|[2502.02977](http://arxiv.org/abs/2502.02977)|null|
 |**2025-02-05**|**From DeepSense to Open RAN: AI/ML Advancements in Dynamic Spectrum Sensing and Their Applications**|Ryan Barker et.al.|[2502.02889](http://arxiv.org/abs/2502.02889)|null|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
