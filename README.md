@@ -154,7 +154,7 @@
 |**2025-02-05**|**From DeepSense to Open RAN: AI/ML Advancements in Dynamic Spectrum Sensing and Their Applications**|Ryan Barker et.al.|[2502.02889](http://arxiv.org/abs/2502.02889)|null|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-04**|**Transfer Risk Map: Mitigating Pixel-level Negative Transfer in Medical Segmentation**|Shutong Duan et.al.|[2502.02340](http://arxiv.org/abs/2502.02340)|null|
-|**2025-02-04**|**UNIP: Rethinking Pre-trained Attention Patterns for Infrared Semantic Segmentation**|Tao Zhang et.al.|[2502.02257](http://arxiv.org/abs/2502.02257)|null|
+|**2025-02-04**|**UNIP: Rethinking Pre-trained Attention Patterns for Infrared Semantic Segmentation**|Tao Zhang et.al.|[2502.02257](http://arxiv.org/abs/2502.02257)|**[link](https://github.com/casiatao/unip)**|
 |**2025-02-04**|**Deep Ensemble approach for Enhancing Brain Tumor Segmentation in Resource-Limited Settings**|Jeremiah Fadugba et.al.|[2502.02179](http://arxiv.org/abs/2502.02179)|null|
 |**2025-02-04**|**Memory Efficient Transformer Adapter for Dense Predictions**|Dong Zhang et.al.|[2502.01962](http://arxiv.org/abs/2502.01962)|null|
 |**2025-02-03**|**Deep Unfolding Multi-modal Image Fusion Network via Attribution Analysis**|Haowen Bai et.al.|[2502.01467](http://arxiv.org/abs/2502.01467)|null|
