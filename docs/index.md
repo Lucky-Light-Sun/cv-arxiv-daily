@@ -140,7 +140,7 @@ layout: default
 |**2025-02-20**|**RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**|Henrique Piñeiro Monteagudo et.al.|[2502.14792](http://arxiv.org/abs/2502.14792)|null|
 |**2025-02-20**|**Multi-dataset synergistic in supervised learning to pre-label structural components in point clouds from shell construction scenes**|Lukas Rauch et.al.|[2502.14721](http://arxiv.org/abs/2502.14721)|null|
 |**2025-02-20**|**Reliable Explainability of Deep Learning Spatial-Spectral Classifiers for Improved Semantic Segmentation in Autonomous Driving**|Jon Gutiérrez-Zaballa et.al.|[2502.14416](http://arxiv.org/abs/2502.14416)|null|
-|**2025-02-19**|**SegRet: An Efficient Design for Semantic Segmentation with Retentive Network**|Zhiyuan Li et.al.|[2502.14014](http://arxiv.org/abs/2502.14014)|null|
+|**2025-02-19**|**SegRet: An Efficient Design for Semantic Segmentation with Retentive Network**|Zhiyuan Li et.al.|[2502.14014](http://arxiv.org/abs/2502.14014)|**[link](https://github.com/zhiyuanli218/segret)**|
 |**2025-02-19**|**Remote Sensing Semantic Segmentation Quality Assessment based on Vision Language Model**|Huiying Shi et.al.|[2502.13990](http://arxiv.org/abs/2502.13990)|null|
 |**2025-02-19**|**MGFI-Net: A Multi-Grained Feature Integration Network for Enhanced Medical Image Segmentation**|Yucheng Zeng et.al.|[2502.13808](http://arxiv.org/abs/2502.13808)|null|
 |**2025-02-19**|**CARE: Confidence-Aware Regression Estimation of building density fine-tuning EO Foundation Models**|Nikolaos Dionelis et.al.|[2502.13734](http://arxiv.org/abs/2502.13734)|null|
@@ -1445,7 +1445,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-09**|**Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation**|Vera Soboleva et.al.|[2502.05895](http://arxiv.org/abs/2502.05895)|null|
+|**2025-02-09**|**Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation**|Vera Soboleva et.al.|[2502.05895](http://arxiv.org/abs/2502.05895)|**[link](https://github.com/controlgenai/persongensampler)**|
 |**2025-02-05**|**Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate**|Yubo Wang et.al.|[2501.17703](http://arxiv.org/abs/2501.17703)|null|
 |**2025-01-29**|**Cross-Language Approach for Quranic QA**|Islam Oshallah et.al.|[2501.17449](http://arxiv.org/abs/2501.17449)|null|
 |**2024-12-18**|**Zero-Shot Prompting and Few-Shot Fine-Tuning: Revisiting Document Image Classification Using Large Language Models**|Anna Scius-Bertrand et.al.|[2412.13859](http://arxiv.org/abs/2412.13859)|null|
