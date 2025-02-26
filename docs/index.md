@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -146,7 +146,7 @@ layout: default
 |**2025-02-23**|**Deep learning approaches to surgical video segmentation and object detection: A Scoping Review**|Devanish N. Kamtam et.al.|[2502.16459](http://arxiv.org/abs/2502.16459)|null|
 |**2025-02-22**|**Importance-Aware Source-Channel Coding for Multi-Modal Task-Oriented Semantic Communication**|Yi Ma et.al.|[2502.16194](http://arxiv.org/abs/2502.16194)|null|
 |**2025-02-22**|**FeatSharp: Your Vision Model Features, Sharper**|Mike Ranzinger et.al.|[2502.16025](http://arxiv.org/abs/2502.16025)|null|
-|**2025-02-22**|**Cross-Model Transferability of Adversarial Patches in Real-time Segmentation for Autonomous Driving**|Prashant Shekhar et.al.|[2502.16012](http://arxiv.org/abs/2502.16012)|null|
+|**2025-02-22**|**Cross-Model Transferability of Adversarial Patches in Real-time Segmentation for Autonomous Driving**|Prashant Shekhar et.al.|[2502.16012](http://arxiv.org/abs/2502.16012)|**[link](https://github.com/p-shekhar/adversarial-patch-transferability)**|
 |**2025-02-21**|**Graph Attention Convolutional U-NET: A Semantic Segmentation Model for Identifying Flooded Areas**|Muhammad Umair Danish et.al.|[2502.15907](http://arxiv.org/abs/2502.15907)|null|
 |**2025-02-21**|**DOEI: Dual Optimization of Embedding Information for Attention-Enhanced Class Activation Maps**|Hongjie Zhu et.al.|[2502.15885](http://arxiv.org/abs/2502.15885)|**[link](https://github.com/AIGeeksGroup/DOEI)**|
 |**2025-02-21**|**Aligning Task- and Reconstruction-Oriented Communications for Edge Intelligence**|Yufeng Diao et.al.|[2502.15472](http://arxiv.org/abs/2502.15472)|null|
