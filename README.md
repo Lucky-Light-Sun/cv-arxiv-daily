@@ -108,7 +108,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-10**|**Do generative video models learn physical principles from watching videos?**|Saman Motamed et.al.|[2501.09038](http://arxiv.org/abs/2501.09038)|**[link](https://github.com/google-deepmind/physics-IQ-benchmark)**|
+|**2025-02-27**|**Do generative video models understand physical principles?**|Saman Motamed et.al.|[2501.09038](http://arxiv.org/abs/2501.09038)|**[link](https://github.com/google-deepmind/physics-IQ-benchmark)**|
 |**2024-12-06**|**DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification**|Ying Jin et.al.|[2412.04828](http://arxiv.org/abs/2412.04828)|null|
 |**2024-09-20**|**SpaceBlender: Creating Context-Rich Collaborative Spaces Through Generative 3D Scene Blending**|Nels Numan et.al.|[2409.13926](http://arxiv.org/abs/2409.13926)|null|
 |**2024-08-01**|**A new approach for encoding code and assisting code understanding**|Mengdan Fan et.al.|[2408.00521](http://arxiv.org/abs/2408.00521)|null|
@@ -149,6 +149,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Multi-Scale Neighborhood Occupancy Masked Autoencoder for Self-Supervised Learning in LiDAR Point Clouds**|Mohamed Abdelsamad et.al.|[2502.20316](http://arxiv.org/abs/2502.20316)|null|
+|**2025-02-27**|**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**|Meng Lou et.al.|[2502.20087](http://arxiv.org/abs/2502.20087)|null|
+|**2025-02-27**|**SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation**|Zijie Zhou et.al.|[2502.20077](http://arxiv.org/abs/2502.20077)|**[link](https://github.com/ZhouZijie77/SegLocNet)**|
+|**2025-02-27**|**3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds**|Hengshuo Chu et.al.|[2502.20041](http://arxiv.org/abs/2502.20041)|null|
+|**2025-02-27**|**Learning Mask Invariant Mutual Information for Masked Image Modeling**|Tao Huang et.al.|[2502.19718](http://arxiv.org/abs/2502.19718)|null|
 |**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[2502.19177](http://arxiv.org/abs/2502.19177)|null|
 |**2025-02-26**|**Enhanced Neuromorphic Semantic Segmentation Latency through Stream Event**|D. Hareb et.al.|[2502.18982](http://arxiv.org/abs/2502.18982)|null|
 |**2025-02-22**|**Multi-Teacher Knowledge Distillation with Reinforcement Learning for Visual Recognition**|Chuanguang Yang et.al.|[2502.18510](http://arxiv.org/abs/2502.18510)|null|
