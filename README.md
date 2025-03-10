@@ -209,7 +209,7 @@
 |**2025-02-16**|**Detecting Cadastral Boundary from Satellite Images Using U-Net model**|Neda Rahimpour Anaraki et.al.|[2502.11044](http://arxiv.org/abs/2502.11044)|null|
 |**2025-02-15**|**NPSim: Nighttime Photorealistic Simulation From Daytime Images With Monocular Inverse Rendering and Ray Tracing**|Shutong Zhang et.al.|[2502.10720](http://arxiv.org/abs/2502.10720)|null|
 |**2025-02-15**|**Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation using A Novel Dataset**|Muhammad Ashad Kabir et.al.|[2502.10652](http://arxiv.org/abs/2502.10652)|null|
-|**2025-02-14**|**Artificial Intelligence to Assess Dental Findings from Panoramic Radiographs -- A Multinational Study**|Yin-Chih Chelsea Wang et.al.|[2502.10277](http://arxiv.org/abs/2502.10277)|null|
+|**2025-02-14**|**Artificial Intelligence to Assess Dental Findings from Panoramic Radiographs -- A Multinational Study**|Yin-Chih Chelsea Wang et.al.|[2502.10277](http://arxiv.org/abs/2502.10277)|**[link](https://github.com/stmharry/dental-pano-ai)**|
 |**2025-02-13**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al.|[2502.09520](http://arxiv.org/abs/2502.09520)|**[link](https://github.com/frapez1/SQ-GAN)**|
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 |**2025-02-13**|**Latents of latents to delineate pixels: hybrid Matryoshka autoencoder-to-U-Net pairing for segmenting large medical images in GPU-poor and low-data regimes**|Tahir Syed et.al.|[2502.08988](http://arxiv.org/abs/2502.08988)|null|
@@ -628,7 +628,7 @@
 |**2024-09-15**|**Semantic2D: A Semantic Dataset for 2D Lidar Semantic Segmentation**|Zhanteng Xie et.al.|[2409.09899](http://arxiv.org/abs/2409.09899)|null|
 |**2024-09-15**|**Resolving Inconsistent Semantics in Multi-Dataset Image Segmentation**|Qilong Zhangli et.al.|[2409.09893](http://arxiv.org/abs/2409.09893)|null|
 |**2024-09-15**|**High Definition Map Mapping and Update: A General Overview and Future Directions**|Benny Wijaya et.al.|[2409.09726](http://arxiv.org/abs/2409.09726)|null|
-|**2024-09-14**|**Multi-Scale Grouped Prototypes for Interpretable Semantic Segmentation**|Hugo Porta et.al.|[2409.09497](http://arxiv.org/abs/2409.09497)|null|
+|**2024-09-14**|**Multi-Scale Grouped Prototypes for Interpretable Semantic Segmentation**|Hugo Porta et.al.|[2409.09497](http://arxiv.org/abs/2409.09497)|**[link](https://github.com/eceo-epfl/scaleprotoseg)**|
 |**2024-09-13**|**AWF: Adaptive Weight Fusion for Enhanced Class Incremental Semantic Segmentation**|Zechao Sun et.al.|[2409.08516](http://arxiv.org/abs/2409.08516)|null|
 |**2024-09-13**|**VistaFormer: Scalable Vision Transformers for Satellite Image Time Series Segmentation**|Ezra MacDonald et.al.|[2409.08461](http://arxiv.org/abs/2409.08461)|**[link](https://github.com/macdonaldezra/VistaFormer)**|
 |**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
@@ -1178,7 +1178,7 @@
 |**2024-03-26**|**PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition**|Chenhongyi Yang et.al.|[2403.17695](http://arxiv.org/abs/2403.17695)|**[link](https://github.com/chenhongyiyang/plainmamba)**|
 |**2024-03-25**|**Optimizing LiDAR Placements for Robust Driving Perception in Adverse Conditions**|Ye Li et.al.|[2403.17009](http://arxiv.org/abs/2403.17009)|**[link](https://github.com/ywyeli/place3d)**|
 |**2024-03-25**|**DreamLIP: Language-Image Pre-training with Long Captions**|Kecheng Zheng et.al.|[2403.17007](http://arxiv.org/abs/2403.17007)|**[link](https://github.com/zyf0619sjtu/DreamLIP)**|
-|**2024-03-25**|**TwinLiteNetPlus: A Stronger Model for Real-time Drivable Area and Lane Segmentation**|Quang-Huy Che et.al.|[2403.16958](http://arxiv.org/abs/2403.16958)|null|
+|**2024-03-25**|**TwinLiteNetPlus: A Stronger Model for Real-time Drivable Area and Lane Segmentation**|Quang-Huy Che et.al.|[2403.16958](http://arxiv.org/abs/2403.16958)|**[link](https://github.com/chequanghuy/TwinLiteNetPlus)**|
 |**2024-03-25**|**HPL-ESS: Hybrid Pseudo-Labeling for Unsupervised Event-based Semantic Segmentation**|Linglin Jing et.al.|[2403.16788](http://arxiv.org/abs/2403.16788)|null|
 |**2024-03-25**|**SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation**|Aysim Toker et.al.|[2403.16605](http://arxiv.org/abs/2403.16605)|null|
 |**2024-03-25**|**Self-Supervised Learning for Medical Image Data with Anatomy-Oriented Imaging Planes**|Tianwei Zhang et.al.|[2403.16499](http://arxiv.org/abs/2403.16499)|null|
