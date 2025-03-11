@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Task-Specific Knowledge Distillation from the Vision Foundation Model for Enhanced Medical Image Segmentation**|Pengchen Liang et.al.|[2503.06976](http://arxiv.org/abs/2503.06976)|null|
+|**2025-03-10**|**Semi-Supervised Medical Image Segmentation via Knowledge Mining from Large Models**|Yuchen Mao et.al.|[2503.06816](http://arxiv.org/abs/2503.06816)|null|
 |**2025-03-04**|**COMMA: Coordinate-aware Modulated Mamba Network for 3D Dispersed Vessel Segmentation**|Gen Shi et.al.|[2503.02332](http://arxiv.org/abs/2503.02332)|null|
 |**2025-03-03**|**Enhancing Retinal Vessel Segmentation Generalization via Layout-Aware Generative Modelling**|Jonathan Fhima et.al.|[2503.01190](http://arxiv.org/abs/2503.01190)|null|
 |**2025-02-19**|**UNGT: Ultrasound Nasogastric Tube Dataset for Medical Image Analysis**|Zhaoshan Liu et.al.|[2502.14915](http://arxiv.org/abs/2502.14915)|null|
@@ -151,6 +153,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**Semantic Communications with Computer Vision Sensing for Edge Video Transmission**|Yubo Peng et.al.|[2503.07252](http://arxiv.org/abs/2503.07252)|null|
+|**2025-03-10**|**OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation**|Ding Zhong et.al.|[2503.07098](http://arxiv.org/abs/2503.07098)|null|
+|**2025-03-10**|**Aligning Instance-Semantic Sparse Representation towards Unsupervised Object Segmentation and Shape Abstraction with Repeatable Primitives**|Jiaxin Li et.al.|[2503.06947](http://arxiv.org/abs/2503.06947)|null|
+|**2025-03-10**|**HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors**|Siyu Li et.al.|[2503.06821](http://arxiv.org/abs/2503.06821)|null|
+|**2025-03-09**|**CoDa-4DGS: Dynamic Gaussian Splatting with Context and Deformation Awareness for Autonomous Driving**|Rui Song et.al.|[2503.06744](http://arxiv.org/abs/2503.06744)|null|
+|**2025-03-09**|**MemorySAM: Memorize Modalities and Semantics with Segment Anything Model 2 for Multi-modal Semantic Segmentation**|Chenfei Liao et.al.|[2503.06700](http://arxiv.org/abs/2503.06700)|null|
+|**2025-03-09**|**Asymmetric Decision-Making in Online Knowledge Distillation:Unifying Consensus and Divergence**|Zhaowei Chen et.al.|[2503.06685](http://arxiv.org/abs/2503.06685)|null|
+|**2025-03-09**|**Steerable Pyramid Weighted Loss: Multi-Scale Adaptive Weighting for Semantic Segmentation**|Renhao Lu et.al.|[2503.06604](http://arxiv.org/abs/2503.06604)|null|
+|**2025-03-09**|**MultiCo3D: Multi-Label Voxel Contrast for One-Shot Incremental Segmentation of 3D Neuroimages**|Hao Xu et.al.|[2503.06598](http://arxiv.org/abs/2503.06598)|null|
+|**2025-03-08**|**ACAM-KD: Adaptive and Cooperative Attention Masking for Knowledge Distillation**|Qizhen Lan et.al.|[2503.06307](http://arxiv.org/abs/2503.06307)|null|
+|**2025-03-08**|**PointDiffuse: A Dual-Conditional Diffusion Model for Enhanced Point Cloud Semantic Segmentation**|Yong He et.al.|[2503.06094](http://arxiv.org/abs/2503.06094)|null|
 |**2025-03-07**|**Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction**|Shuo Jiang et.al.|[2503.05231](http://arxiv.org/abs/2503.05231)|null|
 |**2025-03-08**|**EvidMTL: Evidential Multi-Task Learning for Uncertainty-Aware Semantic Surface Mapping from Monocular RGB Images**|Rohit Menon et.al.|[2503.04441](http://arxiv.org/abs/2503.04441)|null|
 |**2025-03-06**|**PointsToWood: A deep learning framework for complete canopy leaf-wood segmentation of TLS data across diverse European forests**|Harry J. F. Owen et.al.|[2503.04420](http://arxiv.org/abs/2503.04420)|null|
