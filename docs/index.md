@@ -177,7 +177,7 @@ layout: default
 |**2025-03-04**|**TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**|Xinying Hong et.al.|[2503.02578](http://arxiv.org/abs/2503.02578)|**[link](https://github.com/krabs-h/ts-cgnet)**|
 |**2025-03-04**|**Exploring Token-Level Augmentation in Vision Transformer for Semi-Supervised Semantic Segmentation**|Dengke Zhang et.al.|[2503.02459](http://arxiv.org/abs/2503.02459)|null|
 |**2025-03-03**|**SAGE: A Framework of Precise Retrieval for RAG**|Jintao Zhang et.al.|[2503.01713](http://arxiv.org/abs/2503.01713)|null|
-|**2025-03-04**|**UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface**|Hao Tang et.al.|[2503.01342](http://arxiv.org/abs/2503.01342)|null|
+|**2025-03-04**|**UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface**|Hao Tang et.al.|[2503.01342](http://arxiv.org/abs/2503.01342)|**[link](https://github.com/nnnth/UFO)**|
 |**2025-03-03**|**Convex Hull-based Algebraic Constraint for Visual Quadric SLAM**|Xiaolong Yu et.al.|[2503.01254](http://arxiv.org/abs/2503.01254)|**[link](https://github.com/tiev-tongji/convexhull-based-algebraic-constraint)**|
 |**2025-03-03**|**Identity documents recognition and detection using semantic segmentation with convolutional neural network**|Mykola Kozlenko et.al.|[2503.01085](http://arxiv.org/abs/2503.01085)|null|
 |**2025-03-02**|**Using Synthetic Images to Augment Small Medical Image Datasets**|Minh H. Vu et.al.|[2503.00962](http://arxiv.org/abs/2503.00962)|null|
@@ -284,7 +284,7 @@ layout: default
 |**2025-01-22**|**Revisiting Data Augmentation for Ultrasound Images**|Adam Tupper et.al.|[2501.13193](http://arxiv.org/abs/2501.13193)|**[link](https://github.com/adamtupper/ultrasound-augmentation)**|
 |**2025-01-22**|**A Novel Scene Coupling Semantic Mask Network for Remote Sensing Image Segmentation**|Xiaowen Ma et.al.|[2501.13130](http://arxiv.org/abs/2501.13130)|**[link](https://github.com/xwmaxwma/rssegmentation)**|
 |**2025-01-22**|**Hybridization of Attention UNet with Repeated Atrous Spatial Pyramid Pooling for Improved Brain Tumour Segmentation**|Satyaki Roy Chowdhury et.al.|[2501.13129](http://arxiv.org/abs/2501.13129)|null|
-|**2025-01-22**|**Enhancing Monocular Depth Estimation with Multi-Source Auxiliary Tasks**|Alessio Quercia et.al.|[2501.12824](http://arxiv.org/abs/2501.12824)|null|
+|**2025-01-22**|**Enhancing Monocular Depth Estimation with Multi-Source Auxiliary Tasks**|Alessio Quercia et.al.|[2501.12824](http://arxiv.org/abs/2501.12824)|**[link](https://github.com/AlessioQuercia/mdeaux)**|
 |**2025-01-19**|**Comparative Analysis of Hand-Crafted and Machine-Driven Histopathological Features for Prostate Cancer Classification and Segmentation**|Feda Bolus Al Baqain et.al.|[2501.12415](http://arxiv.org/abs/2501.12415)|null|
 |**2025-01-21**|**Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems**|Stefano Carlo Lambertenghi et.al.|[2501.12269](http://arxiv.org/abs/2501.12269)|**[link](https://github.com/ast-fortiss-tum/perturbation-drive)**|
 |**2025-01-21**|**A margin-based replacement for cross-entropy loss**|Michael W. Spratling et.al.|[2501.12191](http://arxiv.org/abs/2501.12191)|null|
