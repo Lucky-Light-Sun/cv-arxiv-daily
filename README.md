@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -107,7 +107,7 @@
 |**2023-11-17**|**CATS v2: Hybrid encoders for robust medical segmentation**|Hao Li et.al.|[2308.06377](http://arxiv.org/abs/2308.06377)|**[link](https://github.com/haoli12345/cats)**|
 |**2023-08-10**|**From CNN to Transformer: A Review of Medical Image Segmentation Models**|Wenjian Yao et.al.|[2308.05305](http://arxiv.org/abs/2308.05305)|null|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## diffusion model
 
@@ -148,7 +148,7 @@
 |**2021-10-31**|**Role of Thermal and Non-thermal Processes in the ISM of Magellanic Clouds**|H. Hassani et.al.|[2111.00583](http://arxiv.org/abs/2111.00583)|null|
 |**2023-04-14**|**Variational Diffusion Models**|Diederik P. Kingma et.al.|[2107.00630](http://arxiv.org/abs/2107.00630)|**[link](https://github.com/google-research/vdm)**|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## semantic segmentation
 
@@ -1542,7 +1542,7 @@
 |**2023-12-05**|**DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control**|Yuru Jia et.al.|[2312.03048](http://arxiv.org/abs/2312.03048)|null|
 |**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593](http://arxiv.org/abs/2312.02593)|**[link](https://github.com/kulunuos/6dapose)**|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## fine-tune
 
@@ -1558,7 +1558,7 @@
 |**2024-12-17**|**Preference-Oriented Supervised Fine-Tuning: Favoring Target Model Over Aligned Large Language Models**|Yuchen Fan et.al.|[2412.12865](http://arxiv.org/abs/2412.12865)|**[link](https://github.com/Savannah120/alignment-handbook-PoFT)**|
 |**2024-11-30**|**Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models**|Sanghyun Kim et.al.|[2412.00357](http://arxiv.org/abs/2412.00357)|null|
 |**2024-11-29**|**Effective Fine-Tuning of Vision-Language Models for Accurate Galaxy Morphology Analysis**|Ruoqi Wang et.al.|[2411.19475](http://arxiv.org/abs/2411.19475)|null|
-|**2024-11-10**|**DELIFT: Data Efficient Language model Instruction Fine Tuning**|Ishika Agarwal et.al.|[2411.04425](http://arxiv.org/abs/2411.04425)|**[link](https://github.com/agarwalishika/delift)**|
+|**2025-03-20**|**DELIFT: Data Efficient Language model Instruction Fine Tuning**|Ishika Agarwal et.al.|[2411.04425](http://arxiv.org/abs/2411.04425)|**[link](https://github.com/agarwalishika/delift)**|
 |**2024-10-28**|**LoRA vs Full Fine-tuning: An Illusion of Equivalence**|Reece Shuttleworth et.al.|[2410.21228](http://arxiv.org/abs/2410.21228)|null|
 |**2024-10-26**|**Beyond Fine-Tuning: Effective Strategies for Mitigating Hallucinations in Large Language Models for Data Analytics**|Mikhail Rumiantsau et.al.|[2410.20024](http://arxiv.org/abs/2410.20024)|null|
 |**2024-10-14**|**Balancing Continuous Pre-Training and Instruction Fine-Tuning: Optimizing Instruction-Following in LLMs**|Ishan Jindal et.al.|[2410.10739](http://arxiv.org/abs/2410.10739)|null|
@@ -1606,7 +1606,7 @@
 |**2022-10-17**|**Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks**|Run Wang et.al.|[2210.07809](http://arxiv.org/abs/2210.07809)|**[link](https://github.com/antigonerandy/ptynet)**|
 |**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995](http://arxiv.org/abs/2209.06995)|**[link](https://github.com/yueyu1030/patron)**|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## diffusion-segmentation
 
@@ -1619,7 +1619,7 @@
 |**2023-07-17**|**Multimodal Diffusion Segmentation Model for Object Segmentation from Manipulation Instructions**|Yui Iioka et.al.|[2307.08597](http://arxiv.org/abs/2307.08597)|null|
 |**2019-02-11**|**Pinned or moving: states of a single shock in a ring**|Parna Roy et.al.|[1902.03897](http://arxiv.org/abs/1902.03897)|null|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

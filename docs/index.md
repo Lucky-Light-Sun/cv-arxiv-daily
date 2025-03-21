@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -1545,7 +1545,7 @@ layout: default
 |**2024-12-17**|**Preference-Oriented Supervised Fine-Tuning: Favoring Target Model Over Aligned Large Language Models**|Yuchen Fan et.al.|[2412.12865](http://arxiv.org/abs/2412.12865)|**[link](https://github.com/Savannah120/alignment-handbook-PoFT)**|
 |**2024-11-30**|**Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models**|Sanghyun Kim et.al.|[2412.00357](http://arxiv.org/abs/2412.00357)|null|
 |**2024-11-29**|**Effective Fine-Tuning of Vision-Language Models for Accurate Galaxy Morphology Analysis**|Ruoqi Wang et.al.|[2411.19475](http://arxiv.org/abs/2411.19475)|null|
-|**2024-11-10**|**DELIFT: Data Efficient Language model Instruction Fine Tuning**|Ishika Agarwal et.al.|[2411.04425](http://arxiv.org/abs/2411.04425)|**[link](https://github.com/agarwalishika/delift)**|
+|**2025-03-20**|**DELIFT: Data Efficient Language model Instruction Fine Tuning**|Ishika Agarwal et.al.|[2411.04425](http://arxiv.org/abs/2411.04425)|**[link](https://github.com/agarwalishika/delift)**|
 |**2024-10-28**|**LoRA vs Full Fine-tuning: An Illusion of Equivalence**|Reece Shuttleworth et.al.|[2410.21228](http://arxiv.org/abs/2410.21228)|null|
 |**2024-10-26**|**Beyond Fine-Tuning: Effective Strategies for Mitigating Hallucinations in Large Language Models for Data Analytics**|Mikhail Rumiantsau et.al.|[2410.20024](http://arxiv.org/abs/2410.20024)|null|
 |**2024-10-14**|**Balancing Continuous Pre-Training and Instruction Fine-Tuning: Optimizing Instruction-Following in LLMs**|Ishan Jindal et.al.|[2410.10739](http://arxiv.org/abs/2410.10739)|null|
