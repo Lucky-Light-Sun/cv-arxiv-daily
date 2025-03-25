@@ -108,7 +108,7 @@ layout: default
 |**2025-02-27**|**Do generative video models understand physical principles?**|Saman Motamed et.al.|[2501.09038](http://arxiv.org/abs/2501.09038)|**[link](https://github.com/google-deepmind/physics-IQ-benchmark)**|
 |**2024-12-06**|**DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification**|Ying Jin et.al.|[2412.04828](http://arxiv.org/abs/2412.04828)|null|
 |**2024-09-20**|**SpaceBlender: Creating Context-Rich Collaborative Spaces Through Generative 3D Scene Blending**|Nels Numan et.al.|[2409.13926](http://arxiv.org/abs/2409.13926)|null|
-|**2024-08-01**|**A new approach for encoding code and assisting code understanding**|Mengdan Fan et.al.|[2408.00521](http://arxiv.org/abs/2408.00521)|null|
+|**2025-03-23**|**A new approach for encoding code and assisting code understanding**|Mengdan Fan et.al.|[2408.00521](http://arxiv.org/abs/2408.00521)|null|
 |**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135](http://arxiv.org/abs/2407.06135)|**[link](https://github.com/gair-nlp/anole)**|
 |**2024-05-01**|**ASAM: Boosting Segment Anything Model with Adversarial Tuning**|Bo Li et.al.|[2405.00256](http://arxiv.org/abs/2405.00256)|**[link](https://github.com/luckybird1994/ASAM)**|
 |**2024-03-30**|**Multiway Point Cloud Mosaicking with Diffusion and Global Optimization**|Shengze Jin et.al.|[2404.00429](http://arxiv.org/abs/2404.00429)|null|
@@ -144,6 +144,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|null|
+|**2025-03-24**|**Exploring the Integration of Key-Value Attention Into Pure and Hybrid Transformers for Semantic Segmentation**|DeShin Hwa et.al.|[2503.18862](http://arxiv.org/abs/2503.18862)|null|
+|**2025-03-24**|**HiRes-FusedMIM: A High-Resolution RGB-DSM Pre-trained Model for Building-Level Remote Sensing Applications**|Guneet Mutreja et.al.|[2503.18540](http://arxiv.org/abs/2503.18540)|null|
+|**2025-03-24**|**Benchmarking Multi-modal Semantic Segmentation under Sensor Failures: Missing and Noisy Modality Robustness**|Chenfei Liao et.al.|[2503.18445](http://arxiv.org/abs/2503.18445)|null|
+|**2025-03-24**|**PDDM: Pseudo Depth Diffusion Model for RGB-PD Semantic Segmentation Based in Complex Indoor Scenes**|Xinhua Xu et.al.|[2503.18393](http://arxiv.org/abs/2503.18393)|null|
+|**2025-03-24**|**MaSS13K: A Matting-level Semantic Segmentation Benchmark**|Chenxi Xie et.al.|[2503.18364](http://arxiv.org/abs/2503.18364)|null|
+|**2025-03-23**|**Co-SemDepth: Fast Joint Semantic Segmentation and Depth Estimation on Aerial Images**|Yara AlaaEldin et.al.|[2503.17982](http://arxiv.org/abs/2503.17982)|null|
+|**2025-03-23**|**FisherTune: Fisher-Guided Robust Tuning of Vision Foundation Models for Domain Generalized Segmentation**|Dong Zhao et.al.|[2503.17940](http://arxiv.org/abs/2503.17940)|null|
+|**2025-03-23**|**Semi-supervised Semantic Segmentation with Multi-Constraint Consistency Learning**|Jianjian Yin et.al.|[2503.17914](http://arxiv.org/abs/2503.17914)|null|
+|**2025-03-22**|**HiLoTs: High-Low Temporal Sensitive Representation Learning for Semi-Supervised LiDAR Segmentation in Autonomous Driving**|R. D. Lin et.al.|[2503.17752](http://arxiv.org/abs/2503.17752)|null|
+|**2025-03-22**|**Multi-modality Anomaly Segmentation on the Road**|Heng Gao et.al.|[2503.17712](http://arxiv.org/abs/2503.17712)|null|
+|**2025-03-21**|**Should we pre-train a decoder in contrastive learning for dense prediction tasks?**|Sébastien Quetin et.al.|[2503.17526](http://arxiv.org/abs/2503.17526)|null|
 |**2025-03-21**|**Center-guided Classifier for Semantic Segmentation of Remote Sensing Images**|Wei Zhang et.al.|[2503.16963](http://arxiv.org/abs/2503.16963)|null|
 |**2025-03-21**|**Seg2Box: 3D Object Detection by Point-Wise Semantics Supervision**|Maoji Zheng et.al.|[2503.16811](http://arxiv.org/abs/2503.16811)|null|
 |**2025-03-20**|**SAGE: Semantic-Driven Adaptive Gaussian Splatting in Extended Reality**|Chiara Schiavo et.al.|[2503.16747](http://arxiv.org/abs/2503.16747)|null|
@@ -1545,6 +1557,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Diffusion-4K: Ultra-High-Resolution Image Synthesis with Latent Diffusion Models**|Jinjin Zhang et.al.|[2503.18352](http://arxiv.org/abs/2503.18352)|null|
 |**2025-03-19**|**Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**|Gang Li et.al.|[2503.11197](http://arxiv.org/abs/2503.11197)|**[link](https://github.com/xiaomi-research/r1-aqa)**|
 |**2025-03-04**|**Normalization through Fine-tuning: Understanding Wav2vec 2.0 Embeddings for Phonetic Analysis**|Yiming Wang et.al.|[2503.04814](http://arxiv.org/abs/2503.04814)|null|
 |**2025-03-06**|**DM-Adapter: Domain-Aware Mixture-of-Adapters for Text-Based Person Retrieval**|Yating Liu et.al.|[2503.04144](http://arxiv.org/abs/2503.04144)|null|
