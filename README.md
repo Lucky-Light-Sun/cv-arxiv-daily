@@ -156,6 +156,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**KEVS: Enhancing Segmentation of Visceral Adipose Tissue in Pre-Cystectomy CT with Gaussian Kernel Density Estimation**|Thomas Boucher et.al.|[2503.22592](http://arxiv.org/abs/2503.22592)|null|
+|**2025-03-28**|**Concept-Aware LoRA for Domain-Aligned Segmentation Dataset Generation**|Minho Park et.al.|[2503.22172](http://arxiv.org/abs/2503.22172)|null|
+|**2025-03-28**|**Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation**|Hongmei Yin et.al.|[2503.22136](http://arxiv.org/abs/2503.22136)|null|
+|**2025-03-28**|**Semantic segmentation for building houses from wooden cubes**|Ivan Beleacov et.al.|[2503.22125](http://arxiv.org/abs/2503.22125)|null|
+|**2025-03-28**|**Baseline Systems and Evaluation Metrics for Spatial Semantic Segmentation of Sound Scenes**|Binh Thien Nguyen et.al.|[2503.22088](http://arxiv.org/abs/2503.22088)|null|
+|**2025-03-28**|**A Deep Learning Framework for Boundary-Aware Semantic Segmentation**|Tai An et.al.|[2503.22050](http://arxiv.org/abs/2503.22050)|null|
 |**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|**[link](https://github.com/rezaqorbani/semla)**|
 |**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771](http://arxiv.org/abs/2503.21771)|**[link](https://github.com/hongklin/tide)**|
 |**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449](http://arxiv.org/abs/2503.21449)|**[link](https://github.com/prbonn/3diss)**|
@@ -1584,6 +1590,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**Beyond Vanilla Fine-Tuning: Leveraging Multistage, Multilingual, and Domain-Specific Methods for Low-Resource Machine Translation**|Sarubi Thillainathan et.al.|[2503.22582](http://arxiv.org/abs/2503.22582)|null|
+|**2025-03-28**|**Penrose Tiled Low-Rank Compression and Section-Wise Q&A Fine-Tuning: A General Framework for Domain-Specific Large Language Model Adaptation**|Chuan-Wei Kuo et.al.|[2503.22074](http://arxiv.org/abs/2503.22074)|null|
 |**2025-03-28**|**Diffusion-4K: Ultra-High-Resolution Image Synthesis with Latent Diffusion Models**|Jinjin Zhang et.al.|[2503.18352](http://arxiv.org/abs/2503.18352)|**[link](https://github.com/zhang0jhon/diffusion-4k)**|
 |**2025-03-19**|**Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**|Gang Li et.al.|[2503.11197](http://arxiv.org/abs/2503.11197)|**[link](https://github.com/xiaomi-research/r1-aqa)**|
 |**2025-03-04**|**Normalization through Fine-tuning: Understanding Wav2vec 2.0 Embeddings for Phonetic Analysis**|Yiming Wang et.al.|[2503.04814](http://arxiv.org/abs/2503.04814)|null|
