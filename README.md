@@ -176,7 +176,7 @@
 |**2025-03-31**|**Semantic Packet Aggregation and Repeated Transmission for Text-to-Image Generation**|Seunghun Lee et.al.|[2503.23734](http://arxiv.org/abs/2503.23734)|null|
 |**2025-04-02**|**CrossFormer: Cross-Segment Semantic Fusion for Document Segmentation**|Tongke Ni et.al.|[2503.23671](http://arxiv.org/abs/2503.23671)|null|
 |**2025-03-30**|**BoundMatch: Boundary detection applied to semi-supervised segmentation for urban-driving scenes**|Haruya Ishikawa et.al.|[2503.23519](http://arxiv.org/abs/2503.23519)|null|
-|**2025-03-30**|**Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention**|Xin Zuo et.al.|[2503.23422](http://arxiv.org/abs/2503.23422)|null|
+|**2025-03-30**|**Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention**|Xin Zuo et.al.|[2503.23422](http://arxiv.org/abs/2503.23422)|**[link](https://github.com/sawrjj/uwsegformer)**|
 |**2025-03-29**|**Open-Vocabulary Semantic Segmentation with Uncertainty Alignment for Robotic Scene Understanding in Indoor Building Environments**|Yifan Xu et.al.|[2503.23105](http://arxiv.org/abs/2503.23105)|null|
 |**2025-03-28**|**The Marine Debris Forward-Looking Sonar Datasets**|Matias Valdenegro-Toro et.al.|[2503.22880](http://arxiv.org/abs/2503.22880)|null|
 |**2025-03-28**|**KEVS: Enhancing Segmentation of Visceral Adipose Tissue in Pre-Cystectomy CT with Gaussian Kernel Density Estimation**|Thomas Boucher et.al.|[2503.22592](http://arxiv.org/abs/2503.22592)|null|
@@ -730,7 +730,7 @@
 |**2024-09-17**|**MSDNet: Multi-Scale Decoder for Few-Shot Semantic Segmentation via Transformer-Guided Prototyping**|Amirreza Fateh et.al.|[2409.11316](http://arxiv.org/abs/2409.11316)|**[link](https://github.com/amirrezafateh/msdnet)**|
 |**2024-09-17**|**Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark**|Clifford Broni-Bediako et.al.|[2409.11227](http://arxiv.org/abs/2409.11227)|**[link](https://github.com/cliffbb/oem-fewshot-challenge)**|
 |**2024-09-17**|**HS3-Bench: A Benchmark and Strong Baseline for Hyperspectral Semantic Segmentation in Driving Scenarios**|Nick Theisen et.al.|[2409.11205](http://arxiv.org/abs/2409.11205)|**[link](https://github.com/nickstheisen/hyperseg)**|
-|**2024-09-16**|**Frequency-Guided Masking for Enhanced Vision Self-Supervised Learning**|Amin Karimi Monsefi et.al.|[2409.10362](http://arxiv.org/abs/2409.10362)|null|
+|**2024-09-16**|**Frequency-Guided Masking for Enhanced Vision Self-Supervised Learning**|Amin Karimi Monsefi et.al.|[2409.10362](http://arxiv.org/abs/2409.10362)|**[link](https://github.com/amink8/folk)**|
 |**2024-09-16**|**BAFNet: Bilateral Attention Fusion Network for Lightweight Semantic Segmentation of Urban Remote Sensing Images**|Wentao Wang et.al.|[2409.10269](http://arxiv.org/abs/2409.10269)|null|
 |**2024-09-15**|**Semantic2D: A Semantic Dataset for 2D Lidar Semantic Segmentation**|Zhanteng Xie et.al.|[2409.09899](http://arxiv.org/abs/2409.09899)|null|
 |**2024-09-15**|**Resolving Inconsistent Semantics in Multi-Dataset Image Segmentation**|Qilong Zhangli et.al.|[2409.09893](http://arxiv.org/abs/2409.09893)|null|
