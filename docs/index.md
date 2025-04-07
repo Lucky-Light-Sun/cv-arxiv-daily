@@ -148,6 +148,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|null|
+|**2025-04-02**|**Global Rice Multi-Class Segmentation Dataset (RiceSEG): A Comprehensive and Diverse High-Resolution RGB-Annotated Images for the Development and Benchmarking of Rice Segmentation Algorithms**|Junchi Zhou et.al.|[2504.02880](http://arxiv.org/abs/2504.02880)|null|
 |**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647](http://arxiv.org/abs/2504.02647)|null|
 |**2025-04-03**|**Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation**|Changshuo Wang et.al.|[2504.02454](http://arxiv.org/abs/2504.02454)|null|
 |**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
