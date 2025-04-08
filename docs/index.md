@@ -148,6 +148,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Balancing Robustness and Efficiency in Embedded DNNs Through Activation Function Selection**|Jon Gutiérrez Zaballa et.al.|[2504.05119](http://arxiv.org/abs/2504.05119)|null|
+|**2025-04-07**|**DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation**|Bo-Wen Yin et.al.|[2504.04701](http://arxiv.org/abs/2504.04701)|null|
+|**2025-04-05**|**CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation**|Kai Fang et.al.|[2504.04156](http://arxiv.org/abs/2504.04156)|null|
+|**2025-04-05**|**DocSAM: Unified Document Image Segmentation via Query Decomposition and Heterogeneous Mixed Learning**|Xiao-Hui Li et.al.|[2504.04085](http://arxiv.org/abs/2504.04085)|null|
 |**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|null|
 |**2025-04-02**|**Global Rice Multi-Class Segmentation Dataset (RiceSEG): A Comprehensive and Diverse High-Resolution RGB-Annotated Images for the Development and Benchmarking of Rice Segmentation Algorithms**|Junchi Zhou et.al.|[2504.02880](http://arxiv.org/abs/2504.02880)|null|
 |**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647](http://arxiv.org/abs/2504.02647)|null|
