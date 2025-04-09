@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling**|Qing Xu et.al.|[2504.06205](http://arxiv.org/abs/2504.06205)|**[link](https://github.com/xq141839/HRMedSeg)**|
 |**2025-04-02**|**Test-time Adaptation for Foundation Medical Segmentation Model without Parametric Updates**|Kecheng Chen et.al.|[2504.02008](http://arxiv.org/abs/2504.02008)|null|
 |**2025-04-02**|**BiSeg-SAM: Weakly-Supervised Post-Processing Framework for Boosting Binary Segmentation in Segment Anything Models**|Encheng Su et.al.|[2504.01452](http://arxiv.org/abs/2504.01452)|null|
 |**2025-03-28**|**Zero-shot Domain Generalization of Foundational Models for 3D Medical Image Segmentation: An Experimental Study**|Soumitri Chattopadhyay et.al.|[2503.22862](http://arxiv.org/abs/2503.22862)|null|
@@ -148,6 +149,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|null|
+|**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185](http://arxiv.org/abs/2504.06185)|null|
+|**2025-04-08**|**Towards Varroa destructor mite detection using a narrow spectra illumination**|Samuel Bielik et.al.|[2504.06099](http://arxiv.org/abs/2504.06099)|null|
+|**2025-04-08**|**econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians**|Can Zhang et.al.|[2504.06003](http://arxiv.org/abs/2504.06003)|null|
+|**2025-04-08**|**Turin3D: Evaluating Adaptation Strategies under Label Scarcity in Urban LiDAR Segmentation with Semi-Supervised Techniques**|Luca Barco et.al.|[2504.05882](http://arxiv.org/abs/2504.05882)|null|
+|**2025-04-08**|**DefMamba: Deformable Visual State Space Model**|Leiye Liu et.al.|[2504.05794](http://arxiv.org/abs/2504.05794)|null|
+|**2025-04-08**|**Transferable Mask Transformer: Cross-domain Semantic Segmentation with Region-adaptive Transferability Estimation**|Enming Zhang et.al.|[2504.05774](http://arxiv.org/abs/2504.05774)|null|
 |**2025-04-07**|**Balancing Robustness and Efficiency in Embedded DNNs Through Activation Function Selection**|Jon Gutiérrez Zaballa et.al.|[2504.05119](http://arxiv.org/abs/2504.05119)|null|
 |**2025-04-07**|**DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation**|Bo-Wen Yin et.al.|[2504.04701](http://arxiv.org/abs/2504.04701)|**[link](https://github.com/VCIP-RGBD/DFormer)**|
 |**2025-04-05**|**CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation**|Kai Fang et.al.|[2504.04156](http://arxiv.org/abs/2504.04156)|null|
