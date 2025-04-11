@@ -149,6 +149,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Distilling Knowledge from Heterogeneous Architectures for Semantic Segmentation**|Yanglin Huang et.al.|[2504.07691](http://arxiv.org/abs/2504.07691)|null|
+|**2025-04-10**|**RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability**|Jonggwon Park et.al.|[2504.07416](http://arxiv.org/abs/2504.07416)|null|
 |**2025-04-09**|**RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration**|Omar Alama et.al.|[2504.06994](http://arxiv.org/abs/2504.06994)|null|
 |**2025-04-09**|**Domain Generalization through Attenuation of Domain-Specific Information**|Reiji Saito et.al.|[2504.06781](http://arxiv.org/abs/2504.06781)|null|
 |**2025-04-08**|**SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation**|Hritam Basak et.al.|[2504.06389](http://arxiv.org/abs/2504.06389)|null|
