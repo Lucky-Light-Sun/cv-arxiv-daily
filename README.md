@@ -160,6 +160,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing**|Vinal Asodia et.al.|[2504.08704](http://arxiv.org/abs/2504.08704)|null|
+|**2025-04-11**|**SN-LiDAR: Semantic Neural Fields for Novel Space-time View LiDAR Synthesis**|Yi Chen et.al.|[2504.08361](http://arxiv.org/abs/2504.08361)|null|
+|**2025-04-11**|**DSM: Building A Diverse Semantic Map for 3D Visual Grounding**|Qinghongbing Xie et.al.|[2504.08307](http://arxiv.org/abs/2504.08307)|null|
+|**2025-04-10**|**ChildlikeSHAPES: Semantic Hierarchical Region Parsing for Animating Figure Drawings**|Astitva Srivastava et.al.|[2504.08022](http://arxiv.org/abs/2504.08022)|null|
 |**2025-04-10**|**Distilling Knowledge from Heterogeneous Architectures for Semantic Segmentation**|Yanglin Huang et.al.|[2504.07691](http://arxiv.org/abs/2504.07691)|null|
 |**2025-04-10**|**RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability**|Jonggwon Park et.al.|[2504.07416](http://arxiv.org/abs/2504.07416)|null|
 |**2025-04-09**|**RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration**|Omar Alama et.al.|[2504.06994](http://arxiv.org/abs/2504.06994)|null|
