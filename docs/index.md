@@ -112,6 +112,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Towards High-Voltage Cathodes for Zinc-Ion Batteries: Discovery Pipeline and Material Design Rules**|Roberta Pascazio et.al.|[2504.11678](http://arxiv.org/abs/2504.11678)|null|
 |**2025-04-12**|**A Robust Lattice Boltzmann Method for Interface-Bound Transport of a Passive Scalar: Application to Surfactant-Laden Multiphase Flows**|William Schupbach et.al.|[2504.09024](http://arxiv.org/abs/2504.09024)|null|
 |**2025-02-27**|**Do generative video models understand physical principles?**|Saman Motamed et.al.|[2501.09038](http://arxiv.org/abs/2501.09038)|**[link](https://github.com/google-deepmind/physics-IQ-benchmark)**|
 |**2024-12-06**|**DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification**|Ying Jin et.al.|[2412.04828](http://arxiv.org/abs/2412.04828)|null|
@@ -152,6 +153,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Remote sensing colour image semantic segmentation of trails created by large herbivorous Mammals**|Jose Francisco Diez-Pastor et.al.|[2504.12121](http://arxiv.org/abs/2504.12121)|null|
+|**2025-04-12**|**SDIGLM: Leveraging Large Language Models and Multi-Modal Chain of Thought for Structural Damage Identification**|Yunkai Zhang et.al.|[2504.11477](http://arxiv.org/abs/2504.11477)|null|
 |**2025-04-15**|**PraNet-V2: Dual-Supervised Reverse Attention for Medical Image Segmentation**|Bo-Cheng Hu et.al.|[2504.10986](http://arxiv.org/abs/2504.10986)|null|
 |**2025-04-15**|**LightFormer: A lightweight and efficient decoder for remote sensing image segmentation**|Sihang Chen et.al.|[2504.10834](http://arxiv.org/abs/2504.10834)|null|
 |**2025-04-15**|**OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding**|Dianbing Xi et.al.|[2504.10825](http://arxiv.org/abs/2504.10825)|null|
