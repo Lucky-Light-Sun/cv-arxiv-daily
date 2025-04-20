@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -155,17 +155,17 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159](http://arxiv.org/abs/2504.13159)|null|
 |**2025-04-17**|**High-Fidelity Image Inpainting with Multimodal Guided GAN Inversion**|Libo Zhang et.al.|[2504.12844](http://arxiv.org/abs/2504.12844)|null|
-|**2025-04-17**|**Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation**|Siyu Chen et.al.|[2504.12753](http://arxiv.org/abs/2504.12753)|null|
+|**2025-04-17**|**Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation**|Siyu Chen et.al.|[2504.12753](http://arxiv.org/abs/2504.12753)|**[link](https://github.com/anonymouse-xzrptkvyqc/depthforge)**|
 |**2025-04-17**|**Parsimonious Dataset Construction for Laparoscopic Cholecystectomy Structure Segmentation**|Yuning Zhou et.al.|[2504.12573](http://arxiv.org/abs/2504.12573)|null|
 |**2025-04-17**|**Privacy-Preserving Operating Room Workflow Analysis using Digital Twins**|Alejandra Perez et.al.|[2504.12552](http://arxiv.org/abs/2504.12552)|null|
 |**2025-04-16**|**Remote sensing colour image semantic segmentation of trails created by large herbivorous Mammals**|Jose Francisco Diez-Pastor et.al.|[2504.12121](http://arxiv.org/abs/2504.12121)|null|
 |**2025-04-12**|**SDIGLM: Leveraging Large Language Models and Multi-Modal Chain of Thought for Structural Damage Identification**|Yunkai Zhang et.al.|[2504.11477](http://arxiv.org/abs/2504.11477)|null|
-|**2025-04-15**|**PraNet-V2: Dual-Supervised Reverse Attention for Medical Image Segmentation**|Bo-Cheng Hu et.al.|[2504.10986](http://arxiv.org/abs/2504.10986)|null|
+|**2025-04-15**|**PraNet-V2: Dual-Supervised Reverse Attention for Medical Image Segmentation**|Bo-Cheng Hu et.al.|[2504.10986](http://arxiv.org/abs/2504.10986)|**[link](https://github.com/ai4colonoscopy/pranet-v2)**|
 |**2025-04-15**|**LightFormer: A lightweight and efficient decoder for remote sensing image segmentation**|Sihang Chen et.al.|[2504.10834](http://arxiv.org/abs/2504.10834)|null|
 |**2025-04-15**|**OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding**|Dianbing Xi et.al.|[2504.10825](http://arxiv.org/abs/2504.10825)|null|
 |**2025-04-15**|**Efficient and Robust Remote Sensing Image Denoising Using Randomized Approximation of Geodesics' Gramian on the Manifold Underlying the Patch Space**|Kelum Gajamannage et.al.|[2504.10820](http://arxiv.org/abs/2504.10820)|null|
 |**2025-04-14**|**Real-time Seafloor Segmentation and Mapping**|Michele Grimaldi et.al.|[2504.10750](http://arxiv.org/abs/2504.10750)|null|
-|**2025-04-14**|**FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation**|Yasser Benigmim et.al.|[2504.10487](http://arxiv.org/abs/2504.10487)|null|
+|**2025-04-14**|**FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation**|Yasser Benigmim et.al.|[2504.10487](http://arxiv.org/abs/2504.10487)|**[link](https://github.com/yasserben/floss)**|
 |**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462](http://arxiv.org/abs/2504.10462)|null|
 |**2025-04-14**|**M2S-RoAD: Multi-Modal Semantic Segmentation for Road Damage Using Camera and LiDAR Data**|Tzu-Yun Tseng et.al.|[2504.10123](http://arxiv.org/abs/2504.10123)|null|
 |**2025-04-14**|**DUDA: Distilled Unsupervised Domain Adaptation for Lightweight Semantic Segmentation**|Beomseok Kang et.al.|[2504.09814](http://arxiv.org/abs/2504.09814)|null|
