@@ -164,6 +164,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Occlusion-Aware Self-Supervised Monocular Depth Estimation for Weak-Texture Endoscopic Images**|Zebo Huang et.al.|[2504.17582](http://arxiv.org/abs/2504.17582)|null|
 |**2025-04-23**|**SemanticSugarBeets: A Multi-Task Framework and Dataset for Inspecting Harvest and Storage Characteristics of Sugar Beets**|Gerardus Croonen et.al.|[2504.16684](http://arxiv.org/abs/2504.16684)|null|
 |**2025-04-23**|**Federated EndoViT: Pretraining Vision Transformers via Federated Learning on Endoscopic Image Collections**|Max Kirchner et.al.|[2504.16612](http://arxiv.org/abs/2504.16612)|null|
 |**2025-04-23**|**SAIP-Net: Enhancing Remote Sensing Image Segmentation via Spectral Adaptive Information Propagation**|Zhongtao Wang et.al.|[2504.16564](http://arxiv.org/abs/2504.16564)|null|
