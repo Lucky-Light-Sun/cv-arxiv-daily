@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -20,7 +20,7 @@ layout: default
 |**2025-04-02**|**Test-time Adaptation for Foundation Medical Segmentation Model without Parametric Updates**|Kecheng Chen et.al.|[2504.02008](http://arxiv.org/abs/2504.02008)|null|
 |**2025-04-02**|**BiSeg-SAM: Weakly-Supervised Post-Processing Framework for Boosting Binary Segmentation in Segment Anything Models**|Encheng Su et.al.|[2504.01452](http://arxiv.org/abs/2504.01452)|null|
 |**2025-03-28**|**Zero-shot Domain Generalization of Foundational Models for 3D Medical Image Segmentation: An Experimental Study**|Soumitri Chattopadhyay et.al.|[2503.22862](http://arxiv.org/abs/2503.22862)|null|
-|**2025-03-25**|**BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts**|Suzhe Xu et.al.|[2503.19769](http://arxiv.org/abs/2503.19769)|null|
+|**2025-04-30**|**BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts**|Suzhe Xu et.al.|[2503.19769](http://arxiv.org/abs/2503.19769)|null|
 |**2025-03-21**|**GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation**|Weihao Yu et.al.|[2503.16976](http://arxiv.org/abs/2503.16976)|null|
 |**2025-03-18**|**Organ-aware Multi-scale Medical Image Segmentation Using Text Prompt Engineering**|Wenjie Zhang et.al.|[2503.13806](http://arxiv.org/abs/2503.13806)|null|
 |**2025-03-10**|**Task-Specific Knowledge Distillation from the Vision Foundation Model for Enhanced Medical Image Segmentation**|Pengchen Liang et.al.|[2503.06976](http://arxiv.org/abs/2503.06976)|null|
