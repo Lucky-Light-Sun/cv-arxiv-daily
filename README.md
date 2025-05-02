@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Automated segmenta-on of pediatric neuroblastoma on multi-modal MRI: Results of the SPPIN challenge at MICCAI 2023**|M. A. D. Buser et.al.|[2505.00369](http://arxiv.org/abs/2505.00369)|null|
 |**2025-04-25**|**Federated Client-tailored Adapter for Medical Image Segmentation**|Guyue Hu et.al.|[2504.18020](http://arxiv.org/abs/2504.18020)|null|
 |**2025-04-12**|**Multi-Modal Brain Tumor Segmentation via 3D Multi-Scale Self-attention and Cross-attention**|Yonghao Huang et.al.|[2504.09088](http://arxiv.org/abs/2504.09088)|null|
 |**2025-04-08**|**HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling**|Qing Xu et.al.|[2504.06205](http://arxiv.org/abs/2504.06205)|**[link](https://github.com/xq141839/HRMedSeg)**|
@@ -165,6 +166,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
+|**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
 |**2025-04-30**|**Real Time Semantic Segmentation of High Resolution Automotive LiDAR Scans**|Hannes Reichert et.al.|[2504.21602](http://arxiv.org/abs/2504.21602)|null|
 |**2025-04-30**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581](http://arxiv.org/abs/2504.21581)|null|
 |**2025-04-30**|**ClassWise-CRF: Category-Specific Fusion for Enhanced Semantic Segmentation of Remote Sensing Imagery**|Qinfeng Zhu et.al.|[2504.21491](http://arxiv.org/abs/2504.21491)|null|
@@ -1692,6 +1695,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**On the generalization of language models from in-context learning and finetuning: a controlled study**|Andrew K. Lampinen et.al.|[2505.00661](http://arxiv.org/abs/2505.00661)|null|
 |**2025-04-25**|**Semantic-Aware Contrastive Fine-Tuning: Boosting Multimodal Malware Classification with Discriminative Embeddings**|Ivan Montoya Sanchez et.al.|[2504.21028](http://arxiv.org/abs/2504.21028)|null|
 |**2025-04-18**|**Parameter-Efficient Continual Fine-Tuning: A Survey**|Eric Nuertey Coleman et.al.|[2504.13822](http://arxiv.org/abs/2504.13822)|null|
 |**2025-03-28**|**Beyond Vanilla Fine-Tuning: Leveraging Multistage, Multilingual, and Domain-Specific Methods for Low-Resource Machine Translation**|Sarubi Thillainathan et.al.|[2503.22582](http://arxiv.org/abs/2503.22582)|null|
