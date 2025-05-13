@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**MAIS: Memory-Attention for Interactive Segmentation**|Mauricio Orbes-Arteaga et.al.|[2505.07511](http://arxiv.org/abs/2505.07511)|null|
 |**2025-05-01**|**Automated segmenta-on of pediatric neuroblastoma on multi-modal MRI: Results of the SPPIN challenge at MICCAI 2023**|M. A. D. Buser et.al.|[2505.00369](http://arxiv.org/abs/2505.00369)|null|
 |**2025-04-25**|**Federated Client-tailored Adapter for Medical Image Segmentation**|Guyue Hu et.al.|[2504.18020](http://arxiv.org/abs/2504.18020)|null|
 |**2025-04-12**|**Multi-Modal Brain Tumor Segmentation via 3D Multi-Scale Self-attention and Cross-attention**|Yonghao Huang et.al.|[2504.09088](http://arxiv.org/abs/2504.09088)|null|
@@ -155,6 +156,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Privacy Risks of Robot Vision: A User Study on Image Modalities and Resolution**|Xuying Huang et.al.|[2505.07766](http://arxiv.org/abs/2505.07766)|null|
+|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
+|**2025-05-11**|**Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution**|Zihang Liu et.al.|[2505.07071](http://arxiv.org/abs/2505.07071)|**[link](https://github.com/liu-zihang/samsr)**|
+|**2025-05-11**|**Depth-Sensitive Soft Suppression with RGB-D Inter-Modal Stylization Flow for Domain Generalization Semantic Segmentation**|Binbin Wei et.al.|[2505.07050](http://arxiv.org/abs/2505.07050)|null|
+|**2025-05-11**|**Technical Report for ICRA 2025 GOOSE 2D Semantic Segmentation Challenge: Leveraging Color Shift Correction, RoPE-Swin Backbone, and Quantile-based Label Denoising Strategy for Robust Outdoor Scene Understanding**|Chih-Chung Hsu et.al.|[2505.06991](http://arxiv.org/abs/2505.06991)|null|
+|**2025-05-11**|**Boosting Cross-spectral Unsupervised Domain Adaptation for Thermal Semantic Segmentation**|Seokjun Kwon et.al.|[2505.06951](http://arxiv.org/abs/2505.06951)|null|
+|**2025-05-10**|**Reducing Unimodal Bias in Multi-Modal Semantic Segmentation with Multi-Scale Functional Entropy Regularization**|Xu Zheng et.al.|[2505.06635](http://arxiv.org/abs/2505.06635)|null|
+|**2025-05-10**|**RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation**|Zhiwen Zeng et.al.|[2505.06515](http://arxiv.org/abs/2505.06515)|null|
 |**2025-05-09**|**Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet**|Kodai Hirata et.al.|[2505.06185](http://arxiv.org/abs/2505.06185)|null|
 |**2025-05-09**|**UncertainSAM: Fast and Efficient Uncertainty Quantification of the Segment Anything Model**|Timo Kaiser et.al.|[2505.05049](http://arxiv.org/abs/2505.05049)|**[link](https://github.com/GreenAutoML4FAS/UncertainSAM)**|
 |**2025-05-08**|**Split Matching for Inductive Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2505.05023](http://arxiv.org/abs/2505.05023)|null|
@@ -1697,6 +1706,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Pre-training vs. Fine-tuning: A Reproducibility Study on Dense Retrieval Knowledge Acquisition**|Zheng Yao et.al.|[2505.07166](http://arxiv.org/abs/2505.07166)|**[link](https://github.com/ielab/denseretriever-knowledge-acquisition)**|
 |**2025-05-02**|**Subset Selection for Fine-Tuning: A Utility-Diversity Balanced Approach for Mathematical Domain Adaptation**|Madhav Kotecha et.al.|[2505.01523](http://arxiv.org/abs/2505.01523)|null|
 |**2025-05-01**|**Fine-Tuning without Performance Degradation**|Han Wang et.al.|[2505.00913](http://arxiv.org/abs/2505.00913)|null|
 |**2025-05-06**|**On the generalization of language models from in-context learning and finetuning: a controlled study**|Andrew K. Lampinen et.al.|[2505.00661](http://arxiv.org/abs/2505.00661)|null|
