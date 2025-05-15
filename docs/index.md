@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -1719,7 +1719,7 @@ layout: default
 |**2025-03-28**|**Beyond Vanilla Fine-Tuning: Leveraging Multistage, Multilingual, and Domain-Specific Methods for Low-Resource Machine Translation**|Sarubi Thillainathan et.al.|[2503.22582](http://arxiv.org/abs/2503.22582)|null|
 |**2025-03-28**|**Penrose Tiled Low-Rank Compression and Section-Wise Q&A Fine-Tuning: A General Framework for Domain-Specific Large Language Model Adaptation**|Chuan-Wei Kuo et.al.|[2503.22074](http://arxiv.org/abs/2503.22074)|null|
 |**2025-03-28**|**Diffusion-4K: Ultra-High-Resolution Image Synthesis with Latent Diffusion Models**|Jinjin Zhang et.al.|[2503.18352](http://arxiv.org/abs/2503.18352)|**[link](https://github.com/zhang0jhon/diffusion-4k)**|
-|**2025-03-19**|**Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**|Gang Li et.al.|[2503.11197](http://arxiv.org/abs/2503.11197)|**[link](https://github.com/xiaomi-research/r1-aqa)**|
+|**2025-05-14**|**Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**|Gang Li et.al.|[2503.11197](http://arxiv.org/abs/2503.11197)|**[link](https://github.com/xiaomi-research/r1-aqa)**|
 |**2025-03-04**|**Normalization through Fine-tuning: Understanding Wav2vec 2.0 Embeddings for Phonetic Analysis**|Yiming Wang et.al.|[2503.04814](http://arxiv.org/abs/2503.04814)|null|
 |**2025-03-06**|**DM-Adapter: Domain-Aware Mixture-of-Adapters for Text-Based Person Retrieval**|Yating Liu et.al.|[2503.04144](http://arxiv.org/abs/2503.04144)|null|
 |**2025-02-09**|**Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation**|Vera Soboleva et.al.|[2502.05895](http://arxiv.org/abs/2502.05895)|**[link](https://github.com/controlgenai/persongensampler)**|
