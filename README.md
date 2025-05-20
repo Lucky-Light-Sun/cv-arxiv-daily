@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-18**|**Mutual Evidential Deep Learning for Medical Image Segmentation**|Yuanpeng He et.al.|[2505.12418](http://arxiv.org/abs/2505.12418)|null|
 |**2025-05-15**|**Data-Agnostic Augmentations for Unknown Variations: Out-of-Distribution Generalisation in MRI Segmentation**|Puru Vaish et.al.|[2505.10223](http://arxiv.org/abs/2505.10223)|**[link](https://github.com/miagrouput/augmentations-for-the-unknown)**|
 |**2025-05-12**|**MAIS: Memory-Attention for Interactive Segmentation**|Mauricio Orbes-Arteaga et.al.|[2505.07511](http://arxiv.org/abs/2505.07511)|null|
 |**2025-05-01**|**Automated segmenta-on of pediatric neuroblastoma on multi-modal MRI: Results of the SPPIN challenge at MICCAI 2023**|M. A. D. Buser et.al.|[2505.00369](http://arxiv.org/abs/2505.00369)|null|
@@ -169,6 +170,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Robust Multimodal Segmentation with Representation Regularization and Hybrid Prototype Distillation**|Jiaqi Tan et.al.|[2505.12861](http://arxiv.org/abs/2505.12861)|**[link](https://github.com/robustseg/robustseg)**|
+|**2025-05-18**|**Temporal-Spectral-Spatial Unified Remote Sensing Dense Prediction**|Sijie Zhao et.al.|[2505.12280](http://arxiv.org/abs/2505.12280)|**[link](https://github.com/walking-shadow/official_tssun)**|
+|**2025-05-17**|**EarthSynth: Generating Informative Earth Observation with Diffusion Models**|Jiancheng Pan et.al.|[2505.12108](http://arxiv.org/abs/2505.12108)|null|
+|**2025-05-17**|**Technical Report for ICRA 2025 GOOSE 2D Semantic Segmentation Challenge: Boosting Off-Road Segmentation via Photometric Distortion and Exponential Moving Average**|Wonjune Kim et.al.|[2505.11769](http://arxiv.org/abs/2505.11769)|null|
+|**2025-05-16**|**DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation**|Ziyu Zhao et.al.|[2505.11676](http://arxiv.org/abs/2505.11676)|null|
 |**2025-05-16**|**Completely Weakly Supervised Class-Incremental Learning for Semantic Segmentation**|David Minkwan Kim et.al.|[2505.10781](http://arxiv.org/abs/2505.10781)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-15**|**TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation**|Manthan Patel et.al.|[2505.10696](http://arxiv.org/abs/2505.10696)|null|
@@ -1732,6 +1738,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**The Effect of Language Diversity When Fine-Tuning Large Language Models for Translation**|David Stap et.al.|[2505.13090](http://arxiv.org/abs/2505.13090)|null|
 |**2025-05-15**|**A Modular Approach for Clinical SLMs Driven by Synthetic Data with Pre-Instruction Tuning, Model Merging, and Clinical-Tasks Alignment**|Jean-Philippe Corbeil et.al.|[2505.10717](http://arxiv.org/abs/2505.10717)|null|
 |**2025-05-12**|**Pre-training vs. Fine-tuning: A Reproducibility Study on Dense Retrieval Knowledge Acquisition**|Zheng Yao et.al.|[2505.07166](http://arxiv.org/abs/2505.07166)|**[link](https://github.com/ielab/denseretriever-knowledge-acquisition)**|
 |**2025-05-02**|**Subset Selection for Fine-Tuning: A Utility-Diversity Balanced Approach for Mathematical Domain Adaptation**|Madhav Kotecha et.al.|[2505.01523](http://arxiv.org/abs/2505.01523)|null|
