@@ -170,6 +170,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**VP Lab: a PEFT-Enabled Visual Prompting Laboratory for Semantic Segmentation**|Niccolo Avogaro et.al.|[2505.15592](http://arxiv.org/abs/2505.15592)|null|
+|**2025-05-21**|**seg_3D_by_PC2D: Multi-View Projection for Domain Generalization and Adaptation in 3D Semantic Segmentation**|Andrew Caunes et.al.|[2505.15545](http://arxiv.org/abs/2505.15545)|**[link](https://github.com/andrewcaunes/ia4markings)**|
+|**2025-05-21**|**Spectral-Aware Global Fusion for RGB-Thermal Semantic Segmentation**|Ce Zhang et.al.|[2505.15491](http://arxiv.org/abs/2505.15491)|null|
+|**2025-05-21**|**From Pixels to Images: Deep Learning Advances in Remote Sensing Image Semantic Segmentation**|Quanwei Liu et.al.|[2505.15147](http://arxiv.org/abs/2505.15147)|null|
+|**2025-05-20**|**Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning**|Amine Elhafsi et.al.|[2505.14938](http://arxiv.org/abs/2505.14938)|null|
+|**2025-05-20**|**LOD1 3D City Model from LiDAR: The Impact of Segmentation Accuracy on Quality of Urban 3D Modeling and Morphology Extraction**|Fatemeh Chajaei et.al.|[2505.14747](http://arxiv.org/abs/2505.14747)|null|
+|**2025-05-19**|**Enhancing Shape Perception and Segmentation Consistency for Industrial Image Inspection**|Guoxuan Mao et.al.|[2505.14718](http://arxiv.org/abs/2505.14718)|null|
 |**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583](http://arxiv.org/abs/2505.14583)|null|
 |**2025-05-20**|**ReservoirTTA: Prolonged Test-time Adaptation for Evolving and Recurring Domains**|Guillaume Vray et.al.|[2505.14511](http://arxiv.org/abs/2505.14511)|null|
 |**2025-05-20**|**Intra-class Patch Swap for Self-Distillation**|Hongjun Choi et.al.|[2505.14124](http://arxiv.org/abs/2505.14124)|**[link](https://github.com/hchoi71/intra-class-patch-swap)**|
@@ -1746,7 +1753,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-19**|**The Effect of Language Diversity When Fine-Tuning Large Language Models for Translation**|David Stap et.al.|[2505.13090](http://arxiv.org/abs/2505.13090)|null|
-|**2025-05-15**|**A Modular Approach for Clinical SLMs Driven by Synthetic Data with Pre-Instruction Tuning, Model Merging, and Clinical-Tasks Alignment**|Jean-Philippe Corbeil et.al.|[2505.10717](http://arxiv.org/abs/2505.10717)|null|
+|**2025-05-21**|**A Modular Approach for Clinical SLMs Driven by Synthetic Data with Pre-Instruction Tuning, Model Merging, and Clinical-Tasks Alignment**|Jean-Philippe Corbeil et.al.|[2505.10717](http://arxiv.org/abs/2505.10717)|null|
 |**2025-05-12**|**Pre-training vs. Fine-tuning: A Reproducibility Study on Dense Retrieval Knowledge Acquisition**|Zheng Yao et.al.|[2505.07166](http://arxiv.org/abs/2505.07166)|**[link](https://github.com/ielab/denseretriever-knowledge-acquisition)**|
 |**2025-05-02**|**Subset Selection for Fine-Tuning: A Utility-Diversity Balanced Approach for Mathematical Domain Adaptation**|Madhav Kotecha et.al.|[2505.01523](http://arxiv.org/abs/2505.01523)|null|
 |**2025-05-01**|**Fine-Tuning without Performance Degradation**|Han Wang et.al.|[2505.00913](http://arxiv.org/abs/2505.00913)|null|
