@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Auto-nnU-Net: Towards Automated Medical Image Segmentation**|Jannis Becktepe et.al.|[2505.16561](http://arxiv.org/abs/2505.16561)|null|
 |**2025-05-18**|**Mutual Evidential Deep Learning for Medical Image Segmentation**|Yuanpeng He et.al.|[2505.12418](http://arxiv.org/abs/2505.12418)|null|
 |**2025-05-15**|**Data-Agnostic Augmentations for Unknown Variations: Out-of-Distribution Generalisation in MRI Segmentation**|Puru Vaish et.al.|[2505.10223](http://arxiv.org/abs/2505.10223)|**[link](https://github.com/miagrouput/augmentations-for-the-unknown)**|
 |**2025-05-12**|**MAIS: Memory-Attention for Interactive Segmentation**|Mauricio Orbes-Arteaga et.al.|[2505.07511](http://arxiv.org/abs/2505.07511)|null|
@@ -159,12 +160,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008](http://arxiv.org/abs/2505.17008)|null|
+|**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974](http://arxiv.org/abs/2505.16974)|null|
+|**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938](http://arxiv.org/abs/2505.16938)|null|
+|**2025-05-22**|**TextureSAM: Towards a Texture Aware Foundation Model for Segmentation**|Inbal Cohen et.al.|[2505.16540](http://arxiv.org/abs/2505.16540)|null|
+|**2025-05-22**|**Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation**|Estelle Chigot et.al.|[2505.16360](http://arxiv.org/abs/2505.16360)|null|
 |**2025-05-21**|**VP Lab: a PEFT-Enabled Visual Prompting Laboratory for Semantic Segmentation**|Niccolo Avogaro et.al.|[2505.15592](http://arxiv.org/abs/2505.15592)|null|
 |**2025-05-21**|**seg_3D_by_PC2D: Multi-View Projection for Domain Generalization and Adaptation in 3D Semantic Segmentation**|Andrew Caunes et.al.|[2505.15545](http://arxiv.org/abs/2505.15545)|**[link](https://github.com/andrewcaunes/ia4markings)**|
 |**2025-05-21**|**Spectral-Aware Global Fusion for RGB-Thermal Semantic Segmentation**|Ce Zhang et.al.|[2505.15491](http://arxiv.org/abs/2505.15491)|null|
 |**2025-05-21**|**From Pixels to Images: Deep Learning Advances in Remote Sensing Image Semantic Segmentation**|Quanwei Liu et.al.|[2505.15147](http://arxiv.org/abs/2505.15147)|null|
 |**2025-05-20**|**Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning**|Amine Elhafsi et.al.|[2505.14938](http://arxiv.org/abs/2505.14938)|null|
-|**2025-05-20**|**LOD1 3D City Model from LiDAR: The Impact of Segmentation Accuracy on Quality of Urban 3D Modeling and Morphology Extraction**|Fatemeh Chajaei et.al.|[2505.14747](http://arxiv.org/abs/2505.14747)|null|
+|**2025-05-20**|**LOD1 3D City Model from LiDAR: The Impact of Segmentation Accuracy on Quality of Urban 3D Modeling and Morphology Extraction**|Fatemeh Chajaei et.al.|[2505.14747](http://arxiv.org/abs/2505.14747)|**[link](https://github.com/FatemehCh97/LiDAR-3D-Building-Modeling)**|
 |**2025-05-19**|**Enhancing Shape Perception and Segmentation Consistency for Industrial Image Inspection**|Guoxuan Mao et.al.|[2505.14718](http://arxiv.org/abs/2505.14718)|null|
 |**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583](http://arxiv.org/abs/2505.14583)|null|
 |**2025-05-20**|**ReservoirTTA: Prolonged Test-time Adaptation for Evolving and Recurring Domains**|Guillaume Vray et.al.|[2505.14511](http://arxiv.org/abs/2505.14511)|null|
