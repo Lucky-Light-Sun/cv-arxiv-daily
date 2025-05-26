@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**FreqU-FNet: Frequency-Aware U-Net for Imbalanced Medical Image Segmentation**|Ruiqi Xing et.al.|[2505.17544](http://arxiv.org/abs/2505.17544)|null|
+|**2025-05-21**|**TAGS: 3D Tumor-Adaptive Guidance for SAM**|Sirui Li et.al.|[2505.17096](http://arxiv.org/abs/2505.17096)|null|
 |**2025-05-22**|**Auto-nnU-Net: Towards Automated Medical Image Segmentation**|Jannis Becktepe et.al.|[2505.16561](http://arxiv.org/abs/2505.16561)|null|
 |**2025-05-18**|**Mutual Evidential Deep Learning for Medical Image Segmentation**|Yuanpeng He et.al.|[2505.12418](http://arxiv.org/abs/2505.12418)|null|
 |**2025-05-15**|**Data-Agnostic Augmentations for Unknown Variations: Out-of-Distribution Generalisation in MRI Segmentation**|Puru Vaish et.al.|[2505.10223](http://arxiv.org/abs/2505.10223)|**[link](https://github.com/miagrouput/augmentations-for-the-unknown)**|
@@ -160,6 +162,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders**|Savya Khosla et.al.|[2505.18153](http://arxiv.org/abs/2505.18153)|null|
+|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|null|
+|**2025-05-23**|**Semantic segmentation with reward**|Xie Ting et.al.|[2505.17905](http://arxiv.org/abs/2505.17905)|null|
+|**2025-05-23**|**Hephaestus Minicubes: A Global, Multi-Modal Dataset for Volcanic Unrest Monitoring**|Nikolas Papadopoulos et.al.|[2505.17782](http://arxiv.org/abs/2505.17782)|null|
 |**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008](http://arxiv.org/abs/2505.17008)|**[link](https://github.com/ltracegeo/deep-mineralogical-segmentation)**|
 |**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974](http://arxiv.org/abs/2505.16974)|**[link](https://github.com/hanzy1996/openseg-r)**|
 |**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938](http://arxiv.org/abs/2505.16938)|null|
