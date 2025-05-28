@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -18,7 +18,7 @@ layout: default
 |**2025-05-24**|**TK-Mamba: Marrying KAN with Mamba for Text-Driven 3D Medical Image Segmentation**|Haoyu Yang et.al.|[2505.18525](http://arxiv.org/abs/2505.18525)|null|
 |**2025-05-23**|**FreqU-FNet: Frequency-Aware U-Net for Imbalanced Medical Image Segmentation**|Ruiqi Xing et.al.|[2505.17544](http://arxiv.org/abs/2505.17544)|null|
 |**2025-05-21**|**TAGS: 3D Tumor-Adaptive Guidance for SAM**|Sirui Li et.al.|[2505.17096](http://arxiv.org/abs/2505.17096)|null|
-|**2025-05-26**|**Auto-nnU-Net: Towards Automated Medical Image Segmentation**|Jannis Becktepe et.al.|[2505.16561](http://arxiv.org/abs/2505.16561)|null|
+|**2025-05-27**|**Auto-nnU-Net: Towards Automated Medical Image Segmentation**|Jannis Becktepe et.al.|[2505.16561](http://arxiv.org/abs/2505.16561)|null|
 |**2025-05-18**|**Mutual Evidential Deep Learning for Medical Image Segmentation**|Yuanpeng He et.al.|[2505.12418](http://arxiv.org/abs/2505.12418)|null|
 |**2025-05-15**|**Data-Agnostic Augmentations for Unknown Variations: Out-of-Distribution Generalisation in MRI Segmentation**|Puru Vaish et.al.|[2505.10223](http://arxiv.org/abs/2505.10223)|**[link](https://github.com/miagrouput/augmentations-for-the-unknown)**|
 |**2025-05-12**|**MAIS: Memory-Attention for Interactive Segmentation**|Mauricio Orbes-Arteaga et.al.|[2505.07511](http://arxiv.org/abs/2505.07511)|null|
