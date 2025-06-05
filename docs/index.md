@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -168,7 +168,7 @@ layout: default
 |**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|null|
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
 |**2025-06-03**|**Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather**|Longyu Yang et.al.|[2506.02396](http://arxiv.org/abs/2506.02396)|null|
-|**2025-06-02**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
+|**2025-06-04**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
 |**2025-06-02**|**SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation**|Rafael Flor-Rodríguez et.al.|[2506.01418](http://arxiv.org/abs/2506.01418)|null|
 |**2025-06-01**|**Perceptual Inductive Bias Is What You Need Before Contrastive Learning**|Tianqin Li et.al.|[2506.01201](http://arxiv.org/abs/2506.01201)|null|
 |**2025-06-01**|**GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning**|Sahiti Yerramilli et.al.|[2506.00785](http://arxiv.org/abs/2506.00785)|null|
