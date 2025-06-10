@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Query Nearby: Offset-Adjusted Mask2Former enhances small-organ segmentation**|Xin Zhang et.al.|[2506.05897](http://arxiv.org/abs/2506.05897)|null|
 |**2025-06-03**|**Hierarchical Self-Prompting SAM: A Prompt-Free Medical Image Segmentation Framework**|Mengmeng Zhang et.al.|[2506.02854](http://arxiv.org/abs/2506.02854)|null|
 |**2025-05-27**|**CDPDNet: Integrating Text Guidance with Hybrid Vision Encoders for Medical Image Segmentation**|Jiong Wu et.al.|[2505.18958](http://arxiv.org/abs/2505.18958)|**[link](https://github.com/wujiong-hub/cdpdnet)**|
 |**2025-05-24**|**TK-Mamba: Marrying KAN with Mamba for Text-Driven 3D Medical Image Segmentation**|Haoyu Yang et.al.|[2505.18525](http://arxiv.org/abs/2505.18525)|**[link](https://github.com/yhy-whu/tk-mamba)**|
@@ -126,7 +127,7 @@
 |**2023-11-17**|**CATS v2: Hybrid encoders for robust medical segmentation**|Hao Li et.al.|[2308.06377](http://arxiv.org/abs/2308.06377)|**[link](https://github.com/haoli12345/cats)**|
 |**2023-08-10**|**From CNN to Transformer: A Review of Medical Image Segmentation Models**|Wenjian Yao et.al.|[2308.05305](http://arxiv.org/abs/2308.05305)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## diffusion model
 
@@ -170,12 +171,15 @@
 |**2021-10-31**|**Role of Thermal and Non-thermal Processes in the ISM of Magellanic Clouds**|H. Hassani et.al.|[2111.00583](http://arxiv.org/abs/2111.00583)|null|
 |**2023-04-14**|**Variational Diffusion Models**|Diederik P. Kingma et.al.|[2107.00630](http://arxiv.org/abs/2107.00630)|**[link](https://github.com/google-research/vdm)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## semantic segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Rethinking Semi-supervised Segmentation Beyond Accuracy: Reliability and Robustness**|Steven Landgraf et.al.|[2506.05917](http://arxiv.org/abs/2506.05917)|null|
+|**2025-06-05**|**FRAME: Pre-Training Video Feature Representations via Anticipation and Memory**|Sethuraman TV et.al.|[2506.05543](http://arxiv.org/abs/2506.05543)|null|
+|**2025-06-05**|**U-NetMN and SegNetMN: Modified U-Net and SegNet models for bimodal SAR image segmentation**|Marwane Kzadri et.al.|[2506.05444](http://arxiv.org/abs/2506.05444)|null|
 |**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009](http://arxiv.org/abs/2506.05009)|null|
 |**2025-06-04**|**You Only Train Once**|Christos Sakaridis et.al.|[2506.04349](http://arxiv.org/abs/2506.04349)|null|
 |**2025-06-04**|**AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives**|Aniruddh Sikdar et.al.|[2506.03709](http://arxiv.org/abs/2506.03709)|null|
@@ -186,7 +190,7 @@
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
 |**2025-06-03**|**Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather**|Longyu Yang et.al.|[2506.02396](http://arxiv.org/abs/2506.02396)|null|
 |**2025-06-04**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
-|**2025-06-02**|**SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation**|Rafael Flor-Rodríguez et.al.|[2506.01418](http://arxiv.org/abs/2506.01418)|null|
+|**2025-06-02**|**SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation**|Rafael Flor-Rodríguez et.al.|[2506.01418](http://arxiv.org/abs/2506.01418)|**[link](https://github.com/gramuah/semnav)**|
 |**2025-06-01**|**Perceptual Inductive Bias Is What You Need Before Contrastive Learning**|Tianqin Li et.al.|[2506.01201](http://arxiv.org/abs/2506.01201)|null|
 |**2025-06-01**|**GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning**|Sahiti Yerramilli et.al.|[2506.00785](http://arxiv.org/abs/2506.00785)|null|
 |**2025-05-31**|**BAGNet: A Boundary-Aware Graph Attention Network for 3D Point Cloud Semantic Segmentation**|Wei Tao et.al.|[2506.00475](http://arxiv.org/abs/2506.00475)|null|
@@ -1806,7 +1810,7 @@
 |**2023-12-05**|**DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control**|Yuru Jia et.al.|[2312.03048](http://arxiv.org/abs/2312.03048)|null|
 |**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593](http://arxiv.org/abs/2312.02593)|**[link](https://github.com/kulunuos/6dapose)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## fine-tune
 
@@ -1885,7 +1889,7 @@
 |**2022-10-17**|**Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks**|Run Wang et.al.|[2210.07809](http://arxiv.org/abs/2210.07809)|**[link](https://github.com/antigonerandy/ptynet)**|
 |**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995](http://arxiv.org/abs/2209.06995)|**[link](https://github.com/yueyu1030/patron)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## diffusion-segmentation
 
@@ -1898,7 +1902,7 @@
 |**2023-07-17**|**Multimodal Diffusion Segmentation Model for Object Segmentation from Manipulation Instructions**|Yui Iioka et.al.|[2307.08597](http://arxiv.org/abs/2307.08597)|null|
 |**2019-02-11**|**Pinned or moving: states of a single shock in a ring**|Parna Roy et.al.|[1902.03897](http://arxiv.org/abs/1902.03897)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

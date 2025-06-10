@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Query Nearby: Offset-Adjusted Mask2Former enhances small-organ segmentation**|Xin Zhang et.al.|[2506.05897](http://arxiv.org/abs/2506.05897)|null|
 |**2025-06-03**|**Hierarchical Self-Prompting SAM: A Prompt-Free Medical Image Segmentation Framework**|Mengmeng Zhang et.al.|[2506.02854](http://arxiv.org/abs/2506.02854)|null|
 |**2025-05-27**|**CDPDNet: Integrating Text Guidance with Hybrid Vision Encoders for Medical Image Segmentation**|Jiong Wu et.al.|[2505.18958](http://arxiv.org/abs/2505.18958)|**[link](https://github.com/wujiong-hub/cdpdnet)**|
 |**2025-05-24**|**TK-Mamba: Marrying KAN with Mamba for Text-Driven 3D Medical Image Segmentation**|Haoyu Yang et.al.|[2505.18525](http://arxiv.org/abs/2505.18525)|**[link](https://github.com/yhy-whu/tk-mamba)**|
@@ -165,6 +166,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Rethinking Semi-supervised Segmentation Beyond Accuracy: Reliability and Robustness**|Steven Landgraf et.al.|[2506.05917](http://arxiv.org/abs/2506.05917)|null|
+|**2025-06-05**|**FRAME: Pre-Training Video Feature Representations via Anticipation and Memory**|Sethuraman TV et.al.|[2506.05543](http://arxiv.org/abs/2506.05543)|null|
+|**2025-06-05**|**U-NetMN and SegNetMN: Modified U-Net and SegNet models for bimodal SAR image segmentation**|Marwane Kzadri et.al.|[2506.05444](http://arxiv.org/abs/2506.05444)|null|
 |**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009](http://arxiv.org/abs/2506.05009)|null|
 |**2025-06-04**|**You Only Train Once**|Christos Sakaridis et.al.|[2506.04349](http://arxiv.org/abs/2506.04349)|null|
 |**2025-06-04**|**AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives**|Aniruddh Sikdar et.al.|[2506.03709](http://arxiv.org/abs/2506.03709)|null|
@@ -175,7 +179,7 @@ layout: default
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
 |**2025-06-03**|**Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather**|Longyu Yang et.al.|[2506.02396](http://arxiv.org/abs/2506.02396)|null|
 |**2025-06-04**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
-|**2025-06-02**|**SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation**|Rafael Flor-Rodríguez et.al.|[2506.01418](http://arxiv.org/abs/2506.01418)|null|
+|**2025-06-02**|**SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation**|Rafael Flor-Rodríguez et.al.|[2506.01418](http://arxiv.org/abs/2506.01418)|**[link](https://github.com/gramuah/semnav)**|
 |**2025-06-01**|**Perceptual Inductive Bias Is What You Need Before Contrastive Learning**|Tianqin Li et.al.|[2506.01201](http://arxiv.org/abs/2506.01201)|null|
 |**2025-06-01**|**GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning**|Sahiti Yerramilli et.al.|[2506.00785](http://arxiv.org/abs/2506.00785)|null|
 |**2025-05-31**|**BAGNet: A Boundary-Aware Graph Attention Network for 3D Point Cloud Semantic Segmentation**|Wei Tao et.al.|[2506.00475](http://arxiv.org/abs/2506.00475)|null|
