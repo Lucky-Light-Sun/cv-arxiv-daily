@@ -70,7 +70,7 @@
 |**2024-10-01**|**Y-CA-Net: A Convolutional Attention Based Network for Volumetric Medical Image Segmentation**|Muhammad Hamza Sharif et.al.|[2410.01003](http://arxiv.org/abs/2410.01003)|null|
 |**2024-09-30**|**Medical Image Segmentation with SAM-generated Annotations**|Iira Häkkinen et.al.|[2409.20253](http://arxiv.org/abs/2409.20253)|null|
 |**2024-09-19**|**Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation**|Zhikai Wei et.al.|[2409.12522](http://arxiv.org/abs/2409.12522)|**[link](https://github.com/wkklavis/dapsam)**|
-|**2024-09-16**|**Learning Semi-Supervised Medical Image Segmentation from Spatial Registration**|Qianying Liu et.al.|[2409.10422](http://arxiv.org/abs/2409.10422)|null|
+|**2024-09-16**|**Learning Semi-Supervised Medical Image Segmentation from Spatial Registration**|Qianying Liu et.al.|[2409.10422](http://arxiv.org/abs/2409.10422)|**[link](https://github.com/kathyliu579/contrastivecross-teachingwithregistration)**|
 |**2024-09-17**|**Fuse4Seg: Image-Level Fusion Based Multi-Modality Medical Image Segmentation**|Yuchen Guo et.al.|[2409.10328](http://arxiv.org/abs/2409.10328)|null|
 |**2024-11-25**|**RevSAM2: Prompt SAM2 for Medical Image Segmentation via Reverse-Propagation without Fine-tuning**|Yunhao Bai et.al.|[2409.04298](http://arxiv.org/abs/2409.04298)|**[link](https://github.com/deepmed-lab-ecnu/fs_medsam2)**|
 |**2024-09-02**|**MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM**|Nan Zhou et.al.|[2409.00924](http://arxiv.org/abs/2409.00924)|null|
@@ -193,9 +193,9 @@
 |**2025-06-10**|**ATAS: Any-to-Any Self-Distillation for Enhanced Open-Vocabulary Dense Prediction**|Juan Yeo et.al.|[2506.08678](http://arxiv.org/abs/2506.08678)|null|
 |**2025-06-10**|**ECMNet:Lightweight Semantic Segmentation with Efficient CNN-Mamba Network**|Feixiang Du et.al.|[2506.08629](http://arxiv.org/abs/2506.08629)|null|
 |**2025-06-11**|**IGraSS: Learning to Identify Infrastructure Networks from Satellite Imagery by Iterative Graph-constrained Semantic Segmentation**|Oishee Bintey Hoque et.al.|[2506.08137](http://arxiv.org/abs/2506.08137)|null|
-|**2025-06-09**|**LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds**|Zihui Zhang et.al.|[2506.07857](http://arxiv.org/abs/2506.07857)|null|
+|**2025-06-09**|**LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds**|Zihui Zhang et.al.|[2506.07857](http://arxiv.org/abs/2506.07857)|**[link](https://github.com/vlar-group/logosp)**|
 |**2025-06-09**|**F2Net: A Frequency-Fused Network for Ultra-High Resolution Remote Sensing Segmentation**|Hengzhi Chen et.al.|[2506.07847](http://arxiv.org/abs/2506.07847)|null|
-|**2025-06-09**|**Trend-Aware Fashion Recommendation with Visual Segmentation and Semantic Similarity**|Mohamed Djilani et.al.|[2506.07773](http://arxiv.org/abs/2506.07773)|null|
+|**2025-06-09**|**Trend-Aware Fashion Recommendation with Visual Segmentation and Semantic Similarity**|Mohamed Djilani et.al.|[2506.07773](http://arxiv.org/abs/2506.07773)|**[link](https://github.com/meddjilani/fashionrecommender)**|
 |**2025-06-09**|**Multiple Object Stitching for Unsupervised Representation Learning**|Chengchao Shen et.al.|[2506.07364](http://arxiv.org/abs/2506.07364)|**[link](https://github.com/visresearch/MultipleObjectStitching)**|
 |**2025-06-08**|**BRIGHT+: Upgrading the BRIGHT Benchmark with MARCUS, a Multi-Agent RAG Clean-Up Suite**|Liyang Chen et.al.|[2506.07116](http://arxiv.org/abs/2506.07116)|null|
 |**2025-06-08**|**Technical Report for ICRA 2025 GOOSE 3D Semantic Segmentation Challenge: Adaptive Point Cloud Understanding for Heterogeneous Robotic Systems**|Xiaoya Zhang et.al.|[2506.06995](http://arxiv.org/abs/2506.06995)|null|
@@ -221,9 +221,9 @@
 |**2025-06-01**|**GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning**|Sahiti Yerramilli et.al.|[2506.00785](http://arxiv.org/abs/2506.00785)|null|
 |**2025-05-31**|**BAGNet: A Boundary-Aware Graph Attention Network for 3D Point Cloud Semantic Segmentation**|Wei Tao et.al.|[2506.00475](http://arxiv.org/abs/2506.00475)|null|
 |**2025-05-30**|**Bi-Manual Joint Camera Calibration and Scene Representation**|Haozhan Tang et.al.|[2505.24819](http://arxiv.org/abs/2505.24819)|null|
-|**2025-06-02**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634](http://arxiv.org/abs/2505.24634)|null|
-|**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[2505.24361](http://arxiv.org/abs/2505.24361)|null|
-|**2025-05-30**|**Weakly-Supervised Affordance Grounding Guided by Part-Level Semantic Priors**|Peiran Xu et.al.|[2505.24103](http://arxiv.org/abs/2505.24103)|null|
+|**2025-06-02**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634](http://arxiv.org/abs/2505.24634)|**[link](https://github.com/alanwxz/nuc-net)**|
+|**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[2505.24361](http://arxiv.org/abs/2505.24361)|**[link](https://github.com/rogerferrod/crodino-kd)**|
+|**2025-05-30**|**Weakly-Supervised Affordance Grounding Guided by Part-Level Semantic Priors**|Peiran Xu et.al.|[2505.24103](http://arxiv.org/abs/2505.24103)|**[link](https://github.com/woyut/wsag-plsp)**|
 |**2025-05-29**|**MaskAdapt: Unsupervised Geometry-Aware Domain Adaptation Using Multimodal Contextual Learning and RGB-Depth Masking**|Numair Nadeem et.al.|[2505.24026](http://arxiv.org/abs/2505.24026)|null|
 |**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|**[link](https://github.com/CrashedBboy/SGGIC)**|
 |**2025-05-29**|**TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models**|Yao Xiao et.al.|[2505.23769](http://arxiv.org/abs/2505.23769)|**[link](https://github.com/avaxiao/TextRegion)**|
@@ -531,7 +531,7 @@
 |**2025-02-21**|**DOEI: Dual Optimization of Embedding Information for Attention-Enhanced Class Activation Maps**|Hongjie Zhu et.al.|[2502.15885](http://arxiv.org/abs/2502.15885)|**[link](https://github.com/AIGeeksGroup/DOEI)**|
 |**2025-02-21**|**Aligning Task- and Reconstruction-Oriented Communications for Edge Intelligence**|Yufeng Diao et.al.|[2502.15472](http://arxiv.org/abs/2502.15472)|null|
 |**2025-02-24**|**DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation**|Luzhou Ge et.al.|[2502.15309](http://arxiv.org/abs/2502.15309)|**[link](https://github.com/geluzhou/dynamic-gsg)**|
-|**2025-02-21**|**Confidence-Weighted Boundary-Aware Learning for Semi-Supervised Semantic Segmentation**|Ebenezer Tarubinga et.al.|[2502.15152](http://arxiv.org/abs/2502.15152)|null|
+|**2025-02-21**|**Confidence-Weighted Boundary-Aware Learning for Semi-Supervised Semantic Segmentation**|Ebenezer Tarubinga et.al.|[2502.15152](http://arxiv.org/abs/2502.15152)|**[link](https://github.com/psychofict/CW-BASS)**|
 |**2025-02-20**|**RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**|Henrique Piñeiro Monteagudo et.al.|[2502.14792](http://arxiv.org/abs/2502.14792)|null|
 |**2025-02-20**|**Multi-dataset synergistic in supervised learning to pre-label structural components in point clouds from shell construction scenes**|Lukas Rauch et.al.|[2502.14721](http://arxiv.org/abs/2502.14721)|null|
 |**2025-02-20**|**Reliable Explainability of Deep Learning Spatial-Spectral Classifiers for Improved Semantic Segmentation in Autonomous Driving**|Jon Gutiérrez-Zaballa et.al.|[2502.14416](http://arxiv.org/abs/2502.14416)|null|
