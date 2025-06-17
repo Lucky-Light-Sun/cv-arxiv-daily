@@ -166,6 +166,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**A Comprehensive Survey on Video Scene Parsing:Advances, Challenges, and Prospects**|Guohuan Xie et.al.|[2506.13552](http://arxiv.org/abs/2506.13552)|null|
+|**2025-06-16**|**Open-Set LiDAR Panoptic Segmentation Guided by Uncertainty-Aware Learning**|Rohit Mohan et.al.|[2506.13265](http://arxiv.org/abs/2506.13265)|null|
+|**2025-06-16**|**ViewPCL: a point cloud based active learning method for multi-view segmentation**|Christian Hilaire et.al.|[2506.13043](http://arxiv.org/abs/2506.13043)|null|
+|**2025-06-15**|**A large-scale, physically-based synthetic dataset for satellite pose estimation**|Szabolcs Velkei et.al.|[2506.12782](http://arxiv.org/abs/2506.12782)|null|
+|**2025-06-15**|**Unleashing Diffusion and State Space Models for Medical Image Segmentation**|Rong Wu et.al.|[2506.12747](http://arxiv.org/abs/2506.12747)|null|
+|**2025-06-15**|**Combining Self-attention and Dilation Convolutional for Semantic Segmentation of Coal Maceral Groups**|Zhenghao Xi et.al.|[2506.12712](http://arxiv.org/abs/2506.12712)|null|
 |**2025-06-13**|**A $^2$ LC: Active and Automated Label Correction for Semantic Segmentation**|Youjin Jeon et.al.|[2506.11599](http://arxiv.org/abs/2506.11599)|null|
 |**2025-06-12**|**GynSurg: A Comprehensive Gynecology Laparoscopic Surgery Dataset**|Sahar Nasirihaghighi et.al.|[2506.11356](http://arxiv.org/abs/2506.11356)|null|
 |**2025-06-11**|**FARCLUSS: Fuzzy Adaptive Rebalancing and Contrastive Uncertainty Learning for Semi-Supervised Semantic Segmentation**|Ebenezer Tarubinga et.al.|[2506.11142](http://arxiv.org/abs/2506.11142)|**[link](https://github.com/psychofict/FARCLUSS)**|
