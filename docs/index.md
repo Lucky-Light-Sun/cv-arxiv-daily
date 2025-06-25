@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-20**|**Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation**|Qing Xu et.al.|[2506.17159](http://arxiv.org/abs/2506.17159)|null|
+|**2025-06-20**|**Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation**|Qing Xu et.al.|[2506.17159](http://arxiv.org/abs/2506.17159)|**[link](https://github.com/xq141839/co-seg-plus)**|
 |**2025-06-19**|**Spatially-Aware Evaluation of Segmentation Uncertainty**|Tal Zeevi et.al.|[2506.16589](http://arxiv.org/abs/2506.16589)|null|
 |**2025-06-17**|**Pixel-wise Modulated Dice Loss for Medical Image Segmentation**|Seyed Mohsen Hosseini et.al.|[2506.15744](http://arxiv.org/abs/2506.15744)|null|
 |**2025-06-06**|**Query Nearby: Offset-Adjusted Mask2Former enhances small-organ segmentation**|Xin Zhang et.al.|[2506.05897](http://arxiv.org/abs/2506.05897)|null|
@@ -177,10 +177,10 @@ layout: default
 |**2025-06-19**|**Structured Semantic 3D Reconstruction (S23DR) Challenge 2025 -- Winning solution**|Jan Skvrna et.al.|[2506.16421](http://arxiv.org/abs/2506.16421)|null|
 |**2025-06-19**|**LBMamba: Locally Bi-directional Mamba**|Jingwei Zhang et.al.|[2506.15976](http://arxiv.org/abs/2506.15976)|null|
 |**2025-06-19**|**Heterogeneous-Modal Unsupervised Domain Adaptation via Latent Space Bridging**|Jiawen Yang et.al.|[2506.15971](http://arxiv.org/abs/2506.15971)|null|
-|**2025-06-19**|**Polyline Path Masked Attention for Vision Transformer**|Zhongchen Zhao et.al.|[2506.15940](http://arxiv.org/abs/2506.15940)|null|
+|**2025-06-19**|**Polyline Path Masked Attention for Vision Transformer**|Zhongchen Zhao et.al.|[2506.15940](http://arxiv.org/abs/2506.15940)|**[link](https://github.com/zhongchenzhao/ppma)**|
 |**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[2506.15313](http://arxiv.org/abs/2506.15313)|**[link](https://github.com/livanoff/mapfm)**|
 |**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160](http://arxiv.org/abs/2506.15160)|**[link](https://github.com/agent9717/pointdistribution)**|
-|**2025-06-17**|**Scaling-Up the Pretraining of the Earth Observation Foundation Model PhilEO to the MajorTOM Dataset**|Nikolaos Dionelis et.al.|[2506.14765](http://arxiv.org/abs/2506.14765)|null|
+|**2025-06-17**|**Scaling-Up the Pretraining of the Earth Observation Foundation Model PhilEO to the MajorTOM Dataset**|Nikolaos Dionelis et.al.|[2506.14765](http://arxiv.org/abs/2506.14765)|**[link](https://github.com/ESA-PhiLab/PhilEO-MajorTOM)**|
 |**2025-06-17**|**VisLanding: Monocular 3D Perception for UAV Safe Landing via Depth-Normal Synergy**|Zhuoyue Tan et.al.|[2506.14525](http://arxiv.org/abs/2506.14525)|null|
 |**2025-06-17**|**DepthSeg: Depth prompting in remote sensing semantic segmentation**|Ning Zhou et.al.|[2506.14382](http://arxiv.org/abs/2506.14382)|null|
 |**2025-06-16**|**HierVL: Semi-Supervised Segmentation leveraging Hierarchical Vision-Language Synergy with Dynamic Text-Spatial Query Alignment**|Numair Nadeem et.al.|[2506.13925](http://arxiv.org/abs/2506.13925)|null|
