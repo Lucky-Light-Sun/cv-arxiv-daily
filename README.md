@@ -180,6 +180,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**|Tobias J. Riedlinger et.al.|[2506.21486](http://arxiv.org/abs/2506.21486)|null|
+|**2025-06-26**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233](http://arxiv.org/abs/2506.21233)|null|
+|**2025-06-26**|**Performance improvement of spatial semantic segmentation with enriched audio features and agent-based error correction for DCASE 2025 Challenge Task 4**|Jongyeon Park et.al.|[2506.21174](http://arxiv.org/abs/2506.21174)|null|
+|**2025-06-26**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034](http://arxiv.org/abs/2506.21034)|null|
+|**2025-06-26**|**TSDASeg: A Two-Stage Model with Direct Alignment for Interactive Point Cloud Segmentation**|Chade Li et.al.|[2506.20991](http://arxiv.org/abs/2506.20991)|null|
+|**2025-06-26**|**Segment Anything in Pathology Images with Natural Language**|Zhixuan Chen et.al.|[2506.20988](http://arxiv.org/abs/2506.20988)|null|
+|**2025-06-25**|**U-R-VEDA: Integrating UNET, Residual Links, Edge and Dual Attention, and Vision Transformer for Accurate Semantic Segmentation of CMRs**|Racheal Mukisa et.al.|[2506.20689](http://arxiv.org/abs/2506.20689)|null|
+|**2025-06-25**|**Building Lightweight Semantic Segmentation Models for Aerial Images Using Dual Relation Distillation**|Minglong Li et.al.|[2506.20688](http://arxiv.org/abs/2506.20688)|null|
 |**2025-06-25**|**A Deep Learning Approach to Identify Rock Bolts in Complex 3D Point Clouds of Underground Mines Captured Using Mobile Laser Scanners**|Dibyayan Patra et.al.|[2506.20464](http://arxiv.org/abs/2506.20464)|null|
 |**2025-06-26**|**Towards Scalable and Generalizable Earth Observation Data Mining via Foundation Model Composition**|Man Duc Chuc et.al.|[2506.20174](http://arxiv.org/abs/2506.20174)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
