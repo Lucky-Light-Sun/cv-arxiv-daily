@@ -14,10 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-04**|**SAMed-2: Selective Memory Enhanced Medical Segment Anything Model**|Zhiling Yan et.al.|[2507.03698](http://arxiv.org/abs/2507.03698)|null|
 |**2025-07-01**|**MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis**|Jianhao Xie et.al.|[2507.00377](http://arxiv.org/abs/2507.00377)|null|
 |**2025-06-30**|**ShapeKit**|Junqi Liu et.al.|[2506.24003](http://arxiv.org/abs/2506.24003)|null|
 |**2025-06-30**|**MedSAM-CA: A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation**|Peiting Tian et.al.|[2506.23700](http://arxiv.org/abs/2506.23700)|null|
-|**2025-06-29**|**CRISP-SAM2: SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation**|Xinlei Yu et.al.|[2506.23121](http://arxiv.org/abs/2506.23121)|null|
+|**2025-07-06**|**CRISP-SAM2: SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation**|Xinlei Yu et.al.|[2506.23121](http://arxiv.org/abs/2506.23121)|null|
 |**2025-06-27**|**FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation**|Vasilis Siomos et.al.|[2506.22580](http://arxiv.org/abs/2506.22580)|null|
 |**2025-06-20**|**Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation**|Qing Xu et.al.|[2506.17159](http://arxiv.org/abs/2506.17159)|**[link](https://github.com/xq141839/co-seg-plus)**|
 |**2025-06-19**|**Spatially-Aware Evaluation of Segmentation Uncertainty**|Tal Zeevi et.al.|[2506.16589](http://arxiv.org/abs/2506.16589)|null|
@@ -174,6 +175,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260](http://arxiv.org/abs/2507.05260)|null|
+|**2025-07-07**|**MOSU: Autonomous Long-range Robot Navigation with Multi-modal Scene Understanding**|Jing Liang et.al.|[2507.04686](http://arxiv.org/abs/2507.04686)|null|
+|**2025-07-06**|**Street design and driving behavior: evidence from a large-scale study in Milan, Amsterdam, and Dubai**|Giacomo Orsi et.al.|[2507.04434](http://arxiv.org/abs/2507.04434)|null|
+|**2025-07-06**|**CLIP-RL: Surgical Scene Segmentation Using Contrastive Language-Vision Pretraining & Reinforcement Learning**|Fatmaelzahraa Ali Ahmed et.al.|[2507.04317](http://arxiv.org/abs/2507.04317)|null|
+|**2025-07-06**|**Surg-SegFormer: A Dual Transformer-Based Model for Holistic Surgical Scene Segmentation**|Fatimaelzahraa Ahmed et.al.|[2507.04304](http://arxiv.org/abs/2507.04304)|null|
+|**2025-07-05**|**Differentiable High-Performance Ray Tracing-Based Simulation of Radio Propagation with Point Clouds**|Niklas Vaara et.al.|[2507.04021](http://arxiv.org/abs/2507.04021)|null|
+|**2025-07-05**|**NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models**|Siyu Li et.al.|[2507.04002](http://arxiv.org/abs/2507.04002)|null|
+|**2025-07-05**|**CoT-Segmenter: Enhancing OOD Detection in Dense Road Scenes via Chain-of-Thought Reasoning**|Jeonghyo Song et.al.|[2507.03984](http://arxiv.org/abs/2507.03984)|null|
+|**2025-07-04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|Hebei Li et.al.|[2507.03765](http://arxiv.org/abs/2507.03765)|null|
+|**2025-07-04**|**Leveraging Out-of-Distribution Unlabeled Images: Semi-Supervised Semantic Segmentation with an Open-Vocabulary Model**|Wooseok Shin et.al.|[2507.03302](http://arxiv.org/abs/2507.03302)|null|
 |**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813](http://arxiv.org/abs/2507.02813)|null|
 |**2025-07-03**|**From Pixels to Damage Severity: Estimating Earthquake Impacts Using Semantic Segmentation of Social Media Images**|Danrong Zhang et.al.|[2507.02781](http://arxiv.org/abs/2507.02781)|null|
 |**2025-07-03**|**MedFormer: Hierarchical Medical Vision Transformer with Content-Aware Dual Sparse Selection Attention**|Zunhui Xia et.al.|[2507.02488](http://arxiv.org/abs/2507.02488)|null|
