@@ -187,6 +187,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Know Your Attention Maps: Class-specific Token Masking for Weakly Supervised Semantic Segmentation**|Joelle Hanna et.al.|[2507.06848](http://arxiv.org/abs/2507.06848)|null|
+|**2025-07-09**|**Ambiguity-aware Point Cloud Segmentation by Adaptive Margin Contrastive Learning**|Yang Chen et.al.|[2507.06592](http://arxiv.org/abs/2507.06592)|null|
 |**2025-07-08**|**FineGrasp: Towards Robust Grasping for Delicate Objects**|Yun Du et.al.|[2507.05978](http://arxiv.org/abs/2507.05978)|null|
 |**2025-07-08**|**I $^2$ R: Inter and Intra-image Refinement in Few Shot Segmentation**|Ourui Fu et.al.|[2507.05838](http://arxiv.org/abs/2507.05838)|null|
 |**2025-07-09**|**Empowering Bridge Digital Twins by Bridging the Data Gap with a Unified Synthesis Framework**|Wang Wang et.al.|[2507.05814](http://arxiv.org/abs/2507.05814)|null|
