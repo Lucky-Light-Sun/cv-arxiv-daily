@@ -187,6 +187,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Image Translation with Kernel Prediction Networks for Semantic Segmentation**|Cristina Mata et.al.|[2507.08554](http://arxiv.org/abs/2507.08554)|null|
+|**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380](http://arxiv.org/abs/2507.08380)|null|
+|**2025-07-08**|**3D forest semantic segmentation using multispectral LiDAR and 3D deep learning**|Narges Takhtkeshha et.al.|[2507.08025](http://arxiv.org/abs/2507.08025)|null|
 |**2025-07-10**|**Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation**|Chunyan Wang et.al.|[2507.07578](http://arxiv.org/abs/2507.07578)|null|
 |**2025-07-08**|**CoPT: Unsupervised Domain Adaptive Segmentation using Domain-Agnostic Text Embeddings**|Cristina Mata et.al.|[2507.07125](http://arxiv.org/abs/2507.07125)|null|
 |**2025-07-09**|**Know Your Attention Maps: Class-specific Token Masking for Weakly Supervised Semantic Segmentation**|Joelle Hanna et.al.|[2507.06848](http://arxiv.org/abs/2507.06848)|null|
