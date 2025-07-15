@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
@@ -19,7 +19,7 @@ layout: default
 |**2025-07-01**|**MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis**|Jianhao Xie et.al.|[2507.00377](http://arxiv.org/abs/2507.00377)|null|
 |**2025-06-30**|**ShapeKit**|Junqi Liu et.al.|[2506.24003](http://arxiv.org/abs/2506.24003)|null|
 |**2025-06-30**|**MedSAM-CA: A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation**|Peiting Tian et.al.|[2506.23700](http://arxiv.org/abs/2506.23700)|null|
-|**2025-07-06**|**CRISP-SAM2: SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation**|Xinlei Yu et.al.|[2506.23121](http://arxiv.org/abs/2506.23121)|null|
+|**2025-07-14**|**CRISP-SAM2: SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation**|Xinlei Yu et.al.|[2506.23121](http://arxiv.org/abs/2506.23121)|null|
 |**2025-06-27**|**FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation**|Vasilis Siomos et.al.|[2506.22580](http://arxiv.org/abs/2506.22580)|null|
 |**2025-06-20**|**Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation**|Qing Xu et.al.|[2506.17159](http://arxiv.org/abs/2506.17159)|**[link](https://github.com/xq141839/co-seg-plus)**|
 |**2025-06-19**|**Spatially-Aware Evaluation of Segmentation Uncertainty**|Tal Zeevi et.al.|[2506.16589](http://arxiv.org/abs/2506.16589)|null|
