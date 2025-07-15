@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-12**|**Calibrated and Robust Foundation Models for Vision-Language and Medical Image Tasks Under Distribution Shift**|Behraj Khan et.al.|[2507.09222](http://arxiv.org/abs/2507.09222)|null|
 |**2025-07-07**|**Dual-Attention U-Net++ with Class-Specific Ensembles and Bayesian Hyperparameter Optimization for Precise Wound and Scale Marker Segmentation**|Daniel Cieślak et.al.|[2507.05314](http://arxiv.org/abs/2507.05314)|null|
 |**2025-07-04**|**SAMed-2: Selective Memory Enhanced Medical Segment Anything Model**|Zhiling Yan et.al.|[2507.03698](http://arxiv.org/abs/2507.03698)|null|
 |**2025-07-01**|**MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis**|Jianhao Xie et.al.|[2507.00377](http://arxiv.org/abs/2507.00377)|null|
@@ -187,6 +188,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**FGSSNet: Feature-Guided Semantic Segmentation of Real World Floorplans**|Hugo Norrby et.al.|[2507.10343](http://arxiv.org/abs/2507.10343)|null|
+|**2025-07-14**|**Transferring Styles for Reduced Texture Bias and Improved Robustness in Semantic Segmentation Networks**|Ben Hamscher et.al.|[2507.10239](http://arxiv.org/abs/2507.10239)|null|
+|**2025-07-14**|**Spatial Lifting for Dense Prediction**|Mingzhi Xu et.al.|[2507.10222](http://arxiv.org/abs/2507.10222)|null|
+|**2025-07-14**|**DEARLi: Decoupled Enhancement of Recognition and Localization for Semi-supervised Panoptic Segmentation**|Ivan Martinović et.al.|[2507.10118](http://arxiv.org/abs/2507.10118)|null|
+|**2025-07-11**|**Multimodal HD Mapping for Intersections by Intelligent Roadside Units**|Zhongzhang Chen et.al.|[2507.08903](http://arxiv.org/abs/2507.08903)|null|
 |**2025-07-11**|**Image Translation with Kernel Prediction Networks for Semantic Segmentation**|Cristina Mata et.al.|[2507.08554](http://arxiv.org/abs/2507.08554)|null|
 |**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380](http://arxiv.org/abs/2507.08380)|null|
 |**2025-07-08**|**3D forest semantic segmentation using multispectral LiDAR and 3D deep learning**|Narges Takhtkeshha et.al.|[2507.08025](http://arxiv.org/abs/2507.08025)|null|
@@ -1937,6 +1943,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-13**|**Your Pretrained Model Tells the Difficulty Itself: A Self-Adaptive Curriculum Learning Paradigm for Natural Language Understanding**|Qi Feng et.al.|[2507.09758](http://arxiv.org/abs/2507.09758)|null|
 |**2025-06-09**|**Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models**|Kyeonghyun Kim et.al.|[2506.07424](http://arxiv.org/abs/2506.07424)|null|
 |**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346](http://arxiv.org/abs/2506.05346)|null|
 |**2025-06-05**|**Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**|Yifan Sun et.al.|[2506.05316](http://arxiv.org/abs/2506.05316)|null|
