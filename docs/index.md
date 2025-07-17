@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## medical segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-15**|**Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation**|Shuchang Ye et.al.|[2507.11055](http://arxiv.org/abs/2507.11055)|null|
+|**2025-07-16**|**Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation**|Shuchang Ye et.al.|[2507.11055](http://arxiv.org/abs/2507.11055)|null|
 |**2025-07-12**|**Calibrated and Robust Foundation Models for Vision-Language and Medical Image Tasks Under Distribution Shift**|Behraj Khan et.al.|[2507.09222](http://arxiv.org/abs/2507.09222)|null|
 |**2025-07-07**|**Dual-Attention U-Net++ with Class-Specific Ensembles and Bayesian Hyperparameter Optimization for Precise Wound and Scale Marker Segmentation**|Daniel Cieślak et.al.|[2507.05314](http://arxiv.org/abs/2507.05314)|null|
 |**2025-07-04**|**SAMed-2: Selective Memory Enhanced Medical Segment Anything Model**|Zhiling Yan et.al.|[2507.03698](http://arxiv.org/abs/2507.03698)|null|
