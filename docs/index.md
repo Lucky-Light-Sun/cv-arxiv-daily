@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Out-of-distribution data supervision towards biomedical semantic segmentation**|Yiquan Gao et.al.|[2507.12105](http://arxiv.org/abs/2507.12105)|null|
 |**2025-07-16**|**Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation**|Shuchang Ye et.al.|[2507.11055](http://arxiv.org/abs/2507.11055)|null|
 |**2025-07-12**|**Calibrated and Robust Foundation Models for Vision-Language and Medical Image Tasks Under Distribution Shift**|Behraj Khan et.al.|[2507.09222](http://arxiv.org/abs/2507.09222)|null|
 |**2025-07-07**|**Dual-Attention U-Net++ with Class-Specific Ensembles and Bayesian Hyperparameter Optimization for Precise Wound and Scale Marker Segmentation**|Daniel Cieślak et.al.|[2507.05314](http://arxiv.org/abs/2507.05314)|null|
@@ -178,6 +179,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Frequency-Dynamic Attention Modulation for Dense Prediction**|Linwei Chen et.al.|[2507.12006](http://arxiv.org/abs/2507.12006)|null|
+|**2025-07-16**|**SAMST: A Transformer framework based on SAM pseudo label filtering for remote sensing semi-supervised semantic segmentation**|Jun Yin et.al.|[2507.11994](http://arxiv.org/abs/2507.11994)|null|
+|**2025-07-16**|**Prototypical Progressive Alignment and Reweighting for Generalizable Semantic Segmentation**|Yuhang Zhang et.al.|[2507.11955](http://arxiv.org/abs/2507.11955)|null|
+|**2025-07-16**|**Spatial Frequency Modulation for Semantic Segmentation**|Linwei Chen et.al.|[2507.11893](http://arxiv.org/abs/2507.11893)|null|
+|**2025-07-15**|**SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics**|Suyuan Zhao et.al.|[2507.11588](http://arxiv.org/abs/2507.11588)|null|
 |**2025-07-15**|**Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation**|Sunghyun Park et.al.|[2507.11030](http://arxiv.org/abs/2507.11030)|null|
 |**2025-07-15**|**Graph Aggregation Prototype Learning for Semantic Change Detection in Remote Sensing**|Zhengyi Xu et.al.|[2507.10938](http://arxiv.org/abs/2507.10938)|null|
 |**2025-07-14**|**Static or Temporal? Semantic Scene Simplification to Aid Wayfinding in Immersive Simulations of Bionic Vision**|Justin M. Kasowski et.al.|[2507.10813](http://arxiv.org/abs/2507.10813)|null|
