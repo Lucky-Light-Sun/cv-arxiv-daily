@@ -179,6 +179,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Exploring Spatial Diversity for Region-based Active Learning**|Lile Cai et.al.|[2507.17367](http://arxiv.org/abs/2507.17367)|null|
+|**2025-07-23**|**Exploring Active Learning for Semiconductor Defect Segmentation**|Lile Cai et.al.|[2507.17359](http://arxiv.org/abs/2507.17359)|null|
+|**2025-07-23**|**Swin-TUNA : A Novel PEFT Approach for Accurate Food Image Segmentation**|Haotian Chen et.al.|[2507.17347](http://arxiv.org/abs/2507.17347)|null|
+|**2025-07-23**|**On Temporal Guidance and Iterative Refinement in Audio Source Separation**|Tobias Morocutti et.al.|[2507.17297](http://arxiv.org/abs/2507.17297)|null|
+|**2025-07-21**|**A tissue and cell-level annotated H&E and PD-L1 histopathology image dataset in non-small cell lung cancer**|Joey Spronck et.al.|[2507.16855](http://arxiv.org/abs/2507.16855)|null|
 |**2025-07-22**|**MultiTaskDeltaNet: Change Detection-based Image Segmentation for Operando ETEM with Application to Carbon Gasification Kinetics**|Yushuo Niu et.al.|[2507.16803](http://arxiv.org/abs/2507.16803)|null|
 |**2025-07-22**|**A2Mamba: Attention-augmented State Space Models for Visual Recognition**|Meng Lou et.al.|[2507.16624](http://arxiv.org/abs/2507.16624)|null|
 |**2025-07-22**|**Semantic Segmentation for Preoperative Planning in Transcatheter Aortic Valve Replacement**|Cedric Zöllner et.al.|[2507.16573](http://arxiv.org/abs/2507.16573)|null|
